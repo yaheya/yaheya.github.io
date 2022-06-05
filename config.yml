@@ -1,0 +1,12 @@
+baseURL: ""
+languageCode: en-us
+title: Pulse
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url:  /categories/
+      weight: 10
+
