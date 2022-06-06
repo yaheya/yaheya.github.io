@@ -3,6 +3,26 @@ languageCode: en-us
 title: Pulse
 theme: PaperMod
 
+params:
+  homeInforParams:
+    Title: "Hello Stranger"
+    Content: "Welcome to my site!"
+  socialIcons:
+    - name: facebook
+      url:  "https://facebook.com"
+
+
+  cover:
+    linkFullImages: true
+
+ShowBreadCrumbs: true
+
+ShowReadingTime: true
+
+ShowShareButtons: true
+
+ShowPostNavLinks: true
+
 menu:
   main:
     - identifier: categories

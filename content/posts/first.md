@@ -5,6 +5,6 @@ draft: false
 tags: ["html", "css"]
 categories: ["tech"]
 ---
+# Hello World
 
-# This is a headine one
-Running on Azure!!
+## Running in Azure!
