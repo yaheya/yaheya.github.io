@@ -7,4 +7,4 @@ categories: ["tech"]
 ---
 
 # This is a headine one
-Hello world
+Running on Azure!!
