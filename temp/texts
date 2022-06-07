@@ -1,0 +1,60 @@
+Welcome to Pulse! As our heartbeat (pulse) Software Engineering is keep beating every day with progress. What a great time to be alive. Progress in this field (Software Engineering) has been fascinating, to say the least. 
+
+This is my personal space. The focus of this site is to publish a variety of miscellaneous items that I hope visitors find interesting or useful. As I come across interesting stuff, I'll post my reflections here. What qualifies as "interesting" for me? Well, that's a pretty broad range of topics! First and foremost, I'm always interested in improving efficiency and expanding services through better utilization of technology. This is a journey, not a destination. As we implement new technologies, I'll share our successes (or failures) here.
+
+Another topic might be if I run into a technical problem, and then find a nice solution for it. I might learn about an application or piece of hardware that offers helpful features. Maybe there's an upcoming tech-related event that's of interest. I also might come across a good magazine article. The only thing for sure is that no matter what I write about, it will be related to technology in one way or another.
+
+Anyway, feel free to wander. If you so desire, do not hesitate to contact me. Needless to say, anything I post in this site is my personal opinion and not that of my employer.
+
+
+
+
+
++++
+title = "About"
+description = "Hugo, the world's fastest framework for building websites"
+date = "2019-02-28"
+aliases = ["about-me", "about-pulse", "pulse"]
+author = "Yaheya Quazi"
++++
+
+{{< tabs tabTotal="2">}}
+{{< tab tabName="Summary" >}}
+
+## Summary
+
+I am an experienced Technology Executive with a deep passion for and understanding of Software Engineering and Software Lifecycle Management. My career includes positions of increasing responsibilities extending over 25 years at the University of California campuses (LA, Merced, Santa Barbara) and another five years at other Higher Educational institutions, including Public Sectors and California State University (San Francisco State University). Additionally, I have served as the founding Technology executive to build the first 21st-century research university campus for the University of California at Merced.
+
+I have over 27 years of progressive experience in Information Technology in Higher Education. The majority of my professional career have been with the University of California System, working at 4 locations. I have proven myself as an accomplished technology leader with diverse entrepreneurial development and program management experience in cutting-edge specialized technical environments including premier academic settings, state, and city as well as small startups. I am passionate about emerging technologies; lead complex projects with collaborative teams, conduct detailed analysis, and formulate innovative customer-centric solutions to be delivered on time, within budget, and aligned with business objectives and customer expectations. I am respected by colleagues, business leaders, and stakeholders alike for resiliency, resourcefulness, and an unwavering commitment to excellence and integrity.
+
+In recent professional years, I lead the deployment of UCPATH (UC Payroll, Academic Personnel, Timekeeping, and Human Resources) for the UCSB campus successfully. UCPATH is a central Payroll/HR system in PeopleSoft HCM 9.2 for all UC Campuses. Additionally, I led the development and implementation of an HR system that is currently being utilized by almost all University of California campuses
+
+I have demonstrated professional successful experience in building, orchestrating, and operating large scale mission-focused technology teams in both consolidated and federated environments, including mergers and acquisitions. Skilled at collaborating with and coordinating federated teams across complex social and organizational structures. Architects solutions to the most socially complex and challenging enterprise-wide collaborations, strategy formulation, major transformation, information assurance/security, technology envisioning, and operational excellence opportunities.
+
+I am employed at University of California, Santa Barbara where I am the director of Software Engineering Architecture and LifeCycle group. At SEAL I hold complete responsibility for leading the Software Development Organization to deliver innovative technology solutions to students, faculty, and staff. Supervise a team of 30 Software, QA, Database staff and intern engineers/managers. Oversee development strategy, architectural oversight, process definition, project management, and product releases. Administer multi-million dollar budget. Drove the delivery of 100+ complex projects across 200 enterprise systems within the last three years, including several ERPs.
+
+{{< /tab >}}
+{{< tab tabName="Highlights" >}}
+
+## HIGHLIGHTS
+
+* Ethical leader with strong commitment to ensuring the success of the institution and its community, organizations and staff
+* Collaborative team player delivering success to both the project and its partners
+* Dynamic professional with over 26 years of experience in positions of increasing responsibility and influence in Information Technology (IT)
+* Broad and deep technology knowledge and the ability to develop a solution by mapping a customer’s business problem to an end-to-end technology solution
+* Strategic thinker with deep understanding of process design and its relationship to achieving desired outcomes
+* Analytical and logical with high levels of expertise in business and financial analysis
+* Forward-looking technology executive with demonstrated success launching enterprise level solutions
+* Established Administrative Computing services at UC Merced with best practices, single point of data entry, automation, service oriented architecture and adaptable user experience presentation
+* Standardized business practices and implemented significant automation to achieve major administrative efficiency
+* Experience managing global teams and administering multi-million dollar budgets
+* Demonstrated multiple successes in system development, management and support utilizing minimal level staffing
+* Self-established a sole proprietor-consulting firm (iGluon); made the firm successful and profitable
+
+{{< /tab >}}
+{{< /tabs >}}
+
+
+
+
+

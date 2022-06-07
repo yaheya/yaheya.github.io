@@ -1,7 +1,7 @@
 # Hey, thanks for using my theme. If you like this theme,checkout my repo (https://gitlab.com/avron/gruvhugo"
 # and drop a star while you're at it. ;)
 baseurl = ""
-title = "Jane Doe"
+title = "Pulse"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 #disqusShortname = "" # Enable comments by entering your Disqus shortname
@@ -29,40 +29,32 @@ metaDataFormat= "yaml"
   enabled = true
   enableKatex = true
   metaKeywords = "fast, hugo, theme, minimal, gruvbox"
-  headerTitle = "Jane Doe"
-  copyright = "© 2021 Jane Doe.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
+  headerTitle = "Pulse"
+  copyright = "© 2022 Yaheya Quazi  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
   name = "jane_doe"
-  img = "img/author.jpg"
-  img_title = "Thanks to Christina @ wocintechchat.com for this photo."
+  img = "img/yaheya-quazi-profile.jpeg"
+  img_title = "Yaheya Quazi : I am a bit grayer than the picture now!"
   icon = "img/logo.png"
-  quote = "A nice quote that you like that describes the beautiful person you are."
-  description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque viverra mauris in aliquam. Quis risus sed vulputate odio ut. Sed turpis tincidunt id aliquet risus feugiat in ante metus. Bibendum at varius vel pharetra vel turpis. Semper viverra nam libero justo laoreet sit amet cursus. Mauris a diam maecenas sed enim ut sem."
+  quote = "It's OK to have your eggs in one basket as long as you control what happens to that basket."
+  description= "Welcome to Pulse! As our heartbeat (pulse) Software Engineering keeps on beating every day with progress. What a great time to be alive! Progress in this field  has been fascinating, to say the least. This is my personal space. The focus of this site is to publish a variety of miscellaneous items that I hope visitors find interesting or useful. As I come across interesting stuff, I'll post my reflections here."
   licenseUrl = ""
 
  # Social icons
   [[params.social]]
-    name = "gitlab"
-    url  = "https://gitlab.com/avron/gruvhugo"
-
-  [[params.social]]
     name = "email"
-    url  = "mailto:mail@mail.com"
-
-  [[params.social]]
-    name = "gpg"
-    url  = "https://keys.openpgp.org/"
+    url  = "mailto:root@yaheya.com"
 
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/yaheya"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/yaheya"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/yaheya/"
 
 [params.style]
   # add path to custom CSS files here
@@ -82,9 +74,10 @@ metaDataFormat= "yaml"
     url        = "post/"
 
   [[menu.main]]
-    identifier = "wiki"
-    name       = "Wiki"
-    url        = "none"
+    identifier = "yaheya"
+    name       = "Yaheya"
+    url        = "/yaheya/"
+
 
 [markup]
   defaultMarkdownHandler = "goldmark"
