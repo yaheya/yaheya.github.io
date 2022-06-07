@@ -31,7 +31,7 @@ metaDataFormat= "yaml"
   metaKeywords = "fast, hugo, theme, minimal, gruvbox"
   headerTitle = "Pulse"
   copyright = "© 2022 Yaheya Quazi  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
-  name = "jane_doe"
+  name = "Yaheya_Quazi"
   img = "img/yaheya-quazi-profile.jpeg"
   img_title = "Yaheya Quazi : I am a bit grayer than the picture now!"
   icon = "img/logo.png"
@@ -42,7 +42,7 @@ metaDataFormat= "yaml"
  # Social icons
   [[params.social]]
     name = "email"
-    url  = "mailto:root@yaheya.com"
+    url  = "/contact/"
 
   [[params.social]]
     name = "twitter"
@@ -58,7 +58,7 @@ metaDataFormat= "yaml"
 
 [params.style]
   # add path to custom CSS files here
-  custom_css = []
+  custom_css = ["/layouts/css/style.css"]
   # add path to custom SCSS files here
   custom_scss = []
 
