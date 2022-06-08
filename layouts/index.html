@@ -2,14 +2,17 @@
 <div class="intro" style="align-items: center">
   {{if .Site.Params.main.enabled }}
   <img class="image" src='{{ .Site.Params.main.img | absURL }}' 
-	title="{{	.Site.Params.main.img_title }}" width="200px" 
-	alt="Author's picture or avatar or logo"/>
+	title="{{	.Site.Params.main.img_title }}" width="250px" 
+	alt="Author's picture"/>
   <ul>
     <li class="intro-quote">{{ .Site.Params.main.quote }}</li>
   </ul>
   {{end}}
-  <p>{{ .Site.Params.main.description | safeHTML }}</p>
+  Welcome to Pulse! As our heartbeat (pulse) Software Engineering keeps on beating every day with progress. What a great time to be alive! Progress in this field  has been fascinating, to say the least. 
+  This is my personal space. The focus of this site is to publish a variety of miscellaneous items that I hope visitors find interesting or useful. As I come across interesting stuff, I'll post my 
+  reflections here. Anyway, feel free to wander. If you so desire, do not hesitate to [contact](/contact/) me. Needless to say, anything I post in this site is my personal 
+  opinion and not that of my employer.
 </div>
-{{ partial "menu.html" . }}
+
 {{end}}
 

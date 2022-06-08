@@ -65,3 +65,11 @@ sequenceDiagram
 
 
 
+menu 
+
+<div class="nav">
+        {{- $currentPage := . -}}
+        {{ range .Site.Menus.main -}}
+            <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+        {{- end }}
+</div>
