@@ -56,5 +56,12 @@ I am employed at University of California, Santa Barbara where I am the director
 
 
 
+sequenceDiagram
+    Hugo->>+Visual Studio Code: Build Site with VS Code using Hugo
+    Visual Studio Code->>+GitHub: Source Code Repository
+    GitHub->>+ GitHub Actions: Using Actions for CI/CD
+    GitHub Actions->>+ Azure Static Web App: Deployment
+
+
 
 
