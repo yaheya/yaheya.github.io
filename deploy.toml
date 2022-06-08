@@ -30,9 +30,9 @@ metaDataFormat= "yaml"
   lang = "en"
   enableKatex = true
   metaKeywords = "fast, hugo, theme, minimal, gruvbox"
-  name = "jane_doe"
-  headerTitle = "Jane Doe"
-  copyright = "© 2021 Jane Doe.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
+  name = "Yaheya_Quazi"
+  headerTitle = "Yaheya Quazi"
+  copyright = "© 2022 Yaheya Quazi.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
 	keywords = "Gruvhugo, Hugo, Theme, Blog, Personal Website, Community page, free software, fediverse"
   img = "img/author.webp"
   # Thanks to Christina @ wocintechchat.com for this photo.
