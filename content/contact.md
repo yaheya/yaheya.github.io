@@ -16,7 +16,7 @@ Have a question you want answered? Is there something you would like me to write
     <label for="LabelForMessage">Message</label>
     <textarea class="form-control" id="Message" rows="3" name="message"></textarea>
   </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <button type="submit" class="btn btn-primary">Send</button>
   <!--To detect spammers -->
   <input type="text" name="_gotcha" style="display:none" />
 </form>

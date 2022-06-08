@@ -77,8 +77,6 @@ metaDataFormat= "yaml"
     identifier = "yaheya"
     name       = "Yaheya"
     url        = "/yaheya/"
-
-
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.asciidocExt]
