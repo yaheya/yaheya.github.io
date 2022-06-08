@@ -7,7 +7,8 @@
         <hr />
           {{- partial "header.html" . -}}        
 	  {{- block "main" . }}{{- end }}
-          {{- partial "footer.html" . -}}
+    {{ partial "share-buttons.html" . }}      
+    {{- partial "footer.html" . -}}
       </div>
     </body>
 </html>
