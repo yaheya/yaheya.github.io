@@ -8,5 +8,4 @@ tags = [
     "privacy",
 ]
 +++
-
 After many years, moved my personal site to Hugo, previously DotNet Core Azure Web App. Details of current site can be found <a href="/about/">here</a>
