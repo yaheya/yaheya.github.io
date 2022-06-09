@@ -3,7 +3,7 @@
 @import 'variables';
 
 html{
-    font-family:'Tahoma', 'Times', 'Noto Serif', serif;
+    font-family:'Helvetica', 'Tahoma', serif;
 }
 body {
     margin: 0;
@@ -41,6 +41,7 @@ body.dark {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    color:#007bff;
 }
 
 .name {
@@ -90,6 +91,7 @@ p, li {
 
 .color-scheme {
     font-size: 15px;
+    text-align: right;
 }
 
 .checkbox {
@@ -232,7 +234,7 @@ blockquote {
 }
 
 .nav {
-    margin: 20px auto;
+    margin: 10px auto;
     a {
         background: $primary-accent-color;
         background: linear-gradient(90deg, $primary-accent-color 0%, $secondary-accent-color 100%);
@@ -849,3 +851,30 @@ select.form-control:focus::-ms-value {
 .show > .btn-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
 }
+
+.column {
+  float: left;
+  }
+  .right, .left {
+  width: 25%;
+  }
+  .middle {
+  width: 50%;
+  }
+
+  .align-items-start {
+    align-items: flex-start !important;
+  }
+
+.align-items-center {
+    align-items: center !important;
+  }
+
+  .align-items-end {
+    align-items: flex-end !important;
+  }
+
+  .col {
+    flex: 1 0 0%;
+    padding-left:20px;
+  }
