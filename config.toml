@@ -35,7 +35,7 @@ metaDataFormat= "yaml"
   img = "img/yaheya-quazi-profile.jpeg"
   img_title = "Yaheya Quazi : I am a bit grayer than the picture now!"
   icon = "img/logo.png"
-  quote = "It's OK to have your eggs in one basket as long as you control what happens to that basket."
+  quote = "The perfect kind of architecture decision is the one which never has to be made"
   description= "Personal Site of Yaheya Quazi"
   licenseUrl = ""
 

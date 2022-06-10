@@ -1,5 +1,5 @@
 {{define "main"}}
-<p>{{ .Site.Params.main.description | safeHTML }}</p>
+<p>{{ .Site.Params.main.description | unsafeHTML }}</p>
 <div class="intro" style="align-items: center">
 
   {{if .Site.Params.main.enabled }}
