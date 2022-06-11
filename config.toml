@@ -39,6 +39,8 @@ metaDataFormat= "yaml"
   description= "Personal Site of Yaheya Quazi"
   licenseUrl = ""
 
+disqusShortname = 'yaheya'
+
  # Social icons
   [[params.social]]
     name = "email"

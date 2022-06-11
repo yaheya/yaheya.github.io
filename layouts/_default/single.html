@@ -1,4 +1,5 @@
 {{define "main"}}
+
 <section class="intro">
   {{if eq .Section "post"}}
   <div class="post-header">
@@ -31,8 +32,8 @@
 {{else}}
 <div>
   {{.Content }}
+  {{ template "_internal/disqus.html" . }}
 </div>
 {{end}}
-
 </section>
 {{end}}
