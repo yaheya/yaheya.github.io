@@ -12,8 +12,10 @@ paginate = "10" # Number of posts per page
 
 # Default Theme
 theme= "gruvhugo"
-
+#comments by disqus
 disqusShortname = 'yaheya'
+#google Analytics
+googleAnalytics = 'UA-148205982-1'
 # Default Post Extension
 defaultExtension= "html"
 
