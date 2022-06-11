@@ -13,6 +13,7 @@ paginate = "10" # Number of posts per page
 # Default Theme
 theme= "gruvhugo"
 
+disqusShortname = 'yaheya'
 # Default Post Extension
 defaultExtension= "html"
 
@@ -39,7 +40,7 @@ metaDataFormat= "yaml"
   description= "Personal Site of Yaheya Quazi"
   licenseUrl = ""
 
-disqusShortname = 'yaheya'
+
 
  # Social icons
   [[params.social]]
