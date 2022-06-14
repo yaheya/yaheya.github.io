@@ -884,6 +884,58 @@ select.form-control:focus::-ms-value {
   border-radius: 5px;
 }
 
+/* Categories */
+
+.tagcloud03 {
+  margin-bottom: 50px;
+  text-align: center
+}
+.tagcloud03 ul.cloud li {
+  margin: 0;
+}
+.tagcloud03 ul.cloud li a {
+  padding: 0 1em 0 1em;
+  /* border: none !important; */
+  border: none;
+  height: 45px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.tagcloud03 ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.tagcloud03 ul li {
+  display: inline-block;
+  margin: 0 0.3em 0.3em 0;
+  padding: 0;
+}
+.tagcloud03 ul li a {
+  position: relative;
+  display: inline-block;
+  max-width: 250px;
+  height: 35px;
+  line-height: 35px;
+  padding: 0 2.5em 0 1em;
+  background-color: #fff;
+  border: 1px solid #aaa;
+  border-radius: 3px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  color: #333;
+  font-size: 18px;
+  text-decoration: none;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+}
+.tagcloud03 ul li a:hover {
+  background-color: #4b56a8;
+  border: 1px solid #0085A1;
+  color: #fff;
+}
+
 .btn {
   transition: none;
 }
@@ -982,3 +1034,4 @@ text-decoration: none;
   background-color: #dc3545;
   border-color: #dc3545;
 }
+ 
