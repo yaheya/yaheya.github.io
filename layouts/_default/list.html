@@ -21,7 +21,7 @@
                     <h4>{{ .PublishDate.Format "January 2, 2006" }} | Reading Time: {{.ReadingTime}} min </h4>
                     <span class="tags">
                         {{range .Params.Tags }}
-                        <h5><a class="tag" href='{{ "tags/" | absURL }}{{.}}'>{{.}}</a></h5>
+                        <h5><a class="tag" href='{{ "/tags/" | absURL }}{{.}}'>{{.}}</a></h5>
                         {{end}}
                     </span>
                     <p>{{ .Summary }}</p>
