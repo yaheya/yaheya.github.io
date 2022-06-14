@@ -88,11 +88,6 @@ metaDataFormat= "yaml"
     identifier = "yaheya"
     name       = "Yaheya"
     url        = "/yaheya/"
-  [[menu.main]]
-    identifier = "gallery"
-    name       = "Gallery"
-    url        = "/gallery/"
-    
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.asciidocExt]

@@ -2,78 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/contact/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/education/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/gallery/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/highlights/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/onlinesessions/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/yaheya/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/my-first-post/</loc>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/post/new-site-2022/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/post/secondpost/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/privacy/</loc>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/tags/personal/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/shortcodes/</loc>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/post/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/tags/privacy/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/tags/shortcodes/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/tags/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/about/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/yaheya/</loc>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/conferences/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/index/</loc>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/categories/</loc>
+  </url><url>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/examples/</loc>
+  </url><url>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/tags/index/</loc>
+  </url><url>
+    <loc>https://victorious-moss-0b2132b10.1.azurestaticapps.net/series/</loc>
   </url>
 </urlset>
