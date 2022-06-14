@@ -72,12 +72,12 @@ metaDataFormat= "yaml"
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about/"
+    url        = "/about/"
 
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "post/"
+    url        = "/post/"
   
     [[menu.main]]
     identifier = "categories"
