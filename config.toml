@@ -26,6 +26,7 @@ metaDataFormat= "yaml"
 [taxonomies]
   tag      = "tags"
   category = "categories"
+  example = "examples"
   series   = "series"
 
 [params.main]
@@ -77,6 +78,11 @@ metaDataFormat= "yaml"
     identifier = "posts"
     name       = "Posts"
     url        = "post/"
+  
+    [[menu.main]]
+    identifier = "categories"
+    name       = "Categories"
+    url        = "/tags/"
 
   [[menu.main]]
     identifier = "yaheya"
