@@ -16,12 +16,12 @@
 </span>
 <div class="content">
   {{.Content }}
+  {{ partial "disqus.html" . }}
 </div>
 {{else}}
 <div>
   {{.Content }}
-</div>
+  </div>
 {{end}}
 </section>
-{{ partial "disqus.html" . }}
 {{end}}
