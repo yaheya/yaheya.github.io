@@ -30,6 +30,7 @@ metaDataFormat= "yaml"
   series   = "series"
 
 [params.main]
+  addThis = "ra-62aa1f0a1fb29405"
   enabled = true
   enableKatex = true
   metaKeywords = "fast, hugo, theme, minimal, gruvbox"

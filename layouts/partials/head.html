@@ -1,6 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    {{ template "_internal/google_analytics.html" . }}
     {{ if .IsHome}}
         <title>{{.Site.Title}}</title>
         <meta name="description" content="{{ .Site.Params.main.description  }}" >
