@@ -1,12 +1,12 @@
 {{ define "main" }}
   <div class="container">
-    <h1>All {{ .Type }}</h1>
-    <ul>
+    <h3>All {{ .Type }}</h3>
+    <ul class="list-group w-50">
       {{ range .Data.Pages }}
-        <li>
+        <li class="list-group-item">
           <a href="{{ .Permalink }}">{{ .Title }}</a>
         </li>
       {{ end }}
-    </ul>
+    </ul>  
   </div>
 {{ end }}
