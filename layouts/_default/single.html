@@ -14,7 +14,6 @@
   <h5><a class="tag" href='{{ "/tags/" | absURL }}{{.}}'>{{.}}</a></h5>
   {{end}}
 </span>
-
 <div class="content">
   {{.Content }}
 </div>
@@ -24,4 +23,5 @@
 </div>
 {{end}}
 </section>
+{{ partial "disqus.html" . }}
 {{end}}
