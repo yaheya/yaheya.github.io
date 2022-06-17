@@ -10,7 +10,7 @@ Have a question you want answered? Is there something you would like me to write
 <form action="https://formspree.io/f/mzbowdqw" method="POST">
   <div class="form-group">
     <label for="LabelForEmail">Email</label>
-    <input type="email" class="form-control" id="email" placeholder="name@example.com" name="email">
+    <input type="email" class="form-control" id="email" placeholder="name@example.com" name="email" required>
   </div>
   <div class="form-group">
     <label for="LabelForMessage">Message</label>

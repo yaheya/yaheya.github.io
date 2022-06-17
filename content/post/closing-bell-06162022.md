@@ -4,7 +4,6 @@ title = "Closing Bell 6-16-2022"
 date = "2022-06-16"
 description = "Commentary on closing - 6-16-2022"
 tags = [
-"personal",
 "trading"
 ]
 +++
@@ -25,7 +24,7 @@ tags = [
         <li class="list-group-item" style="color:green;"> 
         VIX | 32.95 | +3.33 | +11.24 %
         </li>
-          </ul>  
+</ul>  
 
 An overall extremely down market today. Yesterday's gain was completely wiped and then added to some more losses. DJIA, Nasdaq hit fresh new lows. All investors want to know, is this the bottom or there are still room to go down! VIX is up almost 11.25 %. This indicates there is FUD (Fear Uncertainty Doubt) exists. In my personal opinion, VIX >= 28 indicates extremely high buying opportunity.
 
