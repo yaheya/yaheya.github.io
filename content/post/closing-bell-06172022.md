@@ -1,7 +1,7 @@
 +++
 author = "Yaheya Quazi"
 title = "Closing Bell 6-17-2022"
-date = "2022-06-16"
+date = "2022-06-17"
 description = "Commentary on closing - 6-17-2022"
 tags = [
 "trading"
