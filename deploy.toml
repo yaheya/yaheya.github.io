@@ -3,8 +3,8 @@
 baseurl = "https://avron.gitlab.io/gruvhugo/"
 title = "Jane Doe"
 languageCode = "en-us"
-paginate = "10" # Number of posts per page
-#disqusShortname = "" # Enable comments by entering your Disqus shortname
+paginate = "25" # Number of posts per page
+disqusShortname = "yaheya" # Enable comments by entering your Disqus shortname
 #googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 #-------------------------------------------------------------------------------
 # DEFAULT SETTINGS
