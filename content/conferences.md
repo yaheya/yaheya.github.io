@@ -31,4 +31,5 @@ author = "Yaheya Quazi"
 | Gartner - Application Development Summit |	2015 |	Software Development
 | Connect() |	2015 |	Various by Microsoft
 
+{{< /bootstrap-table >}}
 
