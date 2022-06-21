@@ -39,7 +39,7 @@ Crypto currency is certainly experiencing crypto winter. ETH, BTC is down 50 per
 
 I am hopeful ETH will have nice bounce back around September of this year. 
 
-**Predictions** : I think Tuesday 6/22/2022 (6/21/2022 market closed) will be a very green day. With Nasdaq up at least 2 percent. 
+**Predictions** : I think Tuesday 6/21/2022 (6/20/2022 market closed) will be a very green day. With Nasdaq up at least 2 percent. 
 
 **News** : Possibility of Ukraine joining Nato.
 
