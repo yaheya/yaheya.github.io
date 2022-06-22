@@ -19,7 +19,7 @@ tags = [
         S&P 500 : 3,666.77 | -123.22 | -3.25%
         </li>
         <li class="list-group-item" style="color:red;"> 
-        Nasdaq | 10,646,10 | -453 | -4.08%
+        Nasdaq | 10,646.10 | -453 | -4.08%
         </li>
         <li class="list-group-item" style="color:green;"> 
         VIX | 32.95 | +3.33 | +11.24 %
