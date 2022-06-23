@@ -35,6 +35,10 @@ Tesla stocks are giving up steam, focusing on ongoing supply chain matters, Chin
 
 In my portfolio, Chinese stocks are doing comparatively better. The main reason is in my opinion, they got beat up bad and the current Chinese government monetary ease. NIO has been pretty much hosed in the last six months, however, showing signs of relief. Today at one point went above 23 at the time of writing this post was 22.94. 
 
+**Prediction for 06/24/2022** :
+
+At the time of writing this post, all indexes future are slightly down. I predict tomorrow will be a red day. In addition it is Friday. I am hoping the red day is minimal and not a massive cut to lower level. Fingers crossed!
+
 
 **Strategy** :
 
