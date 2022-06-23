@@ -29,7 +29,7 @@ tags = [
         </li>
 </ul>
 
-What a volatile market! I am glad all indices ended up green at the closing bell. VIX continues to go down and that is the actual progress. Bond yields slip that is generally good for the market.  
+What a volatile market! I am glad all indices ended up solid green at the closing bell. VIX continues to go down and that is the actual progress. Bond yields slip that is generally good for the market.  
 
 Tesla stocks are giving up steam, focusing on ongoing supply chain matters, China Covid resurgence. Supply chain issues are not new, however, Musk mentioning it in a crude way just gets the good old FUD go out of control - hence drop in stock price. Fundamentally, not much has changed. The extreme volatility of Tesla stocks and their stock holders, will get rewarded for sticking through this roller coaster ride - I am sure of it.  
 
