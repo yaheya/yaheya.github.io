@@ -10,7 +10,7 @@ tags = [
 ]
 +++
 
-This post is for those who love movies and shows like me. I will try to find rare finds that are not always 100% scoring in rotten tomatoes nevertheless in my opinion well worth it to watch. 
+This post is for those who love movies and shows like me. I will try to post rare finds that are not always 100% scoring in rotten tomatoes nevertheless in my opinion well worth it to watch. Today's post can all be viewed at Hulu.
 
 
 <ul class="list-group w-50" style="width:100%;">

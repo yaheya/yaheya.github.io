@@ -82,7 +82,7 @@ metaDataFormat= "yaml"
 
   [[menu.main]]
     identifier = "yaheya"
-    name       = "Yaheya"
+    name       = "About"
     url        = "/yaheya/"
 [markup]
   defaultMarkdownHandler = "goldmark"
