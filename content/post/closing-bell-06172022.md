@@ -22,7 +22,7 @@ tags = [
       Nasdaq | 10,789.35 | 152.25 | 1.43%
   </li>
   <li class="list-group-item" style="color:green;"> 
-      Russ 2K | 1665.69 | +15.86 | .96 %
+      Russ 2K | 1665.69 | 15.86 | .96 %
   </li>
    <li class="list-group-item" style="color:red;"> 
       VIX | 31.13 | -1.82 | -5.52 %

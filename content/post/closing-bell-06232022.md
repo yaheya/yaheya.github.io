@@ -12,11 +12,11 @@ tags = [
         <li class="list-group-item" style="color:blue;">
           Market Summary 
         </li>
-        <li class="list-group-item" style="color:;">
-          DJIA : 30,677.36 | 194.23  | +0.64% 
+        <li class="list-group-item" style="color:green;">
+          DJIA : 30,677.36 | 194.23  | 0.64% 
         </li>
         <li class="list-group-item" style="color:green;"> 
-        S&P 500 : 3,795.73 | 35.84 | +0.95%
+        S&P 500 : 3,795.73 | 35.84 | 0.95%
         </li>
         <li class="list-group-item" style="color:green;"> 
         Nasdaq | 11,232.19 | 179.11 | 1.62%
@@ -33,7 +33,7 @@ What a volatile market! I am glad all indices ended up solid green at the closin
 
 Tesla stocks are giving up steam, focusing on ongoing supply chain matters, China Covid resurgence. Supply chain issues are not new, however, Musk mentioning it in a crude way just gets the good old FUD go out of control - hence drop in stock price. Fundamentally, not much has changed. The extreme volatility of Tesla stocks and their stock holders, will get rewarded for sticking through this roller coaster ride - I am sure of it.  After closing, TSLA ended up marginally higher. 
 
-In my portfolio, Chinese stocks are doing comparatively better. The main reason is in my opinion, they got beat up bad and the current Chinese government monetary ease. NIO has been pretty much hosed in the last six months, however, showing signs of relief. Today at one point went above 23 at the time of writing this post was 22.94. 
+In my portfolio, Chinese stocks are doing comparatively better. The main reason is in my opinion, they got beat up bad and the current Chinese government quantitative easing. NIO has been pretty much hosed in the last six months, however, showing signs of relief. Today at one point went above 23 at the time of writing this post was 22.94. 
 
 **Prediction for 06/24/2022** :
 

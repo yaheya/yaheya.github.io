@@ -22,7 +22,7 @@ tags = [
         Nasdaq | 10,646.10 | -453 | -4.08%
         </li>
         <li class="list-group-item" style="color:green;"> 
-        VIX | 32.95 | +3.33 | +11.24 %
+        VIX | 32.95 | +3.33 | 11.24 %
         </li>
 </ul>  
 
