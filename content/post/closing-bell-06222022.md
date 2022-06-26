@@ -7,27 +7,16 @@ tags = [
 "trading"
 ]
 +++
+**Market Summary**
 
-<ul class="list-group w-50">
-        <li class="list-group-item" style="color:blue;">
-          Market Summary 
-        </li>
-        <li class="list-group-item" style="color:red;">
-          DJIA : 30,483.13 | -47.12 | -0.15% 
-        </li>
-        <li class="list-group-item" style="color:red;"> 
-        S&P 500 : 3,759.89 | -4.90 | -0.13%
-        </li>
-        <li class="list-group-item" style="color:red;"> 
-        Nasdaq | 11,053.08 | -16.22 | -0.15%
-        </li>
-        <li class="list-group-item" style="color:red;"> 
-        Russ 2K | 1,690.28 | -3.75 | -0.22%
-        </li>
-        <li class="list-group-item" style="color:red;"> 
-        VIX | 28.95 | -1.24 | -4.11 %
-        </li>
-</ul>
+{{< bootstrap-table "table table-bordered" >}}
+| Dow | Nasdaq | S&P 500 | Russel 2K | Vix
+|---------|--------|--------|--------|--------|
+| <font style="color:red;"> 30,483.13, -47.12, -0.15% </font> | <font style="color:red;"> 3,759.89, -4.90, -0.13% </font> | <font style="color:red;"> 11,053.08, -16.22, -0.15% </font> | <font style="color:red;">1,690.28 | -3.75 | -0.22% </font> | <font style="color:red;">28.95, -1.24, -4.11 %</font>
+{{< /bootstrap-table >}}
+
+
+
 
 NO SURPRISE! Red day, although mid trading day all indexes were green but gave up all the gains by the closing bell. I am glad at least, the down turn is small essentially flat. VIX decreased, which is good. Ideally, we want to see it below 20. We have a long way to go up there!
 

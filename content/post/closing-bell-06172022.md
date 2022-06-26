@@ -8,26 +8,14 @@ tags = [
 ]
 +++
 
-<ul class="list-group w-50">
-  <li class="list-group-item" style="color:blue;">
-      <strong>Market Summary</strong> 
-  </li>
-  <li class="list-group-item" style="color:red;">
-      DJIA : 29,888.78 | 62.46 | -.13% 
-  </li>
-  <li class="list-group-item" style="color:green;"> 
-      S&P 500 : 3,674.84 | 8.07 | .22%
-  </li>
-  <li class="list-group-item" style="color:green;"> 
-      Nasdaq | 10,789.35 | 152.25 | 1.43%
-  </li>
-  <li class="list-group-item" style="color:green;"> 
-      Russ 2K | 1665.69 | 15.86 | .96 %
-  </li>
-   <li class="list-group-item" style="color:red;"> 
-      VIX | 31.13 | -1.82 | -5.52 %
-  </li>
-</ul>
+**Market Summary**
+
+{{< bootstrap-table "table table-bordered" >}}
+| Dow | Nasdaq | S&P 500 | Russel 2K | Vix
+|---------|--------|--------|--------|--------|
+| <font style="color:green;"> 29,888.78, 62.46, -.13% </font> | <font style="color:green;"> 3,674.84, 8.07, .22% </font> | <font style="color:green;"> 10,789.35, 152.25, 1.43% </font> | <font style="color:green;">1665.69, 15.86, .96 % </font> | <font style="color:red;">27.23, -1.82, -6.27%</font>
+{{< /bootstrap-table >}}
+
 
 As predicted market ended up closing green - somewhat!. Nasdaq which had taken the worst beating yesterday went up the highest. However, after a brutal day yesterday, one should expect a very green day - that was not the case. DJI essentially closed flat while S&P marginally up. I follow VLO which had a nice run and dropped a bit in the past few weeks.
 
