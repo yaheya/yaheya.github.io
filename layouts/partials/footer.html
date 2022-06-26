@@ -3,5 +3,5 @@
     <div class="social">
         {{ partial "social.html" . }}
     </div><strong>{{- end }}</strong>
-    <p style="color:grey;">{{ .Site.Params.main.copyright | safeHTML }}</p>
+    <p style="color:grey;">{{ .Site.Params.main.copyright | safeHTML }} Last Updated : {{ .Date | time.Format ":date_long" }}</p>
 </footer>

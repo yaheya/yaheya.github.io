@@ -13,7 +13,7 @@ tags = [
 {{< bootstrap-table "table table-bordered" >}}
 | Dow | Nasdaq | S&P 500 | Russel 2K | Vix
 |---------|--------|--------|--------|--------|
-| <font style="color:green;"> 29,927.07, -741, -2.42%  </font> | <font style="color:green;"> 3,666.77, -123.22, -3.25% </font> | <font style="color:green;"> 10,646.10, -453, -4.08% </font> | <font style="color:green;">11,607.62, 179.11, 1.62% </font| <font style="color:green;">32.95, 3.33, 11.24%</font>
+| <font style="color:green;"> 29,927.07, -741, -2.42%  </font> | <font style="color:green;"> 3,666.77, -123.22, -3.25% </font> | <font style="color:green;"> 10,646.10, -453, -4.08% </font> | <font style="color:green;">11,607.62, 179.11, 1.62% </font>| <font style="color:green;">32.95, 3.33, 11.24%</font>
 {{< /bootstrap-table >}}
 
 
