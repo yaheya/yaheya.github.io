@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Pulse</title>
-    <link>https://victorious-moss-0b2132b10.1.azurestaticapps.net/series/</link>
+    <link>http://yaheya.com/series/</link>
     <description>Recent content in Series on Pulse</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://victorious-moss-0b2132b10.1.azurestaticapps.net/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://yaheya.com/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
