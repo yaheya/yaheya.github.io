@@ -28,6 +28,6 @@ A certainly hope Ryan is correct. Vix remaining below 28 is encouraging as well.
 **News** 
 
 
-*[Robinhood shares jump 14% on report FTX may be exploring a deal](https://www.cnbc.com/2022/06/27/robinhood-shares-jump-12percent-and-are-halted-on-report-ftx-may-be-exploring-a-deal.html)
+* [Robinhood shares jump 14% on report FTX may be exploring a deal](https://www.cnbc.com/2022/06/27/robinhood-shares-jump-12percent-and-are-halted-on-report-ftx-may-be-exploring-a-deal.html)
 
-*[Crypto fund defaults on $670M loan, and Bitfury CEO says prices aren’t ‘relevant’: CNBC Crypto World](https://www.cnbc.com/video/2022/06/27/crypto-fund-defaults-on-670m-loan-and-bitfury-ceo-says-prices-arent-relevant-cnbc-crypto-world.html)
+* [Crypto fund defaults on $670M loan, and Bitfury CEO says prices aren’t ‘relevant’: CNBC Crypto World](https://www.cnbc.com/video/2022/06/27/crypto-fund-defaults-on-670m-loan-and-bitfury-ceo-says-prices-arent-relevant-cnbc-crypto-world.html)
