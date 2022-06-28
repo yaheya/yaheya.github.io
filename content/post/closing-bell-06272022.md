@@ -2,7 +2,7 @@
 author = "Yaheya Quazi"
 title = "Closing Bell 6-27-2022"
 date = "2022-06-27"
-description = "Commentary on closing - 6-16-2022"
+description = "Commentary on closing - 6-27-2022"
 tags = [
 "trading"
 ]
@@ -21,7 +21,7 @@ Not a green day but not that red either - which is surprising. A big run on Frid
 
 As bad as [this year] has been for investors, the good news is previous years that were down at least 15% at the midway point to the year saw the final six months higher every single time, with an average return of nearly 24%,” LPL Financial chief market strategist [Ryan Detrick](https://lplresearch.com/2022/06/22/3-reasons-it-is-so-bad-it-is-good/) noted earlier this week. 
 
-A certainly hope Ryan is correct. Vix remaining below 28 is encouraging as well. At the end there are real FUD exists in market, and I predict if the fear gage does not go down, we will not see sustainable market recovery. The operative term here is "sustainable".  
+I certainly hope Ryan is correct. Vix remaining below 28 is encouraging as well. At the end there are real FUD exists in market, and I predict if the fear gage does not go down, we will not see sustainable market recovery. The operative term here is "sustainable".  
 
 **Strategy** : Look for short term gains; hold on to the long term securities.
 

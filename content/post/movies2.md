@@ -15,7 +15,7 @@ This post is for those who love movies and shows like me. I will try to post rar
 
 <ul class="list-group w-50" style="width:100%;">
   <li class="list-group-item" style="color:blue;">
-      <strong>The Lincoln Lawyer (Netflix)</strong> 
+      <strong>The Lincoln Lawyer</strong> 
   </li>
   <li class="list-group-item">
 <strong>Starring:</strong> Neve Campbell, Manuel Garcia-Rulfo
@@ -45,13 +45,28 @@ This post is for those who love movies and shows like me. I will try to post rar
 
 <ul class="list-group w-50" style="width:100%;">
   <li class="list-group-item" style="color:blue;">
-      <strong>Anatomy of a scandal (Netflix)</strong> 
+      <strong>Anatomy of a scandal</strong> 
   </li>
   <li class="list-group-item">
 <strong>Starring:</strong> Sienna Miller · Sophie Whitehouse ; Rupert Friend · James Whitehouse ; Michelle Dockery · Kate Woodcroft ; Sebastian Selwood; Finn Whitehouse ;  
 </li>
 <li class="list-group-item">
 <strong>Summary:</strong> Parliamentary minister James Whitehouse is a happily married man with a loving family home, then a scandalous secret comes to light.
+</li>
+<li class="list-group-item">
+<strong>Yaheya's Stars</strong>    8/10
+</li>
+</ul>
+
+<ul class="list-group w-50" style="width:100%;">
+  <li class="list-group-item" style="color:blue;">
+      <strong>The Mauritanian</strong> 
+  </li>
+  <li class="list-group-item">
+<strong>Starring:</strong> Jodie Foster; Tahar Rahim; Shailene Woodley; Benedict Cumberbatch  
+</li>
+<li class="list-group-item">
+<strong>Summary:</strong>A defense attorney, her associate, and a military prosecutor uncover a far-reaching conspiracy while investigating the case of a suspected 9/11 terrorist imprisoned at Guantanamo Bay, Cuba, for six years.
 </li>
 <li class="list-group-item">
 <strong>Yaheya's Stars</strong>    8/10
