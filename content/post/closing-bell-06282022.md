@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-{{< stocks file="stocks" >}}
+{{< stocks file="stocks06282022" >}}
 
 Massive red days are back! All indices are in deep red territory with VIX surging back up above 28 again. Cathie Wood believes US is already in a recession. I think as  the month June ends and the market wraps up one of the worst six months of the year in stock market history, we can start to see some uptrend. 
 

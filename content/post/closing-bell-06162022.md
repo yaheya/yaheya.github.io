@@ -8,14 +8,7 @@ tags = [
 ]
 +++
 
-**Market Summary**
-
-{{< bootstrap-table "table table-bordered" >}}
-| Dow | Nasdaq | S&P 500 | Russel 2K | Vix
-|---------|--------|--------|--------|--------|
-| <font style="color:green;"> 29,927.07, -741, -2.42%  </font> | <font style="color:green;"> 3,666.77, -123.22, -3.25% </font> | <font style="color:green;"> 10,646.10, -453, -4.08% </font> | <font style="color:green;">11,607.62, 179.11, 1.62% </font>| <font style="color:green;">32.95, 3.33, 11.24%</font>
-{{< /bootstrap-table >}}
-
+{{< stocks file="stocks06162022" >}}
 
 An overall extremely down market today. Yesterday's gain was completely wiped and then added to some more losses. DJIA, Nasdaq hit fresh new lows. All investors want to know, is this the bottom or there are still room to go down! VIX is up almost 11.25 %. This indicates there is FUD (Fear Uncertainty Doubt) exists. In my personal opinion, VIX >= 28 indicates extremely high buying opportunity.
 

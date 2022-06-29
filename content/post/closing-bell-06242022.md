@@ -8,13 +8,7 @@ tags = [
 ]
 +++
 
-**Market Summary**
-
-{{< bootstrap-table "table table-bordered" >}}
-| Dow | Nasdaq | S&P 500 | Russel 2K | Vix
-|---------|--------|--------|--------|--------|
-| <font style="color:green;"> 31,500.68, 823.32,  2.68% </font> | <font style="color:green;"> 3,911.74, 375.43, 3.34% </font> | <font style="color:green;"> 11,607.62, 179.11, 1.62% </font> | <font style="color:green;">11,607.62, 179.11, 1.62% </font> | <font style="color:red;">27.23, -1.82, -6.27%</font>
-{{< /bootstrap-table >}}
+{{< stocks file="stocks06242022" >}}
 
 Well I am happy to report my prediction for the day of the market was absolutely wrong. All major indices were massively green for the day. Solid gains in S&P, Dow and Nasdaq - what a relief.
 

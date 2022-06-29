@@ -8,15 +8,7 @@ tags = [
 ]
 +++
 
-**Market Summary**
-
-{{< bootstrap-table "table table-bordered" >}}
-| Dow | Nasdaq | S&P 500 | Russel 2K | Vix
-|---------|--------|--------|--------|--------|
-| <font style="color:green;"> 30,677.36, 194.23, 0.64% </font> | <font style="color:green;"> 3,795.73, 35.84, 0.95% </font> | <font style="color:green;"> 11,232.19, 179.11, 1.62% </font> | <font style="color:green;">1,711.06, 20.95, 1.25% </font> | <font style="color:green;">29.03, 0.08, 0.08 %</font>
-{{< /bootstrap-table >}}
-
-
+{{< stocks file="stocks06232022" >}}
 
 What a volatile market! I am glad all indices ended up solid green at the closing bell. VIX continues to go down and that is the actual progress. Bond yields slip that is generally good for the market.  
 

@@ -7,15 +7,7 @@ tags = [
 "trading"
 ]
 +++
-
-**Market Summary**
-
-{{< bootstrap-table "table table-bordered" >}}
-| Dow | Nasdaq | S&P 500 | Russel 2K | Vix
-|---------|--------|--------|--------|--------|
-| <font style="color:red;"> 31,438.26, -62.42, -.20%  </font> | <font style="color:red;"> 11,524.55, -83.07, -0.72% </font> | <font style="color:red;"> 3,900.11, -11.63, -0.30% </font> | <font style="color:green;">1,771.74, 6.01, 0.34% </font>| <font style="color:red;">26.95, -0.28, -1.03%</font>
-{{< /bootstrap-table >}}
-
+{{< stocks file="stocks06272022" >}}
 
 Not a green day but not that red either - which is surprising. A big run on Friday and last week, one would assume a massive pull back today - did not happen. Definitely a good sign. Russel 2K ended up green, which is usually indicator for the growth stocks. Read the following this weekend, wanted to share - 
 

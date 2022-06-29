@@ -7,16 +7,7 @@ tags = [
 "trading"
 ]
 +++
-
-**Market Summary**
-
-{{< bootstrap-table "table table-bordered" >}}
-| Dow | Nasdaq | S&P 500 | Russel 2K | Vix
-|---------|--------|--------|--------|--------|
-| <font style="color:green;"> 30,530.25, 641.47, 2.15% </font> | <font style="color:green;"> 3,764.79, 89.95, 2.45% </font> | <font style="color:green;"> 11,069.30, 270.95, 2.51% </font> | <font style="color:green;">1694.03, 28.34, 1.70% </font> | <font style="color:red;">30.19, -0.84, -2.71 %</font>
-{{< /bootstrap-table >}}
-
-
+{{< stocks file="stocks06212022" >}}
 
 A Very green day and what a relief! All indexes are showing solid gains. The million dollar question is - the gain is here to stay?
 
