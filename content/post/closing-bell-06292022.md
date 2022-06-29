@@ -20,7 +20,7 @@ Nio is also in the downturn. Gave up almost 3 dollars/share in the last few days
 
 Crypto remains under severe fire. ETH(Ethereum) are at the time of writing this post down 39.06% over the last 30 days. While, BTC (Bitcoin) has been down 31.91%. That is a massive downturn in a very short period of time. The silver lining on all this, the massive downturn will assure a big run up soon hopefully.
 
-Fed (Powell) speaks today - hence the market is super nervous.
+Fed (Powell) speaks today - hence the market is super nervous. At the time of writing this post, all indexes futures are higher which is definitely a welcome news!
 
 
 **Strategy**
