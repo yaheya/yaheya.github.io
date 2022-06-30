@@ -6,7 +6,7 @@ description = "Create a Stock Summary ShortCode Display from JSON"
 tags = [
 "technology",
 "hugo",
-"ShortCode"
+"shortcode"
 ]
 +++
 If you are a regular visitor of my site, you may have noticed, I have started posting daily closing bell stock market [summary](../closing-bell-06282022). These pages proceeds with a Market index summary from that day. Let's discuss how I put it together.

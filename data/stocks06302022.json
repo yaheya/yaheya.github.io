@@ -1,0 +1,33 @@
+{
+  "Index1": {
+    "name": "Dow",
+    "value": "30775.43",
+    "change": "-253.88",
+    "percentage": "-0.82"
+  },
+  "Index2": {
+    "name": "S&P 500",
+    "value": "3785.38",
+    "change": "-33.45",
+    "percentage": "-0.88"
+  },
+  "Index3": {
+    "name": "Nasdaq",
+    "value": "11028.74",
+    "change": "-149.16",
+    "percentage": "-1.33"
+  },
+  "Index4": {
+    "name": "Russel 2K",
+    "value": "1707.99",
+    "change": "-11.38",
+    "percentage": "-0.96"
+  },
+  "Index5": {
+    "name": "Vix",
+    "value": "28.60",
+    "change": "0.44",
+    "percentage": "1.86"
+  }
+
+}
