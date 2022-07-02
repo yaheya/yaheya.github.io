@@ -9,7 +9,7 @@ tags = [
 +++
 {{< stocks file="stocks06302022" >}}
 
-There is a saying - all well those ends well. We see that in the market today. In a highly volatile market, with swings of almost 600 points in Dow. At the end all indices end up higher almost one percent. VIX dropped below 28 with 7 percent decline, which indicates general FUD in market is stabilizing.
+There is a saying - all well those ends well. We see that in the market today. In a highly volatile market, with swings of almost 600 points in Dow. At the end all indices end up higher almost one percent. [VIX](glossary.md) dropped below 28 with 7 percent decline, which indicates general [FUD](glossary.md) in market is stabilizing.
 
 A Federal Reserve tracker of economic growth is pointing to an increased chance that the U.S. economy has entered a recession. As assumed by most, the recession could be here, sooner than most assumed when it would arrive. Nerve wrecking to say the least. We have had such a bad six months, to start the next half of the year, we get this discouraging news feels pretty bad I must admit.
 

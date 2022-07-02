@@ -9,7 +9,7 @@ tags = [
 +++
 {{< stocks file="stocks06222022" >}}
 
-NO SURPRISE! Red day, although mid trading day all indexes were green but gave up all the gains by the closing bell. I am glad at least, the down turn is small essentially flat. VIX decreased, which is good. Ideally, we want to see it below 20. We have a long way to go up there!
+NO SURPRISE! Red day, although mid trading day all indexes were green but gave up all the gains by the closing bell. I am glad at least, the down turn is small essentially flat. [VIX](glossary.md) decreased, which is good. Ideally, we want to see it below 20. We have a long way to go up there!
 
 Tesla gave up all the mid day gain, at the time of writing this post, down marginally 4.89.
 

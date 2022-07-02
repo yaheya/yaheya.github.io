@@ -9,11 +9,11 @@ tags = [
 +++
 {{< stocks file="stocks06272022" >}}
 
-Not a green day but not that red either - which is surprising. A big run on Friday and last week, one would assume a massive pull back today - did not happen. Definitely a good sign. Russel 2K ended up green, which is usually indicator for the growth stocks. Read the following this weekend, wanted to share - 
+Not a green day but not that red either - which is surprising. A big run on Friday and last week, one would assume a massive pull back today - did not happen. Definitely a good sign. [Russel 2K](glossary.md) ended up green, which is usually indicator for the growth stocks. Read the following this weekend, wanted to share - 
 
 As bad as [this year] has been for investors, the good news is previous years that were down at least 15% at the midway point to the year saw the final six months higher every single time, with an average return of nearly 24%,” LPL Financial chief market strategist [Ryan Detrick](https://lplresearch.com/2022/06/22/3-reasons-it-is-so-bad-it-is-good/) noted earlier this week. 
 
-I certainly hope Ryan is correct. Vix remaining below 28 is encouraging as well. At the end there are real FUD exists in market, and I predict if the fear gage does not go down, we will not see sustainable market recovery. The operative term here is "sustainable".  
+I certainly hope Ryan is correct. [VIX](glossary.md) remaining below 28 is encouraging as well. At the end there are real [FUD](glossary.md) exists in market, and I predict if the fear gage does not go down, we will not see sustainable market recovery. The operative term here is "sustainable".  
 
 **Strategy** : Look for short term gains; hold on to the long term securities.
 

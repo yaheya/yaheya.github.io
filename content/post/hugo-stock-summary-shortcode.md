@@ -44,13 +44,13 @@ Below is a sample JSON Payload that the Short Code uses -
 "percentage": "-2.98"
 },
 "Index4": {
-"name": "Russel 2K",
+"name": "[Russel 2K](glossary.md)",
 "value": "1738.84",
 "change": "-32.90",
 "percentage": "-1.86"
 },
 "Index5": {
-"name": "Vix",
+"name": "[VIX](glossary.md)",
 "value": "28.36",
 "change": "1.41",
 "percentage": "5.23"
