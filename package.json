@@ -3,5 +3,9 @@
     "grunt": "^1.5.3",
     "string": "^3.3.3",
     "yaml": "^2.1.1"
+  },
+  "dependencies": {
+    "lunr": "^2.3.9",
+    "yamljs": "^0.3.0"
   }
 }
