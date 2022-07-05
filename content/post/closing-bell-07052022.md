@@ -26,7 +26,7 @@ I think the month of July will be very volatile. July is up 48% historically. Th
 * [Tesla should have a strong second half of 2022, says Deutsche Bank’s Emmanuel Rosner](https://www.cnbc.com/video/2022/07/05/tesla-should-have-a-strong-second-half-of-2022-says-deutsche-banks-emmanuel-rosner.html)
 * [Month of July in the stock market](https://www.seeitmarket.com/july-stock-market-seasonality-historical-data-insights-18161/)
 * [Oil tumbles as much as 10%, breaks below $100 as recession fears mount](https://www.cnbc.com/2022/07/05/oil-tumbles-more-than-8percent-breaks-below-100-as-recession-fears-mount.html)
-* [BYD surpasses Tesla]([Russel 2K](https://pandaily.com/byd-surpasses-tesla-to-rank-top-in-global-nev-sales-in-h1/)
+* [BYD surpasses Tesla](https://pandaily.com/byd-surpasses-tesla-to-rank-top-in-global-nev-sales-in-h1/)
 * [Analysts Confident in Tesla's Strong Growth Outlook Despite Q2 Slowdown](https://www.tesmanian.com/blogs/tesmanian-blog/analysts-confident-in-teslas-strong-growth-outlook-despite-q2-2022-slowdown)
 
 
