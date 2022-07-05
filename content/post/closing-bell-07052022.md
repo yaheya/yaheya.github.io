@@ -9,7 +9,7 @@ tags = [
 +++
 {{< stocks file="stocks06302022" >}}
 
-The roller coaster ride of the market is worst than the rides in Magic Mountain! Dow Jones had almost 700 point drop but recovered most of it and closed down 0.42%. S&P had a similar effect, it closed positive. Nasdaw had a solid day with above 1 percent gain. [VIX](glossary.md) stayed stable. 
+The roller coaster ride of the market is worst than the rides in Magic Mountain! Dow Jones had almost 700 point drop but recovered most of it and closed down 0.42%. S&P had a similar effect, it closed positive. Nasdaq had a solid day with almost 2 percent gain. [VIX](glossary.md) stayed stable. 
 
 TSLA had a wild ride. At one point lost 60 points, closed in green territory. Volume was high. Deutsche bank says Tesla should have a strong second half. As a Tesla stock holder I think that would be a sign of relief as Tesla stock took a beating in the first half. 
 
