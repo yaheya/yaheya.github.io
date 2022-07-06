@@ -28,6 +28,7 @@ metaDataFormat= "yaml"
   category = "categories"
   example = "examples"
   series   = "series"
+  subject = "subjects"
 
 [params.main]
   addThis = "ra-62aa1f0a1fb29405"

@@ -6,6 +6,9 @@ description = "Commentary on closing - 07-06-2022"
 tags = [
 "trading"
 ]
+subject = [
+"mytrade"
+]
 +++
 {{< stocks file="stocks07062022" >}}
 
