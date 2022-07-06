@@ -13,6 +13,8 @@ So this is the trend, deep red in the morning, ends green at the end. I am not c
 
 Fed is focused on reducing inflation and they signal they may go with even more strict monetary policy changes. Tesla Stocks again took a negative turn in the morning, ended up green at the end. We are desperately waiting to see some price actions to the upward for Tesla. Stock split decision is coming soon, however, the stock prices do not reflect it (not as of yet anyway). Finally, JPMorgan trims price target for Tesla, says shares could fall more than 40% on weaker deliveries. I absolutely do not agree with this comment but it is what it is!
 
+Based on 30 Wall Street analysts offering 12 month price targets for Tesla in the last 3 months. The average price target is $867.41 with a high forecast of $1,580.00 and a low forecast of $67.00. The average price target represents a 24.77% change from the last price of $695.20. Source [Tipranks](https://www.tipranks.com/stocks/tsla/forecast)
+
 **Strategy**
 
 * Be prepared for recession that is now in my opinion inevitable - agreed by most analyst.
