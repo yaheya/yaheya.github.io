@@ -7,14 +7,11 @@ tags = [
 "trading"
 ]
 +++
-{{< stocks file="stocks06302022" >}}
+{{< stocks file="stocks07052022" >}}
 
-The roller coaster ride of the market is worst than the rides in Magic Mountain! Dow Jones had almost 700 point drop but recovered most of it and closed down 0.42%. S&P had a similar effect, it closed positive. Nasdaq had a solid day with almost 2 percent gain. [VIX](glossary.md) stayed stable. 
+So this is the trend, deep red in the morning, ends green at the end. I am not complaining, but just stating that volatility is at its worst or so it seems. All major indexes end up in green territory. Russell 2000 was down which measures growth sectors. VIX dropped another 3 percent and that is great. 
 
-TSLA had a wild ride. At one point lost 60 points, closed in green territory. Volume was high. Deutsche bank says Tesla should have a strong second half. As a Tesla stock holder I think that would be a sign of relief as Tesla stock took a beating in the first half. BYD surpasses EV sales in H1.
-
-I think the month of July will be very volatile. July is up 48% historically. This [link](https://www.seeitmarket.com/july-stock-market-seasonality-historical-data-insights-18161/) shows historical data for the month of July. Recession fear pushes oil prices below 100. Most analyst now agree there is a mild/severe recession, except for our president. Note, a recession means, the prices for oil will take a nose down dip.
-
+Fed is focused on reducing inflation and they signal they may go with even more strict monetary policy changes. Tesla Stocks again took a negative turn in the morning, ended up green at the end. We are desperately waiting to see some price actions to the upward for Tesla. Stock split decision is coming soon, however, the stock prices do not reflect it (not as of yet anyway). Finally, JPMorgan trims price target for Tesla, says shares could fall more than 40% on weaker deliveries. I absolutely do not agree with this comment but it is what it is!
 
 **Strategy**
 
@@ -23,7 +20,7 @@ I think the month of July will be very volatile. July is up 48% historically. Th
 
 **News**
 
-* [Tesla should have a strong second half of 2022, says Deutsche Bank’s Emmanuel Rosner](https://www.cnbc.com/video/2022/07/05/tesla-should-have-a-strong-second-half-of-2022-says-deutsche-banks-emmanuel-rosner.html)
+* [Fed sees ‘more restrictive’ policy as likely if inflation fails to come down, minutes say](https://www.cnbc.com/2022/07/06/fed-minutes-june-2022.html)
 * [Month of July in the stock market](https://www.seeitmarket.com/july-stock-market-seasonality-historical-data-insights-18161/)
 * [Oil tumbles as much as 10%, breaks below $100 as recession fears mount](https://www.cnbc.com/2022/07/05/oil-tumbles-more-than-8percent-breaks-below-100-as-recession-fears-mount.html)
 * [BYD surpasses Tesla](https://pandaily.com/byd-surpasses-tesla-to-rank-top-in-global-nev-sales-in-h1/)

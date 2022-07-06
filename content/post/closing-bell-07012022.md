@@ -7,7 +7,7 @@ tags = [
 "trading"
 ]
 +++
-{{< stocks file="stocks06302022" >}}
+{{< stocks file="stocks07012022" >}}
 
 There is a saying - all well those ends well. We see that in the market today. In a highly volatile market, with swings of almost 600 points in Dow. At the end all indices end up higher almost one percent. [VIX](glossary.md) dropped below 28 with 7 percent decline, which indicates general [FUD](glossary.md) in market is stabilizing.
 
