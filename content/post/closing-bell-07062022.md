@@ -16,6 +16,14 @@ So this is the trend, deep red in the morning, ends green at the end. I am not c
 
 Fed is focused on reducing inflation and they signal they may go with even more strict monetary policy changes. Tesla Stocks again took a negative turn in the morning, ended up green at the end. We are desperately waiting to see some price actions to the upward for Tesla. Stock split decision is coming soon, however, the stock prices do not reflect it (not as of yet anyway). Finally, JPMorgan trims price target for Tesla, says shares could fall more than 40% on weaker deliveries. I absolutely do not agree with this comment but it is what it is!
 
+As for BYD, it reported having delivered 638,157 “electric vehicles” during the first half of the year.
+
+That’s what is prompting all those headlines, but what most of the media is failing to highlight is that almost half of BYD’s EV sales are vehicles equipped with internal combustion engines burning gasoline.
+
+314,638 vehicles out of BYD’s reported 638,157 “EV sales” in 2022 are plug-in hybrids.
+
+When comparing all-electric vehicles for all-electric vehicles, Tesla still outsold BYD by a significant percentage in 2022 despite its bad quarter. [Source](https://electrek.co/2022/07/06/tesla-worlds-largest-electric-car-producer/)
+
 
 **Strategy**
 
