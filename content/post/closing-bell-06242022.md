@@ -17,10 +17,10 @@ Well I am happy to report my prediction for the day of the market was absolutely
 * Dow - Up 4.73%
 * Nasdaq Up 7.36%
 * S&P Up 5.76%
-* [[Russel 2K](glossary.md)](glossary.md) Up 4.92%
+* [[Russel 2K](glossary)](../glossary) Up 4.92%
 * [VIX](glossary.md) Down 16.75%
 
-The above weekly summary is not something to pass by. We definitely see a market rebound. So does this mean the market had bottom, and we can expect a steady gains from here? I am not certain. There are still many market uncertainty out there. Not to mention wide spread [FUD](glossary.md). Although [VIX](glossary.md) shows promise with less than 27. 
+The above weekly summary is not something to pass by. We definitely see a market rebound. So does this mean the market had bottom, and we can expect a steady gains from here? I am not certain. There are still many market uncertainty out there. Not to mention wide spread [FUD](../glossary). Although [VIX](../glossary) shows promise with less than 27. 
 
 **Prediction for 06/27/2022** :
 

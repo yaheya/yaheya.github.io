@@ -10,9 +10,9 @@ tags = [
 
 {{< stocks file="stocks06232022" >}}
 
-What a volatile market! I am glad all indices ended up solid green at the closing bell. [VIX](glossary.md) continues to go down and that is the actual progress. Bond yields slip that is generally good for the market.  
+What a volatile market! I am glad all indices ended up solid green at the closing bell. [VIX](../glossary) continues to go down and that is the actual progress. Bond yields slip that is generally good for the market.  
 
-Tesla stocks are giving up steam, focusing on ongoing supply chain matters, China Covid resurgence. Supply chain issues are not new, however, Musk mentioning it in a crude way just gets the good old [FUD](glossary.md) go out of control - hence drop in stock price. Fundamentally, not much has changed. The extreme volatility of Tesla stocks and their stock holders, will get rewarded for sticking through this roller coaster ride - I am sure of it.  After closing, TSLA ended up marginally higher. 
+Tesla stocks are giving up steam, focusing on ongoing supply chain matters, China Covid resurgence. Supply chain issues are not new, however, Musk mentioning it in a crude way just gets the good old [FUD](../glossary) go out of control - hence drop in stock price. Fundamentally, not much has changed. The extreme volatility of Tesla stocks and their stock holders, will get rewarded for sticking through this roller coaster ride - I am sure of it.  After closing, TSLA ended up marginally higher. 
 
 In my portfolio, Chinese stocks are doing comparatively better. The main reason is in my opinion, they got beat up bad and the current Chinese government quantitative easing. NIO has been pretty much hosed in the last six months, however, showing signs of relief. Today at one point went above 23 at the time of writing this post was 22.94. 
 

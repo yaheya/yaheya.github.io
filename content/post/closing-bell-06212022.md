@@ -11,7 +11,7 @@ tags = [
 
 A Very green day and what a relief! All indexes are showing solid gains. The million dollar question is - the gain is here to stay?
 
-[VIX](glossary.md) which measures public sentiment; remains high. In my opinion, [VIX](glossary.md) >= 28 indicates high [FUD](glossary.md) (Fear Uncertainty Doubt). Recession fear looms. No doubt, small/large recession is forth coming. Today definitely not a good day to buy anything, as we should watch and monitor the market tomorrow. I certainly hope the gain retains.
+[VIX](../glossary) which measures public sentiment; remains high. In my opinion, [VIX](../glossary) >= 28 indicates high [FUD](../(../glossary) (Fear Uncertainty Doubt). Recession fear looms. No doubt, small/large recession is forth coming. Today definitely not a good day to buy anything, as we should watch and monitor the market tomorrow. I certainly hope the gain retains.
 
 Massive losses on Crypto appears to be on pause and yes that is a relief. I believe ETH at one time went down to 890 which is a massive discount for anyone who has the dry powder (cash)
 to get on ETH. I certainly wish I did.

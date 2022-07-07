@@ -12,7 +12,7 @@ subject = [
 +++
 {{< stocks file="stocks07072022" >}}
 
-A massive green day today - finally! All indices are up and [vix](glossary.md) dropping. China considers massive 250 billion dollar stimulus with historic bond sales. This news helped various chinese and us stocks that have business in China such as Tesla. 
+A massive green day today - finally! All indices are up and [VIX](../glossary) dropping. China considers massive 250 billion dollar stimulus with historic bond sales. This news helped various chinese and us stocks that have business in China such as Tesla. 
 
 Shares of Tesla Inc. TSLA, +5.53% advanced 5.53% to $733.63 today, on what proved to be an all-around positive trading session for the stock market. Tesla Inc. closed $509.86 short of its 52-week high ($1,243.49), which the company achieved on November 4th.
 

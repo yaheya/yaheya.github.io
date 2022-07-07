@@ -50,7 +50,7 @@ Below is a sample JSON Payload that the Short Code uses -
 "percentage": "-1.86"
 },
 "Index5": {
-"name": "[VIX](glossary.md)",
+"name": "[VIX](glossary)",
 "value": "28.36",
 "change": "1.41",
 "percentage": "5.23"
