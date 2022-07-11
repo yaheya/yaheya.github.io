@@ -12,7 +12,7 @@ subject = [
 +++
 {{< stocks file="stocks07112022" >}}
 
-Massive red day - S&P given up almost all the gains from the week prior. It appears, the market takes one step forward two step backward I don't see how it may change any time soon. Vix went up more than 6 percent. 
+Massive red day - S&P given up almost all the gains from the week prior. It appears, the market takes one step forward two step backward; I don't see how it may change any time soon. [Vix](../glosarry) went up more than 6 percent. 
 
 Chinese stocks took a beating as Covid concern raises yet again. Shanghai will be conducting mass testing in several districts after Covid cases were detected earlier this week, a statement on the city’s WeChat account said.
 
