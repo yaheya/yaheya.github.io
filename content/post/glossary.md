@@ -17,3 +17,4 @@ This post will serve as the references for terms that I use in my [trading](/tag
 | VIX     | VIX is the ticker symbol and the popular name for the Chicago Board Options Exchange's CBOE Volatility Index, a popular measure of the stock market's expectation of volatility based on S&P 500 index options.
 | FUD   | fear, uncertainty and doubt, usually evoked intentionally in order to put a competitor at a disadvantage
 | Russel 2K | The Russell 2000 Index is a small-cap stock market index that makes up the smallest 2,000 stocks in the Russell 3000 Index. It was started by the Frank Russell Company in 1984. The index is maintained by FTSE Russell, a subsidiary of the London Stock Exchange Group. 
+| CPI | A consumer price index is a price index, the price of a weighted average market basket of consumer goods and services purchased by households. Changes in measured CPI track changes in prices over time.
