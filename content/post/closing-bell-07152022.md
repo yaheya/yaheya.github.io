@@ -14,7 +14,7 @@ subject = [
 
 I have taken few days break from writing my closing bell summary. Many things have happened in the last few days, unfortunately market taking a turn for the worst. All indices were mostly negative. 
 
-Today, there is much needed market rally with all indices in solid green territory and also VIX dropping below 25. Vix well below 28. 
+Today, there is much needed market rally with all indices in solid green territory and also VIX dropping below 25. 
 
 Here is a to a Market Bull run in 3/4 quarter of 2022!
 
