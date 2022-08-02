@@ -30,7 +30,7 @@ Our duas are one of the highest Ibadah we can perform and one that Allah prefers
 
  
 
-We are all struggling in our lives one way or the other. I hope this email encourages you that you are not alone and that Allah is waiting to hear from you; you have to call him! 
+We are all struggling in our lives one way or the other. I hope this post encourages you that you are not alone and that Allah is waiting to hear from you; you have to call him! 
 
  
 
