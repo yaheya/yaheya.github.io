@@ -14,7 +14,7 @@ subject = [
 
 After almost a month break, I am back writing my closing bells post. Work and personal commitments kept me writing these posts regularly.
 
-A lot has changed in the market in the last four weeks. It is with great pleasure we see some upside to the market, although today seem to be a wide spread down day on all three major indices. [VIX](glossary.md) is larking around 20-21 range. Remember, just a month or so back, it was around 30! 
+A lot has changed in the market in the last four weeks. It is with great pleasure we see some upside to the market, although today seem to be a wide spread down day on all three major indices. [VIX](../glosarry) is larking around 20-21 range. Remember, just a month or so back, it was around 30! 
 
 Despite all these positive news, major analysts predict that a mild to a severe recession is facing us perhaps early to mid 2023. One can argue, we are already in a recession as GDP growth has been negative for two consecutive quarters. [Here](https://www.whitehouse.gov/cea/written-materials/2022/07/21/how-do-economists-determine-whether-the-economy-is-in-a-recession/) is a great article on how economists determine, if we are on a recession. 
 

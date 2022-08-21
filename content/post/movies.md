@@ -18,7 +18,7 @@ This post is for those who love movies and shows like me. I will try to post rar
       <strong>The Old Man (Hulu)</strong> 
   </li>
   <li class="list-group-item">
-<strong>Starring:</strong> Jeff BridgesJohn LithgowAmy BrennemanAlia ShawkatE.J. Bonilla <br />
+<strong>Starring:</strong> Jeff Bridges, John Lithgow, Amy Brenneman, Alia Shawkat, E.J. Bonilla <br />
 </li>
 <li class="list-group-item">
 <strong>Summary:</strong> Dan Chase absconded from the CIA decades ago and has been living off the grid since. When an assassin arrives and tries to take Chase out, the old operative learns that to ensure his future he now must reconcile his past.
