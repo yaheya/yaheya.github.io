@@ -2,18 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>personal on Pulse</title>
-    <link>http://yaheya.com/tags/personal/</link>
+    <link>/tags/personal/</link>
     <description>Recent content in personal on Pulse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://yaheya.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Second Post!</title>
-      <link>http://yaheya.com/post/secondpost/</link>
+      <title>My reflections on Suratul Taha</title>
+      <link>/post/taha/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/taha/</guid>
+      <description>This post is different than what I have usually post.
+The sura is Taha in Quran, and the sura summarizes the entire adventure when Allah appeared to Prophet Musa in the holy mountains of Tuwa.
+In a few consecutive Ayaat, the sura describes the conversation between Allah and Musa. One of these conversations that touches me the most is when Allah asked Musa to go to Feraun to spread his word.</description>
+    </item>
+    
+    <item>
+      <title>Bing Image Gallery and Power Automate</title>
+      <link>/post/bing-image-gallery/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bing-image-gallery/</guid>
+      <description>I downloaded the Bing wallpaper app. It is actually awesome, everyday I turn on my computer to see what kind of wall paper I get for that day. Most of these are amazing! I use them in my desktop and also as my zoom background! Finally, I created a small Power Automate routine, that downloads each day Bing wall paper and saves it on to my drive.
+I wanted to share some of these Bing images with you!</description>
+    </item>
+    
+    <item>
+      <title>Movies/Shows I recommend - Netflix</title>
+      <link>/post/movies2/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/movies2/</guid>
+      <description>This post is for those who love movies and shows like me. I will try to post rare finds that are not always 100% scoring in rotten tomatoes nevertheless in my opinion well worth it to watch. Today&amp;rsquo;s posts can all be viewed in Netflix.
+The Lincoln Lawyer Starring: Neve Campbell, Manuel Garcia-RulfoSummary: Idealistic lawyer Mickey Haller runs his practise out of the back of his Lincoln Town Car, taking on cases big and small across Los Angeles.</description>
+    </item>
+    
+    <item>
+      <title>Movies/Shows I recommend - Hulu</title>
+      <link>/post/movies/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/movies/</guid>
+      <description>This post is for those who love movies and shows like me. I will try to post rare finds that are not always 100% scoring in rotten tomatoes nevertheless in my opinion well worth it to watch. Today&amp;rsquo;s post can all be viewed at Hulu.
+The Old Man (Hulu) Starring: Jeff Bridges, John Lithgow, Amy Brenneman, Alia Shawkat, E.J. Bonilla Summary: Dan Chase absconded from the CIA decades ago and has been living off the grid since.</description>
+    </item>
+    
+    <item>
+      <title>Yaheya.Com new site!</title>
+      <link>/post/new-site-2022/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://yaheya.com/post/secondpost/</guid>
-      <description>My second post!!</description>
+      <guid>/post/new-site-2022/</guid>
+      <description>After many years, moved my personal site to Hugo, previously DotNet Core Azure Web App. Details of current site can be found here
+Hugo which is the main platform this site runs under is a brilliant idea. Not all sites, needs to be generated off from a Database or need backend server technology.
+The site features -
+Google Analytics Disqus comments Contact form using Formspree Overtime I plan to add many features and post about them as I am doing so.</description>
     </item>
     
   </channel>

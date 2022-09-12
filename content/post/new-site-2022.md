@@ -20,5 +20,7 @@ The site features -
 
 Overtime I plan to add many features and post about them as I am doing so. One such post is [here](../hugo-stock-summary-shortcode).
 
+**RUpdate : Updated Hugo to new version 
+
 
 
