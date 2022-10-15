@@ -20,5 +20,4 @@ This site is built various technologies and platforms. They are -
 </ul>
 
 Image below demonstrates the general flow - 
-
-<img src="../img/pulse-site-sequence-diagram.png" alt="Sequence Diagram Pulse" title="Top Level Demonstration of Pulse Site" width="600" height="300" /> 
+<img src="../img/pulse-site-sequence-diagram.png" alt="Sequence Diagram Pulse" title="Top Level Demonstration of Pulse Site" width="600" height="300" />

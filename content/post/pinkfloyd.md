@@ -15,7 +15,7 @@ I am a classic Rock fan. I bought a ticket to go with my brothers and daughter t
 
 The quality of the concert, sound, the environment was absolutely unreal to say the least. However, I must admit Roger's politics is truly crazy. A picture collage of the event with family is below.
 
-<img src="../img/roger-with-brothers.jpg" alt="Sequence Diagram Pulse" title="Top Level Demonstration of Pulse Site" width="400" height="350" align="center" />
+<img src="../../img/roger-with-brothers.jpg" alt="Roger with Brothers" title="Top Level Demonstration of Pulse Site" width="400" height="350" align="center" />
 
 I post a video of the opening in YouTube which got an expected number of views in a short time. Feel free to watch it [here](https://youtu.be/OUgTpLPYNrE)
 
