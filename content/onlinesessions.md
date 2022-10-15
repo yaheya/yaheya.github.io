@@ -13,6 +13,7 @@ author = "Yaheya Quazi"
 {{< bootstrap-table "table table-bordered" >}}
 | Activity | Completion Date |
 |---------|--------|
+| Instructor Lead Online Course: MuleSoft Production-Ready Development | 8/29/2022
 | Instructor Lead Online Course: MuleSoft Anypoint Platform Development | 7/29/2022
 | eCourse : UC Managing Implicit Bias Series: Managing the Influence of Implicit Bias - Mindfulness and Conscious De-biasing     | 1/13/2020   |
 | eCourse : UC Managing Implicit Bias Series: Managing Implicit Bias in the Hiring Process     | 12/5/2019   |
