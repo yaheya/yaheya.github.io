@@ -4,7 +4,7 @@ title = "My YouTube Channel iGluon"
 date = "2022-11-02"
 description = "Introducing my new YouTube Channel iGluon"
 tags = [
-"trading"
+"personal"
 ]
 subject = [
 "personal"
