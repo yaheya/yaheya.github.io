@@ -64,6 +64,10 @@ metaDataFormat= "yaml"
     name = "linkedin"
     url  = "https://www.linkedin.com/in/yaheya/"
 
+  [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/@igluon2022"
+
 [params.style]
   # add path to custom CSS files here
   custom_css = ["/layouts/css/style.css"]
