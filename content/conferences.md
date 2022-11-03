@@ -17,7 +17,7 @@ author = "Yaheya Quazi"
 | Apple WWDC |	Every year since 2017 |	Apple Developer Conference
 | Google I/O | Every year since 2020 | Google Developer Conference
 | Educause Enterprise Summit: Analytics|	2019 |	BI, Data Warehouse
-| University of California, Technology Conference - UCTech	Every year since 2010 | University of California sponsored conference
+| University of California, Technology Conference - UCTech | Every year since 2010 | University of California sponsored conference
 | Complete AWS Cloud Practitioner Essentials (Digital) |	2018 |	AWS Cloud Self-Training
 | Lean Six Sigma : Green Belt |	2018 |	Go Lean Six Sigma
 | Connect()	| 2018 |	Various by Microsoft
