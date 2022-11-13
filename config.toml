@@ -15,7 +15,7 @@ theme= "gruvhugo"
 #comments by disqus
 disqusShortname = 'yaheya'
 #google Analytics
-googleAnalytics = 'GA4-319722685-1'
+googleAnalytics = '319722685'
 # Default Post Extension
 defaultExtension= "html"
 
