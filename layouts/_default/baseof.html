@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+<head>
+  {{ if .Site.Params.GoogleAnalyticsID }}
+  {{ partial "analytics-gtag.html" . }}
+  {{ end }}
+ </head>
 <html lang="{{ .Site.Params.main.lang }}">
     {{- partial "head.html" . -}}
     <body>
