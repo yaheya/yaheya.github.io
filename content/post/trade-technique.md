@@ -1,7 +1,7 @@
 +++
 author = "Yaheya Quazi"
 title = "Various Trading Tools/Techniques"
-date = "2022-11-07"
+date = "2022-12-01"
 description = "Various Trade Technique and Toolings"
 tags = [
 "trading"
