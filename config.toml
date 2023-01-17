@@ -41,7 +41,7 @@ metaDataFormat= "yaml"
   img = "img/yaheya-quazi.png"
   img_title = "Yaheya Quazi : I am a bit grayer than the picture now!"
   icon = "img/logo.png"
-  quote = "The perfect kind of architecture decision is the one which never has to be made"
+  quote = "Building the future, one line of code at a time."
   description= "Personal Site of Yaheya Quazi"
   licenseUrl = ""
 
