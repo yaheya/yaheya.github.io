@@ -66,7 +66,7 @@ metaDataFormat= "yaml"
 
   [[params.social]]
     name = "youtube"
-    url  = "https://www.youtube.com/@igluon2022"
+    url  = "https://www.youtube.com/@igluon2022?sub_confirmation=1"
 
 [params.style]
   # add path to custom CSS files here
