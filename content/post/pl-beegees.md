@@ -8,5 +8,4 @@ tags = [
 "personal"
 ]
 +++
-
 {{< youtubepl id="PLrRpj7H8Eq9U782GAdD88Dqp9jf7w8ODD" >}}

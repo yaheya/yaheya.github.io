@@ -1,6 +1,6 @@
 +++
-title = "Yaheya Quazi Professional : Education"
-description = "Yaheya Quazi Professional : Education"
+title = "Contact : Yaheya Quazi"
+description = "Contact : Yaheya Quazi"
 date = "2022-06-07"
 aliases = ["about-me", "about-pulse", "pulse"]
 author = "Yaheya Quazi"
