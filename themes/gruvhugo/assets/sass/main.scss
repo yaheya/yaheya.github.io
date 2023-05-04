@@ -1099,6 +1099,7 @@ text-decoration: none;
   border-top: 0;
 }
 
+/*
 .responsive-image {
 @media screen and (max-width: 767px) {
   body #logo {
@@ -1107,10 +1108,11 @@ text-decoration: none;
   }
  }
 }
+*/
 
-
-/* .responsive-image {
+.responsive-image {
   width: 75%;
   height: auto;
+  display: block;
 }
-*/
+
