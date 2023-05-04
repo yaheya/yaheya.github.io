@@ -1100,6 +1100,17 @@ text-decoration: none;
 }
 
 .responsive-image {
+@media screen and (max-width: 767px) {
+  body #logo {
+    max-width: 90%;
+    display: block;
+  }
+ }
+}
+
+
+/* .responsive-image {
   width: 75%;
   height: auto;
 }
+*/
