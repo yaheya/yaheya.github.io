@@ -1099,20 +1099,8 @@ text-decoration: none;
   border-top: 0;
 }
 
-/*
 .responsive-image {
-@media screen and (max-width: 767px) {
-  body #logo {
-    max-width: 90%;
-    display: block;
-  }
- }
-}
-*/
-
-.responsive-image {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
-  display: block;
  }
 
