@@ -9,7 +9,7 @@ author = "Yaheya Quazi"
 
 ## Highlights
 
-*As an ethical leader, I am deeply committed to the success of the institution, its community, organizations, and staff.
+* As an ethical leader, I am deeply committed to the success of the institution, its community, organizations, and staff.
 * A collaborative team player, I consistently deliver success to the project and its partners.
 * With over 26 years of experience in IT, I have held positions of increasing responsibility and influence, making me a dynamic professional.
 * My broad and deep technology knowledge enables me to develop solutions by mapping a customer's business problem to an end-to-end technology solution.
