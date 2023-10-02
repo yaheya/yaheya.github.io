@@ -11,7 +11,7 @@ author = "Yaheya Quazi"
 
 * As an ethical leader, I am deeply committed to the success of the institution, its community, organizations, and staff.
 * A collaborative team player, I consistently deliver success to the project and its partners.
-* With over 26 years of experience in IT, I have held positions of increasing responsibility and influence, making me a dynamic professional.
+* With over 30 years of experience in IT, I have held positions of increasing responsibility and influence, making me a dynamic professional.
 * My broad and deep technology knowledge enables me to develop solutions by mapping a customer's business problem to an end-to-end technology solution.
 * I am a strategic thinker with a deep understanding of process design and its relationship to achieving desired outcomes.
 * Analytical and logical, I possess high levels of business and financial analysis expertise.

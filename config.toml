@@ -36,7 +36,7 @@ metaDataFormat= "yaml"
   enableKatex = true
   metaKeywords = "fast, hugo, theme, minimal, gruvbox"
   headerTitle = "Pulse"
-  copyright = "© 2022 Yaheya Quazi  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
+  copyright = "© 2023 Yaheya Quazi  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
   name = "Yaheya_Quazi"
   img = "img/yaheya-quazi.png"
   img_title = "Yaheya Quazi : I am a bit grayer than the picture now!"
