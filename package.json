@@ -2,7 +2,7 @@
   "devDependencies": {
     "grunt": "^1.5.3",
     "string": "^3.3.3",
-    "yaml": "^2.1.1"
+    "yaml": "^2.2.2"
   },
   "dependencies": {
     "lunr": "^2.3.9",
