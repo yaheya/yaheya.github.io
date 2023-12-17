@@ -23,9 +23,8 @@ jobs:
       run: hugo --minify
 
     - name: Deploy
-      uses: Azure/static-web-apps-deploy@v1
+      uses: peaceiris/actions-gh-pages@v3
       with:
-        azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
-        repo_token: ${{ secrets.GITHUB_TOKEN }} # Used for GitHub integrations (i.e. PR comments)
-        action: "upload"
-        app_location: "public" # App source code path relative to repository root
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: publish
+        publish_dir: ./public
