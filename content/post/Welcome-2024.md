@@ -1,7 +1,7 @@
 +++
 author = "Yaheya Quazi"
 title = "Embracing 2024: A Year of Reflection and Renewal"
-date = "2024-01-02"
+date = "2023-12-31"
 description = "Wishing all my visitors/readers safest and happiest 2024"
 tags = [
 "personal"
