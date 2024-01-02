@@ -2,7 +2,7 @@
 author = "Yaheya Quazi"
 title = "Depeche Mode Concert Memento Mori"
 date = "2023-12-01"
-description = "Movies and Shows I recommend watching"
+description = "Depeche Mode Concert Memento Mori Held at Las Vegas"
 tags = [
 "movies",
 "personal",
