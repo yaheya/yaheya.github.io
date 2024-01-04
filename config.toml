@@ -43,7 +43,7 @@ metaDataFormat= "yaml"
   icon = "img/logo.png"
   quote = "Building the future, one line of code at a time."
   description= "Personal Site of Yaheya Quazi"
-  licenseUrl = ""
+  licenseUrl = "https://creativecommons.org/licenses/by/4.0/"
 
 
 
