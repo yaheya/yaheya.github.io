@@ -10,8 +10,6 @@ subject = [
 "personal"
 ]
 +++
-# 🚀 Exciting Milestone in my Software Engineering Journey! 🚀
-
 Today, I'm thrilled to share a monumental shift in my 30-plus years of software engineering career – the decision to make the Mac my primary work station! 🍎
 
 Looking back, my journey began with Windows, possibly starting with the era of Windows 3.0. It's where I acquired my foundational computing skills and built the pillars of my engineering career, primarily on various Microsoft platforms.
