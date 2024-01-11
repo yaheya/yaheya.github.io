@@ -1,7 +1,7 @@
 +++
 author = "Yaheya Quazi"
 title = "My YouTube Channel iGluon"
-date = "2022-11-02"
+date = "2024-01-11"
 description = "Introducing my new YouTube Channel iGluon"
 tags = [
 "personal"
