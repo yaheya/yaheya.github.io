@@ -1,8 +1,8 @@
 +++
 author = "Yaheya Quazi"
-title = "My YouTube Channel iGluon"
-date = "2022-11-02"
-description = "Introducing my new YouTube Channel iGluon"
+title = "Exciting Milestone in my Software Engineering Journey!"
+date = "2023-12-30"
+description = "Exciting Milestone in my Software Engineering Journey!"
 tags = [
 "personal"
 ]
@@ -10,7 +10,37 @@ subject = [
 "personal"
 ]
 +++
-Those who know or follow me know I had my own Sole proprietorship in the early 1990s. I am very proud of what I did with my business back then; unfortunately, I had to close that business eventually due to demand from my daytime job. Recently, I started a new YouTube channel based on my old business name, "iGluon." I have a lot of ideas to create content that users may find helpful. But for now, I posted a few videos; the acceptance was incredible. In less than a month, my channel got over 8,000 views. My subscriber grew from 3 to 28 also. This is good progress, and I would love to keep up the momentum.
+# 🚀 Exciting Milestone in my Software Engineering Journey! 🚀
 
-Here is my YouTube Channel, please visit, like if you enjoy my videos and suggest future content. Look forward to seeing you all in my YouTube channel! [iGluon Vinyls](https://www.youtube.com/@igluonvinyls)
+Today, I'm thrilled to share a monumental shift in my 30-plus years of software engineering career – the decision to make the Mac my primary work station! 🍎
+
+Looking back, my journey began with Windows, possibly starting with the era of Windows 3.0. It's where I acquired my foundational computing skills and built the pillars of my engineering career, primarily on various Microsoft platforms.
+
+As technology advanced, so did my tools. Today, nearly everything essential for my work seamlessly runs on a Mac. From *Visual Studio Code/Visual Studio*, *Microsoft Office*, *Edge/Chrome Browser*, to *Azure Data Studio* (a shift from SSMS), and *.Net Core* – each performs as well, if not better, than on my trusted Windows platform.
+
+## Current Workstation: Mac Mini
+
+- **Apple M2 Pro Chip:** The powerhouse behind my Mac Mini, providing efficient processing and performance.
+  
+- **16 GB Memory:** Ensuring smooth multitasking capabilities, crucial for handling complex software development tasks.
+
+- **512 GB SSD HD:** Ample storage space for my projects and applications, contributing to faster data access and overall system responsiveness.
+
+- **Sonoma 14.2.1:** Running on the latest Sonoma version, embracing the latest features and enhancements in the Mac ecosystem.
+
+## Previous Machine: Dell Inspiron
+
+Farewell to my faithful Dell Inspiron, a workhorse that served me well:
+
+- **Intel i7 Processor:** Delivering the processing power needed for demanding development tasks.
+
+- **32 GB RAM:** Enabling seamless multitasking and efficient handling of resource-intensive applications.
+
+- **265 GB SSD HD:** While slightly smaller than my Mac's storage, it provided sufficient space for my projects.
+
+- **Windows 11:** The operating system that accompanied me through numerous coding marathons and project completions.
+
+This transition signifies more than just a change in hardware and operating systems. It's a shift in perspective, embracing new possibilities and exploring the full potential of the Mac ecosystem as my primary development environment.
+
+Here's to embracing change, continuous learning, and the exciting journey ahead in the realm of software engineering! 🚀💻 #MacSwitch #SoftwareEngineeringJourney #NewBeginnings
 
