@@ -50,8 +50,8 @@ metaDataFormat= "yaml"
  # Social icons
   [[params.social]]
     name = "email"
-    url  = "/contact/"
-
+    url  = "https://www.tesla.com/referral/yaheya94446"
+  
   [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/yaheya"
@@ -67,6 +67,8 @@ metaDataFormat= "yaml"
   [[params.social]]
     name = "youtube"
     url  = "https://www.youtube.com/@igluonvinyls?sub_confirmation=1"
+
+
 
 [params.style]
   # add path to custom CSS files here
