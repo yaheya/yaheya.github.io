@@ -82,9 +82,9 @@ Create a file called stocks.html and place the following html in it. Save the fi
       {{ range index .Site.Data $filename }}
       <tr>
         <td>{{.name}}</td>
-        <td>{{lang.NumFmt 2 .value}}</td>
-        <td>{{lang.NumFmt 2 .change}}</td>
-        <td>{{lang.NumFmt 2 .percentage}}</td>
+        <td>{{lang.FormatNumberCustom 2 .value}}</td>
+        <td>{{lang.FormatNumberCustom 2 .change}}</td>
+        <td>{{lang.FormatNumberCustom 2 .percentage}}</td>
       </tr>
       {{end}}
      </tbody>

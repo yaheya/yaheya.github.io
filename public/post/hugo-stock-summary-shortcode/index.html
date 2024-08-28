@@ -196,9 +196,9 @@ A JSON Payload for each day to summarize the data."/>
       {{ range index .Site.Data $filename }}
       &lt;tr&gt;
         &lt;td&gt;{{.name}}&lt;/td&gt;
-        &lt;td&gt;{{lang.NumFmt 2 .value}}&lt;/td&gt;
-        &lt;td&gt;{{lang.NumFmt 2 .change}}&lt;/td&gt;
-        &lt;td&gt;{{lang.NumFmt 2 .percentage}}&lt;/td&gt;
+        &lt;td&gt;{{lang.FormatNumberCustom 2 .value}}&lt;/td&gt;
+        &lt;td&gt;{{lang.FormatNumberCustom 2 .change}}&lt;/td&gt;
+        &lt;td&gt;{{lang.FormatNumberCustom 2 .percentage}}&lt;/td&gt;
       &lt;/tr&gt;
       {{end}}
      &lt;/tbody&gt;

@@ -1121,9 +1121,9 @@
       {{ range index .Site.Data $filename }}
       &amp;lt;tr&amp;gt;
         &amp;lt;td&amp;gt;{{.name}}&amp;lt;/td&amp;gt;
-        &amp;lt;td&amp;gt;{{lang.NumFmt 2 .value}}&amp;lt;/td&amp;gt;
-        &amp;lt;td&amp;gt;{{lang.NumFmt 2 .change}}&amp;lt;/td&amp;gt;
-        &amp;lt;td&amp;gt;{{lang.NumFmt 2 .percentage}}&amp;lt;/td&amp;gt;
+        &amp;lt;td&amp;gt;{{lang.FormatNumberCustom 2 .value}}&amp;lt;/td&amp;gt;
+        &amp;lt;td&amp;gt;{{lang.FormatNumberCustom 2 .change}}&amp;lt;/td&amp;gt;
+        &amp;lt;td&amp;gt;{{lang.FormatNumberCustom 2 .percentage}}&amp;lt;/td&amp;gt;
       &amp;lt;/tr&amp;gt;
       {{end}}
      &amp;lt;/tbody&amp;gt;
