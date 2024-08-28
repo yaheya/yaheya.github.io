@@ -13,6 +13,7 @@ author = "Yaheya Quazi"
 {{< bootstrap-table "table table-bordered" >}}
 | Activity                                                                                                                   | Completion Date |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| Re:Invent Amazon Web Services Conference                                                                                   | 12/06/2024
 | Re:Invent Amazon Web Services Conference                                                                                   | 12/02/2023      |
 | Instructor Lead Online Course: Snowflake Fundamentals Training                                                             | 9/29/2023       |
 | Instructor Lead Online Course: MuleSoft Production-Ready Development                                                       | 8/29/2022       |
