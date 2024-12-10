@@ -5,6 +5,7 @@
     <link>/subjects/</link>
     <description>Recent content in Subjects on Pulse</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/subjects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="/subjects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

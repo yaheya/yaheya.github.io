@@ -6,114 +6,91 @@
     <description>Recent content in Tags on Pulse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>trading</title>
-      <link>/tags/trading/</link>
-      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/trading/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>personal</title>
       <link>/tags/personal/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/tags/personal/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>trading</title>
+      <link>/tags/trading/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/trading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>technology</title>
+      <link>/tags/technology/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/technology/</guid>
+      <description></description>
+    </item>
     <item>
       <title>philosophy</title>
       <link>/tags/philosophy/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>/tags/philosophy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>religion</title>
       <link>/tags/religion/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>/tags/religion/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>hugo</title>
       <link>/tags/hugo/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>/tags/hugo/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>shortcode</title>
       <link>/tags/shortcode/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>/tags/shortcode/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>technology</title>
-      <link>/tags/technology/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/technology/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>power-automation</title>
       <link>/tags/power-automation/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>/tags/power-automation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>movies</title>
       <link>/tags/movies/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>/tags/movies/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>netflix</title>
       <link>/tags/netflix/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>/tags/netflix/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>hulu</title>
       <link>/tags/hulu/</link>
       <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>/tags/hulu/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>index</title>
       <link>/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/tags/index/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
