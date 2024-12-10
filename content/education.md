@@ -14,5 +14,6 @@ author = "Yaheya Quazi"
 * Associate of Science, Electronics and Electrical Engineering - Los Angeles City College
 * Lean Six Sigma Green Belt (University of California, San Diego)
 * Microsoft Certified Solution Developer (MCSD)
+* CSM Certified Scrum Master
 * TOGAF - Enterprise Architecture Certification
 
