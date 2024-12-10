@@ -13,6 +13,8 @@ author = "Yaheya Quazi"
 {{< bootstrap-table "table table-bordered" >}}
 | Activity                                                                                                                   | Completion Date |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| Instructor Lead Online Course: Certified Scrum Master Training                                                             | 11/18/2024      | 
+| Re:Invent Amazon Web Services Conference                                                                                   | 12/02/2024      |
 | Re:Invent Amazon Web Services Conference                                                                                   | 12/02/2023      |
 | Instructor Lead Online Course: Snowflake Fundamentals Training                                                             | 9/29/2023       |
 | Instructor Lead Online Course: MuleSoft Production-Ready Development                                                       | 8/29/2022       |
