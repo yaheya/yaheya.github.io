@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shortcode on Pulse</title><link>/tags/shortcode/</link><description>Recent content in Shortcode on Pulse</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/shortcode/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo Stock Summary ShortCode Module</title><link>/post/hugo-stock-summary-shortcode/</link><pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate><guid>/post/hugo-stock-summary-shortcode/</guid><description>&lt;p>If you are a regular visitor of my site, you may have noticed, I have started posting daily closing bell stock market &lt;a href="../closing-bell-06282022">summary&lt;/a>. These pages proceeds with a Market index summary from that day. Let&amp;rsquo;s discuss how I put it together.&lt;/p>
-&lt;p>&lt;strong>What is a Hugo ShortCode?&lt;/strong>&lt;/p>
-&lt;p>Shortcodes are simple snippets inside your content files calling built-in or custom templates.&lt;/p>
-&lt;p>&lt;strong>Parts of the Stock Summary ShortCode&lt;/strong>&lt;/p>
-&lt;ol>
-&lt;li>A JSON Payload for each day to summarize the data.&lt;/li>
-&lt;li>ShortCode HTML&lt;/li>
-&lt;li>Insertion of the ShortCode into any Mark Down file.&lt;/li>
-&lt;/ol>
-&lt;p>Below is a sample JSON Payload that the Short Code uses -&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shortcode on Pulse</title><link>/tags/shortcode/</link><description>Recent content in Shortcode on Pulse</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/shortcode/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo Stock Summary ShortCode Module</title><link>/post/hugo-stock-summary-shortcode/</link><pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate><guid>/post/hugo-stock-summary-shortcode/</guid><description>&lt;p&gt;If you are a regular visitor of my site, you may have noticed, I have started posting daily closing bell stock market &lt;a href="../closing-bell-06282022"&gt;summary&lt;/a&gt;. These pages proceeds with a Market index summary from that day. Let&amp;rsquo;s discuss how I put it together.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is a Hugo ShortCode?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Shortcodes are simple snippets inside your content files calling built-in or custom templates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parts of the Stock Summary ShortCode&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A JSON Payload for each day to summarize the data.&lt;/li&gt;
+&lt;li&gt;ShortCode HTML&lt;/li&gt;
+&lt;li&gt;Insertion of the ShortCode into any Mark Down file.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Below is a sample JSON Payload that the Short Code uses -&lt;/p&gt;</description></item></channel></rss>
