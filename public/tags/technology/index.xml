@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>technology on Pulse</title>
-    <link>/tags/technology/</link>
-    <description>Recent content in technology on Pulse</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Technology on Pulse</title>
+    <link>//localhost:1313/tags/technology/</link>
+    <description>Recent content in Technology on Pulse</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>YouTube Handle</title>
-      <link>/post/youtube-handles/</link>
+      <link>//localhost:1313/post/youtube-handles/</link>
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/post/youtube-handles/</guid>
-      <description>This post will be a short post for those have a YouTube channel. Google recently introduced, Youtube Handles. YouTube handles helps make it easier for members of the community to find and connect with each other. Your handle will be unique to your channel and will be how people mention you in comments, community posts, and more. My YouTube channel handle is iGluonVinyls. Once you have your unique handle name, then you can get a unique URL for your channel as well.</description>
+      <guid>//localhost:1313/post/youtube-handles/</guid>
+      <description>&lt;p&gt;This post will be a short post for those have a YouTube channel. Google recently introduced, Youtube Handles. YouTube handles helps make it easier for members of the community to find and connect with each other. Your handle will be unique to your channel and will be how people mention you in comments, community posts, and more. My YouTube channel handle is iGluonVinyls. Once you have your unique handle name, then you can get a unique URL for your channel as well. For example mine is &lt;a href=&#34;https://www.youtube.com/igluonvinyls&#34;&gt;https://www.youtube.com/igluonvinyls&lt;/a&gt; This URL is much easier to remember than the previous GUID based URL.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo Stock Summary ShortCode Module</title>
-      <link>/post/hugo-stock-summary-shortcode/</link>
+      <link>//localhost:1313/post/hugo-stock-summary-shortcode/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/hugo-stock-summary-shortcode/</guid>
-      <description>If you are a regular visitor of my site, you may have noticed, I have started posting daily closing bell stock market summary. These pages proceeds with a Market index summary from that day. Let&amp;rsquo;s discuss how I put it together.&#xA;What is a Hugo ShortCode?&#xA;Shortcodes are simple snippets inside your content files calling built-in or custom templates.&#xA;Parts of the Stock Summary ShortCode&#xA;A JSON Payload for each day to summarize the data.</description>
+      <guid>//localhost:1313/post/hugo-stock-summary-shortcode/</guid>
+      <description>&lt;p&gt;If you are a regular visitor of my site, you may have noticed, I have started posting daily closing bell stock market &lt;a href=&#34;../closing-bell-06282022&#34;&gt;summary&lt;/a&gt;. These pages proceeds with a Market index summary from that day. Let&amp;rsquo;s discuss how I put it together.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What is a Hugo ShortCode?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Shortcodes are simple snippets inside your content files calling built-in or custom templates.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Parts of the Stock Summary ShortCode&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;A JSON Payload for each day to summarize the data.&lt;/li&gt;&#xA;&lt;li&gt;ShortCode HTML&lt;/li&gt;&#xA;&lt;li&gt;Insertion of the ShortCode into any Mark Down file.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Below is a sample JSON Payload that the Short Code uses -&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bing Image Gallery and Power Automate</title>
-      <link>/post/bing-image-gallery/</link>
+      <link>//localhost:1313/post/bing-image-gallery/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/bing-image-gallery/</guid>
-      <description>I downloaded the Bing wallpaper app. It is actually awesome, everyday I turn on my computer to see what kind of wall paper I get for that day. Most of these are amazing! I use them in my desktop and also as my zoom background! Finally, I created a small Power Automate routine, that downloads each day Bing wall paper and saves it on to my drive.&#xA;I wanted to share some of these Bing images with you!</description>
+      <guid>//localhost:1313/post/bing-image-gallery/</guid>
+      <description>&lt;p&gt;I downloaded the Bing &lt;a href=&#34;https://www.microsoft.com/en-us/bing/bing-wallpaper?pc=W016&amp;amp;gclid=CjwKCAjw-8qVBhANEiwAfjXLrs0lbnSDb49ufCoyZPgW1J5XaEwN6n65MOUb7XTVzkHckVbkQWV8AxoC8a4QAvD_BwE&#34;&gt;wallpaper&lt;/a&gt; app. It is actually awesome, everyday I turn on my computer to see what kind of wall paper I get for that day. Most of these are amazing! I use them in my desktop and also as my zoom background! Finally, I created a small &lt;a href=&#34;https://powerautomate.microsoft.com/&#34;&gt;Power Automate&lt;/a&gt; routine, that downloads each day Bing wall paper and saves it on to my drive.&lt;/p&gt;&#xA;&lt;p&gt;I wanted to share some of these &lt;a href=&#34;https://www.yaheya.com/gallery&#34;&gt;Bing&lt;/a&gt; images with you! Feel free to download them and use them as you see fit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yaheya.Com new site!</title>
-      <link>/post/new-site-2022/</link>
+      <link>//localhost:1313/post/new-site-2022/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/new-site-2022/</guid>
-      <description>After many years, moved my personal site to Hugo, previously DotNet Core Azure Web App. Details of current site can be found here&#xA;Hugo which is the main platform this site runs under is a brilliant idea. Not all sites, needs to be generated off from a Database or need backend server technology.&#xA;The site features -&#xA;Google Analytics Disqus comments Contact form using Formspree Overtime I plan to add many features and post about them as I am doing so.</description>
+      <guid>//localhost:1313/post/new-site-2022/</guid>
+      <description>&lt;p&gt;After many years, moved my personal site to Hugo, previously DotNet Core Azure Web App. Details of current site can be found &lt;a href=&#34;//localhost:1313/about/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; which is the main platform this site runs under is a brilliant idea. Not all sites, needs to be generated off from a Database or need backend server technology.&lt;/p&gt;&#xA;&lt;p&gt;The site features -&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Google Analytics&lt;/li&gt;&#xA;&lt;li&gt;Disqus comments&lt;/li&gt;&#xA;&lt;li&gt;Contact form using Formspree&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Overtime I plan to add many features and post about them as I am doing so. One such post is &lt;a href=&#34;../hugo-stock-summary-shortcode&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,212 +2,213 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/personal/</loc>
+    <loc>//localhost:1313/tags/index/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>//localhost:1313/tags/personal/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/review-luckandstrange/</loc>
+    <loc>//localhost:1313/post/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/post/review-luckandstrange/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/updates/</loc>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/updates/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/igluon/</loc>
+    <loc>//localhost:1313/post/igluon/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/welcome-2024/</loc>
+    <loc>//localhost:1313/post/welcome-2024/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/pc-to-mac/</loc>
+    <loc>//localhost:1313/post/pc-to-mac/</loc>
     <lastmod>2023-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/depeche-mode-suffer-well/</loc>
+    <loc>//localhost:1313/post/depeche-mode-suffer-well/</loc>
     <lastmod>2023-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/phil-collins-easy-lover/</loc>
+    <loc>//localhost:1313/post/phil-collins-easy-lover/</loc>
     <lastmod>2023-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/depeche-mode-concert/</loc>
+    <loc>//localhost:1313/post/depeche-mode-concert/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/pl-beegees/</loc>
+    <loc>//localhost:1313/post/pl-beegees/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/youtubeplaylist/</loc>
+    <loc>//localhost:1313/post/youtubeplaylist/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/in-the-air-tonight/</loc>
+    <loc>//localhost:1313/post/in-the-air-tonight/</loc>
     <lastmod>2023-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/quran/</loc>
+    <loc>//localhost:1313/post/quran/</loc>
     <lastmod>2022-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/trading/</loc>
+    <loc>//localhost:1313/tags/trading/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/trade-technique/</loc>
+    <loc>//localhost:1313/post/trade-technique/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/technology/</loc>
+    <loc>//localhost:1313/tags/technology/</loc>
     <lastmod>2022-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/youtube-handles/</loc>
+    <loc>//localhost:1313/post/youtube-handles/</loc>
     <lastmod>2022-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/pinkfloyd/</loc>
+    <loc>//localhost:1313/post/pinkfloyd/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-08222022/</loc>
+    <loc>//localhost:1313/post/closing-bell-08222022/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-08172022/</loc>
+    <loc>//localhost:1313/post/closing-bell-08172022/</loc>
     <lastmod>2022-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/taha/</loc>
+    <loc>//localhost:1313/post/taha/</loc>
     <lastmod>2022-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/philosophy/</loc>
+    <loc>//localhost:1313/tags/philosophy/</loc>
     <lastmod>2022-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/religion/</loc>
+    <loc>//localhost:1313/tags/religion/</loc>
     <lastmod>2022-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-07182022/</loc>
+    <loc>//localhost:1313/post/closing-bell-07182022/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-07152022/</loc>
+    <loc>//localhost:1313/post/closing-bell-07152022/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-07122022/</loc>
+    <loc>//localhost:1313/post/closing-bell-07122022/</loc>
     <lastmod>2022-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-07112022/</loc>
+    <loc>//localhost:1313/post/closing-bell-07112022/</loc>
     <lastmod>2022-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-07082022/</loc>
+    <loc>//localhost:1313/post/closing-bell-07082022/</loc>
     <lastmod>2022-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-07072022/</loc>
+    <loc>//localhost:1313/post/closing-bell-07072022/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-07062022/</loc>
+    <loc>//localhost:1313/post/closing-bell-07062022/</loc>
     <lastmod>2022-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-07052022/</loc>
+    <loc>//localhost:1313/post/closing-bell-07052022/</loc>
     <lastmod>2022-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/glossary/</loc>
+    <loc>//localhost:1313/post/glossary/</loc>
     <lastmod>2022-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-07012022/</loc>
+    <loc>//localhost:1313/post/closing-bell-07012022/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-06302022/</loc>
+    <loc>//localhost:1313/post/closing-bell-06302022/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-06292022/</loc>
+    <loc>//localhost:1313/post/closing-bell-06292022/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>//localhost:1313/tags/hugo/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/hugo-stock-summary-shortcode/</loc>
+    <loc>//localhost:1313/post/hugo-stock-summary-shortcode/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/shortcode/</loc>
+    <loc>//localhost:1313/tags/shortcode/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-06282022/</loc>
+    <loc>//localhost:1313/post/closing-bell-06282022/</loc>
     <lastmod>2022-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-06272022/</loc>
+    <loc>//localhost:1313/post/closing-bell-06272022/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-06242022/</loc>
+    <loc>//localhost:1313/post/closing-bell-06242022/</loc>
     <lastmod>2022-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-06232022/</loc>
+    <loc>//localhost:1313/post/closing-bell-06232022/</loc>
     <lastmod>2022-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/bing-image-gallery/</loc>
+    <loc>//localhost:1313/post/bing-image-gallery/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-06222022/</loc>
+    <loc>//localhost:1313/post/closing-bell-06222022/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/power-automation/</loc>
+    <loc>//localhost:1313/tags/power-automation/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-06212022/</loc>
+    <loc>//localhost:1313/post/closing-bell-06212022/</loc>
     <lastmod>2022-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/movies/</loc>
+    <loc>//localhost:1313/tags/movies/</loc>
     <lastmod>2022-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/movies2/</loc>
+    <loc>//localhost:1313/post/movies2/</loc>
     <lastmod>2022-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/netflix/</loc>
+    <loc>//localhost:1313/tags/netflix/</loc>
     <lastmod>2022-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/gallery/</loc>
+    <loc>//localhost:1313/gallery/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hulu/</loc>
+    <loc>//localhost:1313/tags/hulu/</loc>
     <lastmod>2022-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/movies/</loc>
+    <loc>//localhost:1313/post/movies/</loc>
     <lastmod>2022-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-06172022/</loc>
+    <loc>//localhost:1313/post/closing-bell-06172022/</loc>
     <lastmod>2022-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/closing-bell-06162022/</loc>
+    <loc>//localhost:1313/post/closing-bell-06162022/</loc>
     <lastmod>2022-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>//localhost:1313/contact/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/education/</loc>
+    <loc>//localhost:1313/education/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/highlights/</loc>
+    <loc>//localhost:1313/highlights/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/onlinesessions/</loc>
+    <loc>//localhost:1313/onlinesessions/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/yaheya/</loc>
+    <loc>//localhost:1313/yaheya/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/new-site-2022/</loc>
+    <loc>//localhost:1313/post/new-site-2022/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>//localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/conferences/</loc>
+    <loc>//localhost:1313/conferences/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>/examples/</loc>
+    <loc>//localhost:1313/examples/</loc>
   </url><url>
-    <loc>/tags/index/</loc>
+    <loc>//localhost:1313/series/</loc>
   </url><url>
-    <loc>/series/</loc>
-  </url><url>
-    <loc>/subjects/</loc>
+    <loc>//localhost:1313/subjects/</loc>
   </url>
 </urlset>

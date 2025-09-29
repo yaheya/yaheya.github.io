@@ -1,138 +1,138 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>personal on Pulse</title>
-    <link>/tags/personal/</link>
-    <description>Recent content in personal on Pulse</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Personal on Pulse</title>
+    <link>//localhost:1313/tags/personal/</link>
+    <description>Recent content in Personal on Pulse</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review of David Gilmour&#39;s new album : Luck and Strange</title>
-      <link>/post/review-luckandstrange/</link>
+      <link>//localhost:1313/post/review-luckandstrange/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/post/review-luckandstrange/</guid>
-      <description>🎵 David Gilmour’s much-anticipated album Luck and Strange dropped on September 6, marking his first release in nine years since Rattle That Lock. Fans were eagerly waiting, especially after preview tracks like &amp;ldquo;The Piper’s Call,&amp;rdquo; &amp;ldquo;Between Two Points,&amp;rdquo; and &amp;ldquo;Dark and Velvet Nights&amp;rdquo; hinted at a mix of the familiar Pink Floyd essence and something new.&#xA;Gilmour doesn’t disappoint. Luck and Strange is a beautifully crafted work with his signature sound—soaring guitar solos, bluesy undertones, and moments of poignant calm.</description>
+      <guid>//localhost:1313/post/review-luckandstrange/</guid>
+      <description>&lt;p&gt;🎵 David Gilmour’s much-anticipated album Luck and Strange dropped on September 6, marking his first release in nine years since Rattle That Lock. Fans were eagerly waiting, especially after preview tracks like &amp;ldquo;The Piper’s Call,&amp;rdquo; &amp;ldquo;Between Two Points,&amp;rdquo; and &amp;ldquo;Dark and Velvet Nights&amp;rdquo; hinted at a mix of the familiar Pink Floyd essence and something new.&lt;/p&gt;&#xA;&lt;p&gt;Gilmour doesn’t disappoint. Luck and Strange is a beautifully crafted work with his signature sound—soaring guitar solos, bluesy undertones, and moments of poignant calm. The album features contributions from his family: daughter Romany shines on &amp;ldquo;Between Two Points&amp;rdquo; and duets on the bonus track &amp;ldquo;Yes, I Have Ghosts.&amp;rdquo; His late Pink Floyd bandmate Rick Wright&amp;rsquo;s electric piano, recorded years before, also makes an appearance, further deepening the connection to his past.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some updates of me</title>
-      <link>/post/updates/</link>
+      <link>//localhost:1313/post/updates/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/post/updates/</guid>
-      <description>Hey everyone! I know it&amp;rsquo;s been a while since my last update – things have been incredibly busy with both work and my YouTube channel!&#xA;Work Update:&#xA;On the professional side, we’re making solid progress on our massive ERP project: the Oracle Financial Cloud deployment. This project is a beast, with over a hundred swim lanes of technical and functional scopes. It’s definitely a challenge to keep up with everything that needs to be done between now and our launch date in July 2025.</description>
+      <guid>//localhost:1313/post/updates/</guid>
+      <description>&lt;p&gt;Hey everyone! I know it&amp;rsquo;s been a while since my last update – things have been incredibly busy with both work and my YouTube channel!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Work Update:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;On the professional side, we’re making solid progress on our massive ERP project: the Oracle Financial Cloud deployment. This project is a beast, with over a hundred swim lanes of technical and functional scopes. It’s definitely a challenge to keep up with everything that needs to be done between now and our launch date in July 2025. But hey, nothing worth doing ever comes easy, right?&lt;/p&gt;</description>
     </item>
     <item>
       <title>My YouTube Channel iGluon</title>
-      <link>/post/igluon/</link>
+      <link>//localhost:1313/post/igluon/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/post/igluon/</guid>
-      <description>Those who know or follow me know I had my own Sole proprietorship in the early 1990s. I am very proud of what I did with my business back then; unfortunately, I had to close that business eventually due to demand from my daytime job. Recently, I started a new YouTube channel based on my old business name, &amp;ldquo;iGluon.&amp;rdquo; I have a lot of ideas to create content that users may find helpful.</description>
+      <guid>//localhost:1313/post/igluon/</guid>
+      <description>&lt;p&gt;Those who know or follow me know I had my own Sole proprietorship in the early 1990s. I am very proud of what I did with my business back then; unfortunately, I had to close that business eventually due to demand from my daytime job. Recently, I started a new YouTube channel based on my old business name, &amp;ldquo;iGluon.&amp;rdquo; I have a lot of ideas to create content that users may find helpful. But for now, I posted a few videos; the acceptance was incredible. In less than a month, my channel got over 8,000 views. My subscriber grew from 3 to 28 also. This is good progress, and I would love to keep up the momentum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Embracing 2024: A Year of Reflection and Renewal</title>
-      <link>/post/welcome-2024/</link>
+      <link>//localhost:1313/post/welcome-2024/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/post/welcome-2024/</guid>
-      <description>Hey everyone!&#xA;As we step into the fresh canvas of 2024, I find myself in a reflective mood, contemplating the journey we&amp;rsquo;ve all been through and the exciting path that lies ahead. This isn&amp;rsquo;t just another year; it&amp;rsquo;s an opportunity for growth, resilience, and embracing new possibilities.&#xA;In the realm of software development, the pace of innovation continues to astonish us. As the Chief Software Architect at the University of California, Santa Barbara, I&amp;rsquo;ve witnessed firsthand the remarkable strides we&amp;rsquo;ve made in technology.</description>
+      <guid>//localhost:1313/post/welcome-2024/</guid>
+      <description>&lt;p&gt;Hey everyone!&lt;/p&gt;&#xA;&lt;p&gt;As we step into the fresh canvas of 2024, I find myself in a reflective mood, contemplating the journey we&amp;rsquo;ve all been through and the exciting path that lies ahead. This isn&amp;rsquo;t just another year; it&amp;rsquo;s an opportunity for growth, resilience, and embracing new possibilities.&lt;/p&gt;&#xA;&lt;p&gt;In the realm of software development, the pace of innovation continues to astonish us. As the Chief Software Architect at the University of California, Santa Barbara, I&amp;rsquo;ve witnessed firsthand the remarkable strides we&amp;rsquo;ve made in technology. The challenges we face are met with ingenious solutions, and our commitment to pushing boundaries remains unwavering.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exciting Milestone in my Software Engineering Journey!</title>
-      <link>/post/pc-to-mac/</link>
+      <link>//localhost:1313/post/pc-to-mac/</link>
       <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/post/pc-to-mac/</guid>
-      <description>Today, I&amp;rsquo;m thrilled to share a monumental shift in my 30-plus years of software engineering career – the decision to make the Mac my primary work station! 🍎&#xA;Looking back, my journey began with Windows, possibly starting with the era of Windows 3.0. It&amp;rsquo;s where I acquired my foundational computing skills and built the pillars of my engineering career, primarily on various Microsoft platforms.&#xA;As technology advanced, so did my tools.</description>
+      <guid>//localhost:1313/post/pc-to-mac/</guid>
+      <description>&lt;p&gt;Today, I&amp;rsquo;m thrilled to share a monumental shift in my 30-plus years of software engineering career – the decision to make the Mac my primary work station! 🍎&lt;/p&gt;&#xA;&lt;p&gt;Looking back, my journey began with Windows, possibly starting with the era of Windows 3.0. It&amp;rsquo;s where I acquired my foundational computing skills and built the pillars of my engineering career, primarily on various Microsoft platforms.&lt;/p&gt;&#xA;&lt;p&gt;As technology advanced, so did my tools. Today, nearly everything essential for my work seamlessly runs on a Mac. From &lt;em&gt;Visual Studio Code/Visual Studio&lt;/em&gt;, &lt;em&gt;Microsoft Office&lt;/em&gt;, &lt;em&gt;Edge/Chrome Browser&lt;/em&gt;, to &lt;em&gt;Azure Data Studio&lt;/em&gt; (a shift from SSMS), and &lt;em&gt;.Net Core&lt;/em&gt; – each performs as well, if not better, than on my trusted Windows platform.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Depeche Mode Suffer Well Vinyl</title>
-      <link>/post/depeche-mode-suffer-well/</link>
+      <link>//localhost:1313/post/depeche-mode-suffer-well/</link>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/post/depeche-mode-suffer-well/</guid>
-      <description>Diving into the final chapter of our Depeche Mode series with &amp;ldquo;Suffer Well.&amp;rdquo; 🎶 Immerse yourself in the magnetic sounds of Dave Gahan that truly captivate in this track. 🌟 Enjoy the ride! 🚀 Also, spiced it up with clips from the unforgettable Memento Mori concert in Las Vegas, December 2023. 🎤🔥</description>
+      <guid>//localhost:1313/post/depeche-mode-suffer-well/</guid>
+      <description>&lt;p&gt;Diving into the final chapter of our Depeche Mode series with &amp;ldquo;Suffer Well.&amp;rdquo; 🎶 Immerse yourself in the magnetic sounds of Dave Gahan that truly captivate in this track. 🌟 Enjoy the ride! 🚀 Also, spiced it up with clips from the unforgettable Memento Mori concert in Las Vegas, December 2023. 🎤🔥&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/h5PvEOtPeEo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>Phil Collins &amp; Philip Bailey Vinyl</title>
-      <link>/post/phil-collins-easy-lover/</link>
+      <link>//localhost:1313/post/phil-collins-easy-lover/</link>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/post/phil-collins-easy-lover/</guid>
-      <description>🎵 Immerse yourself in the timeless melodies of Phil Collins! 📀 Our latest video features his iconic music, creating a nostalgic vinyl experience. 🚫 No copyright infringement is intended; we&amp;rsquo;re sharing the magic of music purely for the love of it. 💙 Support the artist by grabbing the record and let the tunes become a cherished part of your collection! 🎶 #PhilCollins #VinylExperience #MusicLovers</description>
+      <guid>//localhost:1313/post/phil-collins-easy-lover/</guid>
+      <description>&lt;p&gt;🎵 Immerse yourself in the timeless melodies of Phil Collins! 📀 Our latest video features his iconic music, creating a nostalgic vinyl experience. 🚫 No copyright infringement is intended; we&amp;rsquo;re sharing the magic of music purely for the love of it. 💙 Support the artist by grabbing the record and let the tunes become a cherished part of your collection! 🎶 #PhilCollins #VinylExperience #MusicLovers&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/uUNBreqB3FA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>Depeche Mode Concert Memento Mori</title>
-      <link>/post/depeche-mode-concert/</link>
+      <link>//localhost:1313/post/depeche-mode-concert/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/post/depeche-mode-concert/</guid>
-      <description>Attended Depeche Mode Concert Memento Mori at Las Vegas on 12/1/2023. My Youtube Post shows some of it, hope you enjoy -</description>
+      <guid>//localhost:1313/post/depeche-mode-concert/</guid>
+      <description>&lt;p&gt;Attended Depeche Mode Concert Memento Mori at Las Vegas on 12/1/2023. My Youtube Post shows some of it, hope you enjoy -&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/R1_x_jVgk4E?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>Classic Hits in Vinyl Record</title>
-      <link>/post/pl-beegees/</link>
+      <link>//localhost:1313/post/pl-beegees/</link>
       <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
-      <guid>/post/pl-beegees/</guid>
-      <description> </description>
+      <guid>//localhost:1313/post/pl-beegees/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://www.youtube.com/embed/videoseries?list=PLxWZIul5j9h5FWn7FZ_Urv5IIzPn4e6OZ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>iGluon Youtube Channel Playlists</title>
-      <link>/post/youtubeplaylist/</link>
+      <link>//localhost:1313/post/youtubeplaylist/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/post/youtubeplaylist/</guid>
-      <description>Following playlists are now available in my Youtube Channel iGluon. Enjoy!&#xA;Classic Hits in Vinyl Record </description>
+      <guid>//localhost:1313/post/youtubeplaylist/</guid>
+      <description>&lt;p&gt;Following playlists are now available in my Youtube Channel iGluon. Enjoy!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../pl-beegees&#34;&gt;Classic Hits in Vinyl Record&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>In the air tonight - Phil Collins</title>
-      <link>/post/in-the-air-tonight/</link>
+      <link>//localhost:1313/post/in-the-air-tonight/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/post/in-the-air-tonight/</guid>
-      <description>This post is a duplicate of the previous one due to a software glitch that caused sound issues.&#xA;🎶 Take a trip down memory lane with the timeless classic &amp;ldquo;In the Air Tonight&amp;rdquo; by Phil Collins, played on a vintage vinyl record. Let the warm crackle and rich tones transport you back in time. 🕰️ Sit back, relax, and experience the magic of this iconic track as it spins on the turntable.</description>
+      <guid>//localhost:1313/post/in-the-air-tonight/</guid>
+      <description>&lt;p&gt;This post is a duplicate of the previous one due to a software glitch that caused sound issues.&lt;/p&gt;&#xA;&lt;p&gt;🎶 Take a trip down memory lane with the timeless classic &amp;ldquo;In the Air Tonight&amp;rdquo; by Phil Collins, played on a vintage vinyl record. Let the warm crackle and rich tones transport you back in time. 🕰️ Sit back, relax, and experience the magic of this iconic track as it spins on the turntable.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Happy Holidays and New year 2023</title>
-      <link>/post/quran/</link>
+      <link>//localhost:1313/post/quran/</link>
       <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/post/quran/</guid>
-      <description>The year 2023 is approaching us quickly. At the end of 2022, I would like to share 12 hand-picked ayaat (verses) from the Quran. May 2023 brings you happiness, peace and prosper.&#xA;So remember me I will remember you: Baqarah 152 Indeed, the mercy of Allah is near to the doers of good. Alaraf 56 Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned.</description>
+      <guid>//localhost:1313/post/quran/</guid>
+      <description>&lt;p&gt;The year 2023 is approaching us quickly. At the end of 2022, I would like to share 12 hand-picked ayaat (verses) from the Quran. May 2023 brings you happiness, peace and prosper.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;So remember me I will remember you: Baqarah 152&lt;/li&gt;&#xA;&lt;li&gt;Indeed, the mercy of Allah is near to the doers of good. Alaraf 56&lt;/li&gt;&#xA;&lt;li&gt;Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned. Anbiya  35&lt;/li&gt;&#xA;&lt;li&gt;It is not the eyes that are blind but the hearts  Al-Haj 46&lt;/li&gt;&#xA;&lt;li&gt;Repel evil with that which is better. Al Muminun 96&lt;/li&gt;&#xA;&lt;li&gt;Perhaps it is close behind you  - some of that for which you are impatient. Namlayat 72&lt;/li&gt;&#xA;&lt;li&gt;Be, and it is. His command is only when he inteds a thing that he says to it &amp;ldquo;Be, and it is&amp;rdquo; Yasin 82&lt;/li&gt;&#xA;&lt;li&gt;Is the reward for good [anything] but good? Ar-Rahman 60&lt;/li&gt;&#xA;&lt;li&gt;And whoever puts all his trust in Allah (SWT) he will be enough for him At-Talaq 3&lt;/li&gt;&#xA;&lt;li&gt;Verily with every hardship comes ease Ash-Sharh 5&lt;/li&gt;&#xA;&lt;li&gt;And when I am ill, it is He who cures me Ash-Shuara 80&lt;/li&gt;&#xA;&lt;li&gt;Recite in the name of your Lord who created man from a clinging substance. Al-Alaq 1&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Pink Floyd Concert in Los Angeles - Roger with brothers!</title>
-      <link>/post/pinkfloyd/</link>
+      <link>//localhost:1313/post/pinkfloyd/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/post/pinkfloyd/</guid>
-      <description>I am a classic Rock fan. I bought a ticket to go with my brothers and daughter to see Roger Waters - This is not a drill in Cryptoarena Los Angeles.&#xA;The quality of the concert, sound, the environment was absolutely unreal to say the least. However, I must admit Roger&amp;rsquo;s politics is truly crazy. A picture collage of the event with family is below.&#xA;I post a video of the opening in YouTube which got an expected number of views in a short time.</description>
+      <guid>//localhost:1313/post/pinkfloyd/</guid>
+      <description>&lt;p&gt;I am a classic Rock fan. I bought a ticket to go with my brothers and daughter to see Roger Waters - This is not a drill in Cryptoarena Los Angeles.&lt;/p&gt;&#xA;&lt;p&gt;The quality of the concert, sound, the environment was absolutely unreal to say the least. However, I must admit Roger&amp;rsquo;s politics is truly crazy. A picture collage of the event with family is below.&lt;/p&gt;&#xA;&lt;img src=&#34;../../img/roger-with-brothers.jpg&#34; alt=&#34;Roger with Brothers&#34; title=&#34;Top Level Demonstration of Pulse Site&#34; width=&#34;400&#34; height=&#34;350&#34; align=&#34;center&#34; /&gt;&#xA;&lt;p&gt;I post a video of the opening in YouTube which got an expected number of views in a short time. Feel free to watch it &lt;a href=&#34;https://youtu.be/OUgTpLPYNrE&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>My reflections on Suratul Taha</title>
-      <link>/post/taha/</link>
+      <link>//localhost:1313/post/taha/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/post/taha/</guid>
-      <description>This post is different than what I have usually post.&#xA;The sura is Taha in Quran, and the sura summarizes the entire adventure when Allah appeared to Prophet Musa in the holy mountains of Tuwa.&#xA;In a few consecutive Ayaat, the sura describes the conversation between Allah and Musa. One of these conversations that touches me the most is when Allah asked Musa to go to Feraun to spread his word.</description>
+      <guid>//localhost:1313/post/taha/</guid>
+      <description>&lt;p&gt;This post is different than what I have usually post.&lt;/p&gt;&#xA;&lt;p&gt;The sura is Taha in Quran, and the sura summarizes the entire adventure when Allah appeared to Prophet Musa in the holy mountains of Tuwa.&lt;/p&gt;&#xA;&lt;p&gt;In a few consecutive Ayaat, the sura describes the conversation between Allah and Musa. One of these conversations that touches me the most is when Allah asked Musa to go to Feraun to spread his word. Musa asks Allah, among other wishes, to remove his stutter and give him strength so that his voice and appearance are convincible to Feraun. Allah accepts his desire and says, &amp;ldquo;All that you requested has been granted, O Moses! &amp;quot; instantaneously.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bing Image Gallery and Power Automate</title>
-      <link>/post/bing-image-gallery/</link>
+      <link>//localhost:1313/post/bing-image-gallery/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/bing-image-gallery/</guid>
-      <description>I downloaded the Bing wallpaper app. It is actually awesome, everyday I turn on my computer to see what kind of wall paper I get for that day. Most of these are amazing! I use them in my desktop and also as my zoom background! Finally, I created a small Power Automate routine, that downloads each day Bing wall paper and saves it on to my drive.&#xA;I wanted to share some of these Bing images with you!</description>
+      <guid>//localhost:1313/post/bing-image-gallery/</guid>
+      <description>&lt;p&gt;I downloaded the Bing &lt;a href=&#34;https://www.microsoft.com/en-us/bing/bing-wallpaper?pc=W016&amp;amp;gclid=CjwKCAjw-8qVBhANEiwAfjXLrs0lbnSDb49ufCoyZPgW1J5XaEwN6n65MOUb7XTVzkHckVbkQWV8AxoC8a4QAvD_BwE&#34;&gt;wallpaper&lt;/a&gt; app. It is actually awesome, everyday I turn on my computer to see what kind of wall paper I get for that day. Most of these are amazing! I use them in my desktop and also as my zoom background! Finally, I created a small &lt;a href=&#34;https://powerautomate.microsoft.com/&#34;&gt;Power Automate&lt;/a&gt; routine, that downloads each day Bing wall paper and saves it on to my drive.&lt;/p&gt;&#xA;&lt;p&gt;I wanted to share some of these &lt;a href=&#34;https://www.yaheya.com/gallery&#34;&gt;Bing&lt;/a&gt; images with you! Feel free to download them and use them as you see fit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Movies/Shows I recommend - Netflix</title>
-      <link>/post/movies2/</link>
+      <link>//localhost:1313/post/movies2/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/movies2/</guid>
-      <description>This post is for those who love movies and shows like me. I will try to post rare finds that are not always 100% scoring in rotten tomatoes nevertheless in my opinion well worth it to watch. Today&amp;rsquo;s posts can all be viewed in Netflix.&#xA;The Lincoln Lawyer Starring: Neve Campbell, Manuel Garcia-Rulfo Summary: Idealistic lawyer Mickey Haller runs his practise out of the back of his Lincoln Town Car, taking on cases big and small across Los Angeles.</description>
+      <guid>//localhost:1313/post/movies2/</guid>
+      <description>&lt;p&gt;This post is for those who love movies and shows like me. I will try to post rare finds that are not always 100% scoring in rotten tomatoes nevertheless in my opinion well worth it to watch. Today&amp;rsquo;s posts can all be viewed in Netflix.&lt;/p&gt;&#xA;&lt;ul class=&#34;list-group w-50&#34; style=&#34;width:100%;&#34;&gt;&#xA;  &lt;li class=&#34;list-group-item&#34; style=&#34;color:blue;&#34;&gt;&#xA;      &lt;strong&gt;The Lincoln Lawyer&lt;/strong&gt; &#xA;  &lt;/li&gt;&#xA;  &lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Starring:&lt;/strong&gt; Neve Campbell, Manuel Garcia-Rulfo&#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Summary:&lt;/strong&gt; Idealistic lawyer Mickey Haller runs his practise out of the back of his Lincoln Town Car, taking on cases big and small across Los Angeles.&#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Yaheya&#39;s Stars&lt;/strong&gt;   6/10&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul class=&#34;list-group w-50&#34; style=&#34;width:100%;&#34;&gt;&#xA;  &lt;li class=&#34;list-group-item&#34; style=&#34;color:blue;&#34;&gt;&#xA;      &lt;strong&gt;Unbelievable (Netflix)&lt;/strong&gt; &#xA;  &lt;/li&gt;&#xA;  &lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Starring:&lt;/strong&gt; Kaitlyn Dever · Marie Adler ; Toni Collette · Detective Grace Rasmussen ; Merritt Wever · Detective Karen Duvall ; Blake Ellis · Chris McCarthy ;&#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Summary:&lt;/strong&gt; When a teen reports being raped, then recants her story, two female detectives follow evidence that could reveal the truth; based on a true story.&#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Yaheya&#39;s Stars&lt;/strong&gt;    7/10&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul class=&#34;list-group w-50&#34; style=&#34;width:100%;&#34;&gt;&#xA;  &lt;li class=&#34;list-group-item&#34; style=&#34;color:blue;&#34;&gt;&#xA;      &lt;strong&gt;Anatomy of a scandal&lt;/strong&gt; &#xA;  &lt;/li&gt;&#xA;  &lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Starring:&lt;/strong&gt; Sienna Miller · Sophie Whitehouse ; Rupert Friend · James Whitehouse ; Michelle Dockery · Kate Woodcroft ; Sebastian Selwood; Finn Whitehouse ;  &#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Summary:&lt;/strong&gt; Parliamentary minister James Whitehouse is a happily married man with a loving family home, then a scandalous secret comes to light.&#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Yaheya&#39;s Stars&lt;/strong&gt;    8/10&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul class=&#34;list-group w-50&#34; style=&#34;width:100%;&#34;&gt;&#xA;  &lt;li class=&#34;list-group-item&#34; style=&#34;color:blue;&#34;&gt;&#xA;      &lt;strong&gt;The Mauritanian&lt;/strong&gt; &#xA;  &lt;/li&gt;&#xA;  &lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Starring:&lt;/strong&gt; Jodie Foster; Tahar Rahim; Shailene Woodley; Benedict Cumberbatch  &#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Summary:&lt;/strong&gt;A defense attorney, her associate, and a military prosecutor uncover a far-reaching conspiracy while investigating the case of a suspected 9/11 terrorist imprisoned at Guantanamo Bay, Cuba, for six years.&#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Yaheya&#39;s Stars&lt;/strong&gt;    8/10&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Movies/Shows I recommend - Hulu</title>
-      <link>/post/movies/</link>
+      <link>//localhost:1313/post/movies/</link>
       <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/movies/</guid>
-      <description>This post is for those who love movies and shows like me. I will try to post rare finds that are not always 100% scoring in rotten tomatoes nevertheless in my opinion well worth it to watch. Today&amp;rsquo;s post can all be viewed at Hulu.&#xA;The Old Man (Hulu) Starring: Jeff Bridges, John Lithgow, Amy Brenneman, Alia Shawkat, E.J. Bonilla Summary: Dan Chase absconded from the CIA decades ago and has been living off the grid since.</description>
+      <guid>//localhost:1313/post/movies/</guid>
+      <description>&lt;p&gt;This post is for those who love movies and shows like me. I will try to post rare finds that are not always 100% scoring in rotten tomatoes nevertheless in my opinion well worth it to watch. Today&amp;rsquo;s post can all be viewed at Hulu.&lt;/p&gt;&#xA;&lt;ul class=&#34;list-group w-50&#34; style=&#34;width:100%;&#34;&gt;&#xA;  &lt;li class=&#34;list-group-item&#34; style=&#34;color:blue;&#34;&gt;&#xA;      &lt;strong&gt;The Old Man (Hulu)&lt;/strong&gt; &#xA;  &lt;/li&gt;&#xA;  &lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Starring:&lt;/strong&gt; Jeff Bridges, John Lithgow, Amy Brenneman, Alia Shawkat, E.J. Bonilla &lt;br /&gt;&#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Summary:&lt;/strong&gt; Dan Chase absconded from the CIA decades ago and has been living off the grid since. When an assassin arrives and tries to take Chase out, the old operative learns that to ensure his future he now must reconcile his past.&#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Yaheya&#39;s Stars&lt;/strong&gt;   8/10&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul class=&#34;list-group w-50&#34; style=&#34;width:100%;&#34;&gt;&#xA;  &lt;li class=&#34;list-group-item&#34; style=&#34;color:blue;&#34;&gt;&#xA;      &lt;strong&gt;Under the Banner of Heaven (Hulu)&lt;/strong&gt; &#xA;  &lt;/li&gt;&#xA;  &lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Starring:&lt;/strong&gt; Andrew Garfield &lt;br /&gt;&#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Summary:&lt;/strong&gt; Starring Andrew Garfield, FX’s Under the Banner of Heaven, the limited series inspired by the bestseller by Jon Krakauer, follows the murder of Brenda Wright Lafferty and her baby daughter in a suburb in the Salt Lake Valley. As Detective Jeb Pyre investigates events that transpired, he uncovers buried truths about the origins of the LDS religion and the violent consequences of unyielding faith. &#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Yaheya&#39;s Stars&lt;/strong&gt;    7/10&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul class=&#34;list-group w-50&#34; style=&#34;width:100%;&#34;&gt;&#xA;  &lt;li class=&#34;list-group-item&#34; style=&#34;color:blue;&#34;&gt;&#xA;      &lt;strong&gt;Deep Water (Hulu)&lt;/strong&gt; &#xA;  &lt;/li&gt;&#xA;  &lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Starring:&lt;/strong&gt; Ben Affleck, Ana De Armas, Tracy Letts &#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Summary:&lt;/strong&gt; A psychological thriller that takes us inside the marriage of picture-perfect Vic (Ben Affleck) and Melinda (Ana de Armas) Van Allen to discover the dangerous mind games they play and what happens to the people that get caught up in them. &#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Yaheya&#39;s Stars&lt;/strong&gt;    6/10&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul class=&#34;list-group w-50&#34; style=&#34;width:100%;&#34;&gt;&#xA;  &lt;li class=&#34;list-group-item&#34; style=&#34;color:blue;&#34;&gt;&#xA;      &lt;strong&gt;The Dropout (Hulu)&lt;/strong&gt; &#xA;  &lt;/li&gt;&#xA;  &lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Starring:&lt;/strong&gt; Elizabeth Meriwether; Katherine Pope; Michael Showalter; Jordana Mollick; Rebecca Jarvis; Taylor Dunn; Victoria Thompson; Liz Heldens; Liz Hannah. &#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Summary:&lt;/strong&gt; In a tale of ambition and fame gone terribly wrong, Elizabeth Holmes develops healthcare technology that puts millions of patients at risk and loses everything in the blink of an eye.&#xA;&lt;/li&gt;&#xA;&lt;li class=&#34;list-group-item&#34;&gt;&#xA;&lt;strong&gt;Yaheya&#39;s Stars&lt;/strong&gt;    6/10&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Yaheya.Com new site!</title>
-      <link>/post/new-site-2022/</link>
+      <link>//localhost:1313/post/new-site-2022/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/post/new-site-2022/</guid>
-      <description>After many years, moved my personal site to Hugo, previously DotNet Core Azure Web App. Details of current site can be found here&#xA;Hugo which is the main platform this site runs under is a brilliant idea. Not all sites, needs to be generated off from a Database or need backend server technology.&#xA;The site features -&#xA;Google Analytics Disqus comments Contact form using Formspree Overtime I plan to add many features and post about them as I am doing so.</description>
+      <guid>//localhost:1313/post/new-site-2022/</guid>
+      <description>&lt;p&gt;After many years, moved my personal site to Hugo, previously DotNet Core Azure Web App. Details of current site can be found &lt;a href=&#34;//localhost:1313/about/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; which is the main platform this site runs under is a brilliant idea. Not all sites, needs to be generated off from a Database or need backend server technology.&lt;/p&gt;&#xA;&lt;p&gt;The site features -&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Google Analytics&lt;/li&gt;&#xA;&lt;li&gt;Disqus comments&lt;/li&gt;&#xA;&lt;li&gt;Contact form using Formspree&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Overtime I plan to add many features and post about them as I am doing so. One such post is &lt;a href=&#34;../hugo-stock-summary-shortcode&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

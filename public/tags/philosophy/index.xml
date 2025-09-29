@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>philosophy on Pulse</title>
-    <link>/tags/philosophy/</link>
-    <description>Recent content in philosophy on Pulse</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Philosophy on Pulse</title>
+    <link>//localhost:1313/tags/philosophy/</link>
+    <description>Recent content in Philosophy on Pulse</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My reflections on Suratul Taha</title>
-      <link>/post/taha/</link>
+      <link>//localhost:1313/post/taha/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/post/taha/</guid>
-      <description>This post is different than what I have usually post.&#xA;The sura is Taha in Quran, and the sura summarizes the entire adventure when Allah appeared to Prophet Musa in the holy mountains of Tuwa.&#xA;In a few consecutive Ayaat, the sura describes the conversation between Allah and Musa. One of these conversations that touches me the most is when Allah asked Musa to go to Feraun to spread his word.</description>
+      <guid>//localhost:1313/post/taha/</guid>
+      <description>&lt;p&gt;This post is different than what I have usually post.&lt;/p&gt;&#xA;&lt;p&gt;The sura is Taha in Quran, and the sura summarizes the entire adventure when Allah appeared to Prophet Musa in the holy mountains of Tuwa.&lt;/p&gt;&#xA;&lt;p&gt;In a few consecutive Ayaat, the sura describes the conversation between Allah and Musa. One of these conversations that touches me the most is when Allah asked Musa to go to Feraun to spread his word. Musa asks Allah, among other wishes, to remove his stutter and give him strength so that his voice and appearance are convincible to Feraun. Allah accepts his desire and says, &amp;ldquo;All that you requested has been granted, O Moses! &amp;quot; instantaneously.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

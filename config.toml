@@ -3,7 +3,7 @@
 baseurl = ""
 title = "Pulse"
 languageCode = "en-us"
-paginate = "30" # Number of posts per page
+pagerSize = 10
 #disqusShortname = "" # Enable comments by entering your Disqus shortname
 #googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 #-------------------------------------------------------------------------------
