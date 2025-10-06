@@ -2,6 +2,14 @@
 
 * {
     font-family: 'Tahoma', sans-serif;
+    /* Disclaimer/Footer Text */
+        .disclaimer {
+            font-size: 0.9rem;
+            color: #6c757d;
+            margin-top: 2.5rem;
+            padding-top: 1rem;
+            border-top: 1px solid #dee2e6;
+        }
 }
 
 
