@@ -36,6 +36,9 @@ Bedrock handles the model deployment complexity. Our focus shifts to the infrast
 &lt;p&gt;&lt;strong&gt;Global State:&lt;/strong&gt; Ensuring conversational state (chat history) is managed in a globally replicated, low-latency data store (like DynamoDB Global Tables).&lt;/p&gt;
 &lt;p&gt;Cross-region inference is the essential capability for building the next generation of resilient, compliant, and globally distributed LLM applications.&lt;/p&gt;
 &lt;p&gt;What are your thoughts on state management in this multi-region environment? Let&amp;rsquo;s connect.&lt;/p&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;img src=&#34;../../img/bedrock.png&#34; alt=&#34;AWS Bedrock&#34; width=&#34;600&#34; height=&#34;600&#34; style=&#34;width: 400px; height: 400px; border: 5px solid blue; margin: 0 auto; display: block;&#34;&gt;
+&lt;/div&gt;
 &lt;p&gt;#AWS #Bedrock #LLM #SoftwareArchitecture #CloudComputing #UCSB&lt;/p&gt;
 </description>
     </item>

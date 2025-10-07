@@ -5,13 +5,16 @@
     <loc>//localhost:1313/</loc>
     <lastmod>2025-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/index/</loc>
+    <loc>//localhost:1313/tags/bedrock/</loc>
     <lastmod>2025-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/bedrock/</loc>
     <lastmod>2025-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/personal/</loc>
+    <loc>//localhost:1313/tags/index/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/llm/</loc>
     <lastmod>2025-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/</loc>
@@ -19,6 +22,12 @@
   </url><url>
     <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/technology/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/personal/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/review-luckandstrange/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
@@ -61,9 +70,6 @@
   </url><url>
     <loc>//localhost:1313/post/trade-technique/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/technology/</loc>
-    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/youtube-handles/</loc>
     <lastmod>2022-11-03T00:00:00+00:00</lastmod>

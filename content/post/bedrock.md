@@ -34,5 +34,8 @@ Bedrock handles the model deployment complexity. Our focus shifts to the infrast
 Cross-region inference is the essential capability for building the next generation of resilient, compliant, and globally distributed LLM applications.
 
 What are your thoughts on state management in this multi-region environment? Let's connect.
+<div style="text-align: center;">
+<img src="../../img/bedrock.png" alt="AWS Bedrock" width="600" height="600" style="width: 400px; height: 400px; border: 5px solid blue; margin: 0 auto; display: block;">
+</div>
 
 #AWS #Bedrock #LLM #SoftwareArchitecture #CloudComputing #UCSB
