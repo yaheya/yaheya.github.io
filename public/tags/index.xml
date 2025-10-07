@@ -6,13 +6,34 @@
     <description>Recent content in Tags on Pulse</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bedrock</title>
+      <link>//localhost:1313/tags/bedrock/</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/bedrock/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Index</title>
       <link>//localhost:1313/tags/index/</link>
-      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>//localhost:1313/tags/llm/</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>//localhost:1313/tags/technology/</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/technology/</guid>
       <description></description>
     </item>
     <item>
@@ -27,13 +48,6 @@
       <link>//localhost:1313/tags/trading/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/trading/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>//localhost:1313/tags/technology/</link>
-      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/technology/</guid>
       <description></description>
     </item>
     <item>

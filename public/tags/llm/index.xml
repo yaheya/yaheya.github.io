@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLM on Pulse</title>
+    <link>//localhost:1313/tags/llm/</link>
+    <description>Recent content in LLM on Pulse</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bedrock&#39;s Game Changer: Why Cross-Region LLM Inference is a Must-Have</title>
+      <link>//localhost:1313/post/bedrock/</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/bedrock/</guid>
+      <description>&lt;p&gt;As Chief Software Architect at UC Santa Barbara, I focus on integrating cutting-edge cloud features like AWS Bedrock. For enterprise LLM deployment, we must solve three non-negotiables: latency, data gravity, and resiliency.&lt;/p&gt;&#xA;&lt;p&gt;Cross-region inference in Bedrock is the definitive answer, moving LLM strategy from experiment to production-grade architecture.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Pillars of Multi-Region LLM Architecture&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;High Resiliency and Failover&#xA;Single-region deployment is a critical vulnerability. Cross-region inference allows immediate, automatic failover (e.g., from us-east-1 to us-west-2). This maintains API parity and model consistency across geographies, guaranteeing uninterrupted service for critical applications.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
