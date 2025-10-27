@@ -6,7 +6,26 @@
     <description>Recent posts from on Pulse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architecting Tomorrow</title>
+      <link>//localhost:1313/post/introducing-its-architeture-group/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/post/introducing-its-architeture-group/</guid>
+      <description>&lt;p&gt;Explore the future of IT at UCSB with &amp;ldquo;Architecting Tomorrow,&amp;rdquo; a short film introducing our Enterprise Architecture group! This video provides an engaging, animated look into who we are, what we do, and our vision for a more connected and efficient technological landscape at UCSB.&lt;/p&gt;
+&lt;p&gt;In this video, you&amp;rsquo;ll meet the expert team dedicated to bridging the gap between vision and implementation in IT. We&amp;rsquo;ll cover:&lt;/p&gt;
+&lt;p&gt;Why It Matters: Discover why architecture is crucial in IT, helping to manage complexity, ensure sustainability, and bring clarity and alignment to technology solutions at UCSB. We embrace best practices, stay cutting-edge, ensure consistency, and plan for the future, acting as guides rather than enforcers.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s Next: See how we aim to be a valuable resource for you through consultation, guidance, review, and collaboration. We are also looking to define how our group best fits future needs, elevate common pain points, and develop a pattern for Cloud Native Application Development to accelerate innovation and improve reliability. Our plans also include standardizing and strengthening the data foundation, advancing analytical reporting capabilities, and enabling scalable, intelligent data use.&lt;/p&gt;
+&lt;p&gt;This presentation highlights our collective expertise in AWS Certified Solutions Architecture, large-scale software system design, data analytics, big data, machine learning, and artificial intelligence, coupled with an in-depth understanding of Campus business processes and domains.&lt;/p&gt;
+&lt;p&gt;We guide, not gatekeep, bridging vision to execution—together.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/TaeADzCrFjw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+</description>
+    </item>
+    
     <item>
       <title>Bedrock&#39;s Game Changer: Why Cross-Region LLM Inference is a Must-Have</title>
       <link>//localhost:1313/post/bedrock/</link>
