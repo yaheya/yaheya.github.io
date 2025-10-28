@@ -13,7 +13,7 @@
       <link>//localhost:1313/post/fire-crawl/</link>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/post/fire-crawl/</guid>
-      <description>&lt;p&gt;Hey AI builders! Tired of dealing with messy HTML when trying to ground your AWS Bedrock applications with real-world data?&lt;/p&gt;&#xA;&lt;p&gt;Meet Firecrawl (&lt;a href=&#34;https://www.firecrawl.dev/)&#34;&gt;https://www.firecrawl.dev/)&lt;/a&gt;, the AI-first web crawling and scraping API that&amp;rsquo;s changing the RAG game.&lt;/p&gt;&#xA;&lt;p&gt;What is Firecrawl?&#xA;Firecrawl is designed to solve the headache of getting clean web data for Large Language Models (LLMs). Instead of wrestling with traditional scrapers, Firecrawl:&lt;/p&gt;&#xA;&lt;p&gt;Crawls entire websites or scrapes single pages.&lt;/p&gt;&#xA;&lt;p&gt;Cleans the content automatically (removes headers, footers, ads).&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hey AI builders! Tired of dealing with messy HTML when trying to ground your AWS Bedrock applications with real-world data?&lt;/p&gt;&#xA;&lt;p&gt;Meet Firecrawl (&lt;a href=&#34;https://www.firecrawl.dev&#34;&gt;https://www.firecrawl.dev&lt;/a&gt;), the AI-first web crawling and scraping API that&amp;rsquo;s changing the RAG game.&lt;/p&gt;&#xA;&lt;p&gt;What is Firecrawl?&#xA;Firecrawl is designed to solve the headache of getting clean web data for Large Language Models (LLMs). Instead of wrestling with traditional scrapers, Firecrawl:&lt;/p&gt;&#xA;&lt;p&gt;Crawls entire websites or scrapes single pages.&lt;/p&gt;&#xA;&lt;p&gt;Cleans the content automatically (removes headers, footers, ads).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Architecting Tomorrow</title>

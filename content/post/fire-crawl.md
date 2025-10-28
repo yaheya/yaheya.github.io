@@ -9,7 +9,7 @@ tags = [
 +++
 Hey AI builders! Tired of dealing with messy HTML when trying to ground your AWS Bedrock applications with real-world data?
 
-Meet Firecrawl (https://www.firecrawl.dev/), the AI-first web crawling and scraping API that's changing the RAG game.
+Meet Firecrawl (https://www.firecrawl.dev), the AI-first web crawling and scraping API that's changing the RAG game.
 
 What is Firecrawl?
 Firecrawl is designed to solve the headache of getting clean web data for Large Language Models (LLMs). Instead of wrestling with traditional scrapers, Firecrawl:
