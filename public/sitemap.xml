@@ -3,16 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/fire-crawl/</loc>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/index/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/personal/</loc>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/introducing-its-architeture-group/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/bedrock/</loc>
     <lastmod>2025-10-07T00:00:00+00:00</lastmod>
@@ -25,9 +34,6 @@
   </url><url>
     <loc>//localhost:1313/tags/technology/</loc>
     <lastmod>2025-10-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/personal/</loc>
-    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/review-luckandstrange/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
@@ -59,7 +65,7 @@
     <loc>//localhost:1313/post/youtubeplaylist/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/introducing-its-architeture-group/</loc>
+    <loc>//localhost:1313/post/in-the-air-tonight/</loc>
     <lastmod>2023-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/quran/</loc>

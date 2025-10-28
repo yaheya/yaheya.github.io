@@ -6,7 +6,29 @@
     <description>Recent posts from on Pulse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firecrawl LLM Ready AWS Bedrock RAG</title>
+      <link>//localhost:1313/post/fire-crawl/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/post/fire-crawl/</guid>
+      <description>&lt;p&gt;Hey AI builders! Tired of dealing with messy HTML when trying to ground your AWS Bedrock applications with real-world data?&lt;/p&gt;
+&lt;p&gt;Meet Firecrawl (&lt;a href=&#34;https://www.firecrawl.dev/)&#34;&gt;https://www.firecrawl.dev/)&lt;/a&gt;, the AI-first web crawling and scraping API that&amp;rsquo;s changing the RAG game.&lt;/p&gt;
+&lt;p&gt;What is Firecrawl?
+Firecrawl is designed to solve the headache of getting clean web data for Large Language Models (LLMs). Instead of wrestling with traditional scrapers, Firecrawl:&lt;/p&gt;
+&lt;p&gt;Crawls entire websites or scrapes single pages.&lt;/p&gt;
+&lt;p&gt;Cleans the content automatically (removes headers, footers, ads).&lt;/p&gt;
+&lt;p&gt;Converts it into clean, LLM-optimized formats like Markdown or structured JSON.&lt;/p&gt;
+&lt;p&gt;It handles JavaScript rendering and anti-bot measures, so your focus stays on building, not fixing broken scrapers.&lt;/p&gt;
+&lt;p&gt;The Bedrock Connection 💡
+For anyone building applications on AWS Bedrock—especially those using Knowledge Bases and Agents for Retrieval-Augmented Generation (RAG)—Firecrawl is a perfect complementary tool:&lt;/p&gt;
+&lt;p&gt;High-Quality Knowledge Bases: Bedrock Knowledge Bases are essential for grounding FMs like Claude and Llama. Firecrawl ensures the data you ingest is already clean, perfectly formatted (Markdown is excellent for RAG), and highly relevant, leading to better retrieval accuracy and fewer hallucinations.&lt;/p&gt;
+&lt;p&gt;Agent Tools: You can integrate the Firecrawl API directly into your Bedrock Agents as a custom tool, allowing your agent to perform real-time, intelligent scraping and data extraction when needed.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re using Bedrock, check out Firecrawl to streamline your data pipeline and start feeding your models the high-quality, structured data they deserve!&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Architecting Tomorrow</title>
       <link>//localhost:1313/post/introducing-its-architeture-group/</link>

@@ -6,8 +6,22 @@
     <description>Recent content in Personal on Pulse</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architecting Tomorrow</title>
+      <link>//localhost:1313/post/fire-crawl/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/fire-crawl/</guid>
+      <description>&lt;p&gt;Hey AI builders! Tired of dealing with messy HTML when trying to ground your AWS Bedrock applications with real-world data?&lt;/p&gt;&#xA;&lt;p&gt;Meet Firecrawl (&lt;a href=&#34;https://www.firecrawl.dev/)&#34;&gt;https://www.firecrawl.dev/)&lt;/a&gt;, the AI-first web crawling and scraping API that&amp;rsquo;s changing the RAG game.&lt;/p&gt;&#xA;&lt;p&gt;What is Firecrawl?&#xA;Firecrawl is designed to solve the headache of getting clean web data for Large Language Models (LLMs). Instead of wrestling with traditional scrapers, Firecrawl:&lt;/p&gt;&#xA;&lt;p&gt;Crawls entire websites or scrapes single pages.&lt;/p&gt;&#xA;&lt;p&gt;Cleans the content automatically (removes headers, footers, ads).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Architecting Tomorrow</title>
+      <link>//localhost:1313/post/introducing-its-architeture-group/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/introducing-its-architeture-group/</guid>
+      <description>&lt;p&gt;Explore the future of IT at UCSB with &amp;ldquo;Architecting Tomorrow,&amp;rdquo; a short film introducing our Enterprise Architecture group! This video provides an engaging, animated look into who we are, what we do, and our vision for a more connected and efficient technological landscape at UCSB.&lt;/p&gt;&#xA;&lt;p&gt;In this video, you&amp;rsquo;ll meet the expert team dedicated to bridging the gap between vision and implementation in IT. We&amp;rsquo;ll cover:&lt;/p&gt;&#xA;&lt;p&gt;Why It Matters: Discover why architecture is crucial in IT, helping to manage complexity, ensure sustainability, and bring clarity and alignment to technology solutions at UCSB. We embrace best practices, stay cutting-edge, ensure consistency, and plan for the future, acting as guides rather than enforcers.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Review of David Gilmour&#39;s new album : Luck and Strange</title>
       <link>//localhost:1313/post/review-luckandstrange/</link>
@@ -80,9 +94,9 @@
     </item>
     <item>
       <title>In the air tonight - Phil Collins</title>
-      <link>//localhost:1313/post/introducing-its-architeture-group/</link>
+      <link>//localhost:1313/post/in-the-air-tonight/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/introducing-its-architeture-group/</guid>
+      <guid>//localhost:1313/post/in-the-air-tonight/</guid>
       <description>&lt;p&gt;This post is a duplicate of the previous one due to a software glitch that caused sound issues.&lt;/p&gt;&#xA;&lt;p&gt;🎶 Take a trip down memory lane with the timeless classic &amp;ldquo;In the Air Tonight&amp;rdquo; by Phil Collins, played on a vintage vinyl record. Let the warm crackle and rich tones transport you back in time. 🕰️ Sit back, relax, and experience the magic of this iconic track as it spins on the turntable.&lt;/p&gt;</description>
     </item>
     <item>
