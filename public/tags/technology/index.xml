@@ -6,8 +6,15 @@
     <description>Recent content in Technology on Pulse</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firecrawl LLM Ready AWS Bedrock RAG</title>
+      <link>//localhost:1313/post/fire-crawl/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/fire-crawl/</guid>
+      <description>&lt;p&gt;Hey AI builders! Tired of dealing with messy HTML when trying to ground your AWS Bedrock applications with real-world data?&lt;/p&gt;&#xA;&lt;p&gt;Meet Firecrawl (&lt;a href=&#34;https://www.firecrawl.dev&#34;&gt;https://www.firecrawl.dev&lt;/a&gt;), the AI-first web crawling and scraping API that&amp;rsquo;s changing the RAG game.&lt;/p&gt;&#xA;&lt;p&gt;What is Firecrawl?&#xA;Firecrawl is designed to solve the headache of getting clean web data for Large Language Models (LLMs). Instead of wrestling with traditional scrapers, Firecrawl:&lt;/p&gt;&#xA;&lt;p&gt;Crawls entire websites or scrapes single pages.&lt;/p&gt;&#xA;&lt;p&gt;Cleans the content automatically (removes headers, footers, ads).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Bedrock&#39;s Game Changer: Why Cross-Region LLM Inference is a Must-Have</title>
       <link>//localhost:1313/post/bedrock/</link>

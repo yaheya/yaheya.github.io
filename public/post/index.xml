@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Pulse</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stereo Amplifiers: The Audiophile&#39;s choice for 2.1 and Vinyl</title>
+      <link>//localhost:1313/post/amp-versus-reciever/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/amp-versus-reciever/</guid>
+      <description>&lt;p&gt;For listeners whose primary focus is two-channel (stereo) music listening, especially the rich, analog sound of vinyl records, a dedicated integrated stereo amplifier (often just called a stereo amplifier) is generally preferred over a multi-channel AV receiver (AVR). This preference is rooted in audio fidelity, design philosophy, and specific requirements for turntable playback.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Focus on Audio Purity and Quality&#xA;An integrated stereo amplifier is designed with a single, uncompromising goal: to take a two-channel signal and amplify it with the highest possible fidelity.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Dedicated Resources: A stereo amplifier channels its entire budget and design effort into only two amplifier channels (Left and Right), plus a pre-amplifier section. This means the manufacturer can invest in higher-quality components for the power supply, capacitors, and internal circuitry compared to an AVR at a similar price point.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Firecrawl LLM Ready AWS Bedrock RAG</title>
       <link>//localhost:1313/post/fire-crawl/</link>
