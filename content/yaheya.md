@@ -5,7 +5,7 @@ date = "2022-06-07"
 aliases = ["about-me", "about-pulse", "pulse"]
 author = "Yaheya Quazi"
 +++
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <a href="/yaheya/" class="btn btn-info.disabled" role="button">Summary</a> <a href="/highlights/" class="btn btn-success" role="button">Highlights</a> <a href="/education/" class="btn btn-warning" role="button">Education</a> <a href="/conferences/" class="btn btn-secondary" role="button">Conferences</a> <a href="/onlinesessions/" class="btn btn-danger" role="button">Online Sessions</a>
 
 ## Summary
@@ -19,3 +19,5 @@ I possess a fervent interest in emerging technologies and possess the expertise 
 Throughout my career, I have demonstrated a remarkable ability to build, orchestrate, and oversee large-scale, mission-focused technology teams, even within consolidated and federated environments, including instances involving mergers and acquisitions. My proficiency extends to collaborating with and coordinating federated teams across intricate social and organizational structures.
 
 As an experienced architect, I excel at devising solutions for the most socially intricate and demanding enterprise-wide collaborations, strategy formulation, significant transformations, information assurance and security, technology envisioning, and the pursuit of operational excellence. My extensive experience, unflagging enthusiasm, and profound expertise make me an invaluable asset to any organization.
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="yaheya" data-version="v1">
