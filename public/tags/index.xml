@@ -9,6 +9,20 @@
     <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cloud</title>
+      <link>//localhost:1313/tags/cloud/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>//localhost:1313/tags/code/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Index</title>
       <link>//localhost:1313/tags/index/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
@@ -39,7 +53,7 @@
     <item>
       <title>Technology</title>
       <link>//localhost:1313/tags/technology/</link>
-      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/technology/</guid>
       <description></description>
     </item>

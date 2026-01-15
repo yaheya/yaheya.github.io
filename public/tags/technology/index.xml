@@ -6,8 +6,15 @@
     <description>Recent content in Technology on Pulse</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Scalable and Resilient Cloud Applications</title>
+      <link>//localhost:1313/post/cloud-native/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/cloud-native/</guid>
+      <description>&lt;p&gt;I recently had the privilege of presenting to the Developer Collaboration group at UC Santa Barbara, a gathering of both Software Developers and Infrastructure Engineers.  The topic was &lt;strong&gt;Cloud Native Application Development&lt;/strong&gt;, but the underlying theme was much deeper: the urgent need to bridge the historical divide between those who write the code and those who manage the systems that run it.&lt;/p&gt;&#xA;&lt;p&gt;For years, the industry relied on a Lift and Shift strategy.  While this moved us to the cloud, it often failed to unlock true application scalability and infrastructure efficiency.  To move forward, we have to acknowledge that infrastructure considerations can no longer be an afterthought—they must become integral to the application development lifecycle.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Firecrawl LLM Ready AWS Bedrock RAG</title>
       <link>//localhost:1313/post/fire-crawl/</link>

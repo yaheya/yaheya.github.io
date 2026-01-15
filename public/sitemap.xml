@@ -8,6 +8,12 @@
     <loc>//localhost:1313/post/cloud-native/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/cloud/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/code/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/post/happy-2026/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,13 +35,13 @@
     <loc>//localhost:1313/tags/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/technology/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/post/amp-versus-reciever/</loc>
     <lastmod>2025-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/fire-crawl/</loc>
-    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/technology/</loc>
     <lastmod>2025-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/introducing-its-architeture-group/</loc>
