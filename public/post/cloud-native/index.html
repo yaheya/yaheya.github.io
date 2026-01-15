@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  
+ </head>
+<html lang=""><head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    
+    <title>Building Scalable and Resilient Cloud Applications | Pulse</title>
+    <meta name="description" content="Building Scalable and Resilient Cloud Applications">
+    <meta property="og:site_name" content="Building Scalable and Resilient Cloud Applications" />
+    <meta property="og:title" content="Pulse" />
+    <meta property="og:description" content="I recently had the privilege of presenting to the Developer Collaboration group at UC Santa Barbara, a gathering of both Software Developers and Infrastructure Engineers. The topic was Cloud Native Application Development, but the underlying theme was much deeper: the urgent need to bridge the historical divide between those who write the code and those who manage the systems that run it.
+For years, the industry relied on a Lift and Shift strategy. While this moved us to the cloud, it often failed to unlock true application scalability and infrastructure efficiency. To move forward, we have to acknowledge that infrastructure considerations can no longer be an afterthought—they must become integral to the application development lifecycle.
+" />
+    <meta property="og:image" content="//localhost:1313/img/yaheya-quazi-profile-picture.png" />
+    <meta name="keywords"
+          content="" />
+    
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css"
+        integrity="sha384-3UiQGuEI4TTMaFmGIZumfRPtfKQ3trwQE2JgosJxCnGmQpL/lJdjpcHkaaFwHlcI"
+          crossorigin="anonymous">
+
+    
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.js"
+        integrity="sha384-G0zcxDFp5LWZtDuRMnBkk3EphCK1lhEf4UEyEM693ka574TZGwo4IWwS6QLzM/2t"
+        crossorigin="anonymous">
+    </script>
+
+    
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/auto-render.min.js"
+        integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"
+        onload="renderMathInElement(document.body);">
+    </script>
+    
+    <meta name="keywords" content="fast, hugo, theme, minimal, gruvbox">
+    <link rel="icon" type="image/svg" href='//localhost:1313/img/logo.png' />
+    <meta name="author" content='Yaheya_Quazi'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Hugo 0.150.1">
+    
+    <link rel="stylesheet" href="//localhost:1313/sass/main.min.0103b916c8afc6b480a6b2face32a8f3b6eeb527beba6806978463204a758917.css" type="text/css" media="screen">
+
+    <link rel="stylesheet" href="//localhost:1313/layouts/css/style.css">
+
+    
+
+    
+    </head><body>
+      <div class="line" id="scrollIndicator"></div>
+      <div class="main">
+<div class="container">
+  <div class="row align-items-start">
+    <div class="col">
+      <a href="https://www.yaheya.com/"><img src="http://www.yaheya.com/img/Yaheya-Quazi-Logo.png" class="responsive-image" style="max-width: 60%;height: auto;"/></a>
+    </div>
+    <div class="col">
+      <div class="nav"><a href="//localhost:1313/yaheya/">About</a><a href="//localhost:1313/tags/">Categories</a><a href="//localhost:1313/post/">Posts</a>
+</div>
+
+    </div>
+    <div class="col">
+      <div class="col" style="text-align:right">
+        <div class="color-scheme">
+          <input type="checkbox" class="checkbox" id="chk" />
+          
+          <label class="label" for="chk">
+                  <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="moon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M283.211 512c78.962 0 151.079-35.925 198.857-94.792 7.068-8.708-.639-21.43-11.562-19.35-124.203 23.654-238.262-71.576-238.262-196.954 0-72.222 38.662-138.635 101.498-174.394 9.686-5.512 7.25-20.197-3.756-22.23A258.156 258.156 0 0 0 283.211 0c-141.309 0-256 114.511-256 256 0 141.309 114.511 256 256 256z"></path></svg>
+                  <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="sun" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 160c-52.9 0-96 43.1-96
+                          96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96zm246.4 80.5l-94.7-47.3 33.5-100.4c4.5-13.6-8.4-26.5-21.9-21.9l-100.4 33.5-47.4-94.8c-6.4-12.8-24.6-12.8-31 0l-47.3 94.7L92.7 70.8c-13.6-4.5-26.5 8.4-21.9 21.9l33.5 100.4-94.7 47.4c-12.8 6.4-12.8 24.6 0 31l94.7 47.3-33.5 100.5c-4.5 13.6 8.4 26.5 21.9 21.9l100.4-33.5 47.3 94.7c6.4 12.8 24.6 12.8 31 0l47.3-94.7 100.4 33.5c13.6 4.5 26.5-8.4 21.9-21.9l-33.5-100.4 94.7-47.3c13-6.5 13-24.7.2-31.1zm-155.9 106c-49.9 49.9-131.1 49.9-181 0-49.9-49.9-49.9-131.1 0-181 49.9-49.9 131.1-49.9 181 0 49.9 49.9 49.9 131.1 0 181z"></path></svg>
+            <div class="ball"></div>
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const themeSetter = (theme) => {
+      document.body.classList.toggle('dark')
+      localStorage.setItem('theme', theme)
+      blockSwitcher()
+  }
+
+  const blockSwitcher = () => [...document.getElementsByTagName("BLOCKQUOTE")]
+	.forEach(b => b.classList.toggle('dark'))
+
+  const styleSwapper = () => {
+      document.body.classList.add('back-transition')
+      if (localStorage.getItem('theme') === 'dark') themeSetter('light')
+      else if (localStorage.getItem('theme') === 'light') themeSetter('dark')
+  }
+
+  if (localStorage.getItem('theme') === 'dark'){
+      themeSetter('dark')
+      document.addEventListener("DOMContentLoaded", blockSwitcher)
+  }
+ else localStorage.setItem('theme', 'light')
+
+  document.getElementById('chk').addEventListener('change',styleSwapper);
+
+  window.addEventListener("scroll", () => {
+      let height = document.documentElement.scrollHeight
+          - document.documentElement.clientHeight;
+      if(height >= 500){
+	  let winScroll = document.body.scrollTop
+              || document.documentElement.scrollTop;
+	  let scrolled = (winScroll / height) * 100;
+	  document.getElementById("scrollIndicator").style.width = scrolled + "%";
+      }
+  });
+</script>
+
+<section class="intro">
+  
+  <div class="post-header">
+    <a class="go-back" href="//localhost:1313//post/"><svg aria-hidden="true" focusable="false" data-prefix="far" class="back-icon" data-icon="caret-square-left" height="25px" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M272 157.1v197.8c0 10.7-13 16.1-20.5 8.5l-98.3-98.9c-4.7-4.7-4.7-12.2 0-16.9l98.3-98.9c7.5-7.7 20.5-2.3 20.5 8.4zM448 80v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48zm-48 346V86c0-3.3-2.7-6-6-6H54c-3.3 0-6 2.7-6 6v340c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"></path></svg> </a>
+    <h2 class="post-title">Building Scalable and Resilient Cloud Applications</h2>
+</div>
+<p class="post-dets">Published on: January 3, 2026
+  | Reading Time: 4 min | Last Modified: January 3, 2026
+</p>
+
+<span class="tags">
+  
+  <h5><a class="tag" href='//localhost:1313/tags/technology'>technology</a></h5>
+  
+  <h5><a class="tag" href='//localhost:1313/tags/code'>code</a></h5>
+  
+  <h5><a class="tag" href='//localhost:1313/tags/cloud'>cloud</a></h5>
+  
+</span>
+<div class="content">
+  <p>I recently had the privilege of presenting to the Developer Collaboration group at UC Santa Barbara, a gathering of both Software Developers and Infrastructure Engineers.  The topic was <strong>Cloud Native Application Development</strong>, but the underlying theme was much deeper: the urgent need to bridge the historical divide between those who write the code and those who manage the systems that run it.</p>
+<p>For years, the industry relied on a Lift and Shift strategy.  While this moved us to the cloud, it often failed to unlock true application scalability and infrastructure efficiency.  To move forward, we have to acknowledge that infrastructure considerations can no longer be an afterthought—they must become integral to the application development lifecycle.</p>
+<p>Here is a summary of the core concepts we discussed regarding the shift to a collaborative, Cloud-Native future.</p>
+<h2 id="the-core-characteristics-of-cloud-native">The Core Characteristics of Cloud Native</h2>
+<p>Cloud native is not just about where the application lives; it is about how it is built, packaged, and managed.  We broke this down into four pillars:</p>
+<ol>
+<li><strong>Modular Architecture:</strong> Moving away from monolithic structures toward service-based designs.  This requires infrastructure that supports a distributed nature, involving changes to network configurations, load balancing, and inter-service communication.</li>
+<li><strong>Standardized Containerization:</strong> Using consistent packaging across environments.  This facilitates <strong>Infrastructure as Code (IaC)</strong>, allowing infrastructure teams to manage resources programmatically to support specific application needs.</li>
+<li><strong>Automated Management:</strong> Leveraging platforms for automated resource handling[cite: 77].  This requires &ldquo;Team Synergy,&rdquo; where developers and infrastructure engineers collaborate on resource definitions and scaling policies.</li>
+<li><strong>Integrated DevOps:</strong> Merging development and operations practices[cite: 79].  Pipelines must now include the automated provisioning of necessary cloud infrastructure, not just code deployment.</li>
+</ol>
+<h2 id="the-end-of-it-works-on-my-machine">The End of &ldquo;It Works on My Machine&rdquo;</h2>
+<p>One of the most significant shifts in this new model is the developer workflow[cite: 136].  In the traditional on-premise model, developers worked in silos within static environments[cite: 117].  Code was written locally, and if it worked on localhost, it was considered ready, often leading to the infamous &ldquo;It works on my machine!&rdquo; defense when production issues arose[cite: 119].</p>
+<p>In a Cloud-Native environment, we move toward <strong>Infrastructure Awareness</strong>.</p>
+<ul>
+<li><strong>The Old Way:</strong> Local debugging on a flat, open internal network where the developer is unaware of infrastructure constraints[cite: 147, 148].</li>
+<li><strong>The New Way:</strong> Remote debugging using cloud-specific extensions where the code interacts with dynamic resources[cite: 151, 163].</li>
+</ul>
+<p>This shift eliminates the friction between Dev and Ops by ensuring that Dev, Test, and Prod environments are identical through declarative configuration[cite: 172, 174].</p>
+<h2 id="operational-excellence-is-a-shared-responsibility">Operational Excellence is a Shared Responsibility</h2>
+<p>Building resilient applications is no longer solely an application concern; it requires a shared responsibility model[cite: 180, 189].</p>
+<p>For example, achieving true fault tolerance and self-healing systems requires correct configuration of infrastructure components like Availability Zones and Auto-Scaling groups[cite: 198]. A developer might write efficient code, but if the infrastructure isn&rsquo;t configured to handle a zone failure, the application fails.  Conversely, infrastructure can be perfect, but if the application isn&rsquo;t designed to be stateless, auto-scaling will break the user experience[cite: 103].</p>
+<h2 id="real-world-application-the-ucsb-ai-initiative">Real-World Application: The UCSB AI Initiative</h2>
+<p>We are not just talking about theory; we are applying these principles to the <strong>UCSB Generative AI Project</strong>[cite: 246, 284]. As shown in our architectural breakdown, this project utilizes a complex mesh of AWS services including:</p>
+<ul>
+<li><strong>Compute &amp; API:</strong> AWS Lambda (FastAPI/WebSocket) and API Gateway.</li>
+<li><strong>AI/ML:</strong> Amazon Bedrock (Converse API and Knowledge Bases).</li>
+<li><strong>Data &amp; Storage:</strong> DynamoDB, S3, and OpenSearch Serverless.</li>
+</ul>
+<p>Building a system like this is impossible in a silo.  It requires a roadmap that relies on deep collaboration between Application Development and Infrastructure Engineering teams[cite: 244].</p>
+<h2 id="the-road-ahead">The Road Ahead</h2>
+<p>Our strategic goal is to transition strategically towards these real-world cloud-native practices[cite: 240].  This is a journey that moves through three phases: <strong>Foundation</strong>, <strong>Migration</strong>, and <strong>Optimization</strong>, eventually leading to <strong>Innovation</strong>.</p>
+<p>The technology is ready. The tools are powerful.  The key to unlocking them is breaking down the silos and recognizing that in a cloud-native world, we are all engineers of the same system.</p>
+<p><a href="/post/cloud-native-application-development.pdf">Slide Deck</a></p>
+
+  <div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'yaheya';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+</section>
+<footer id="footer">
+    <strong></strong>
+    <div class="social">
+        &nbsp; <a href="https://www.tesla.com/referral/yaheya94446" target="_blank" rel="noopener" title="Email"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg></a> &nbsp;&nbsp; <a href="https://twitter.com/yaheya" target="_blank" rel="noopener" title="Twitter"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg></a> &nbsp;&nbsp; <a href="https://github.com/yaheya" target="_blank" rel="noopener" title="Github"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/yaheya/" target="_blank" rel="noopener" title="Linkedin"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg></a> &nbsp;&nbsp; <a href="https://www.youtube.com/@igluonvinyls?sub_confirmation=1" target="_blank" rel="noopener" title="Youtube"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"></path><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon></svg></a> &nbsp;
+    </div><strong></strong>
+    <p style="color:grey;">© 2026 Yaheya Quazi  <a href="https://creativecommons.org/licenses/by/4.0/">Some rights reserved</a>. Last Updated : October 5, 2025</p>
+<script src='https://cdn.jotfor.ms/agent/embedjs/0199b16de9607e49a1ac02d31878f0770fcb/embed.js'>
+</script>
+</footer>
+</div>
+    </body>
+</html>

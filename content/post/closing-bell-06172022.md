@@ -25,3 +25,5 @@ I am hopeful ETH will have nice bounce back around September of this year.
 **News** : Possibility of Ukraine joining Nato.
 
 **Strategy** : Look for short term gains; hold on to the long term securities. Same as before, add crypto into the mix for long term holdings.
+
+[Link Text](url/or/path/to/file.pdf)
