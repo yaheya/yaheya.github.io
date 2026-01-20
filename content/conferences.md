@@ -13,6 +13,7 @@ author = "Yaheya Quazi"
 {{< bootstrap-table "table table-bordered" >}}
 | Event                                                    | Year Attended         | Focus                                          |
 | -------------------------------------------------------- | --------------------- | ---------------------------------------------- |
+| Amazon re:Invent                                         | 2025                  | Developer / Infrastructure                     |
 | Amazon re:Invent                                         | 2024                  | Developer / Infrastructure                     |
 | Amazon re:Invent                                         | 2023                  | Developer / Infrastructure                     |
 | Microsoft Build                                          | Every year since 2000 | Developer                                      |
