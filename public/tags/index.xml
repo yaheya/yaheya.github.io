@@ -6,13 +6,34 @@
     <description>Recent content in Tags on Pulse</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud</title>
+      <link>//localhost:1313/tags/cloud/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>//localhost:1313/tags/code/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/code/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Index</title>
       <link>//localhost:1313/tags/index/</link>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>//localhost:1313/tags/technology/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/technology/</guid>
       <description></description>
     </item>
     <item>
@@ -20,20 +41,6 @@
       <link>//localhost:1313/tags/personal/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/personal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cloud</title>
-      <link>//localhost:1313/tags/cloud/</link>
-      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/cloud/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Code</title>
-      <link>//localhost:1313/tags/code/</link>
-      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/code/</guid>
       <description></description>
     </item>
     <item>
@@ -48,13 +55,6 @@
       <link>//localhost:1313/tags/quran/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/quran/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>//localhost:1313/tags/technology/</link>
-      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/technology/</guid>
       <description></description>
     </item>
     <item>

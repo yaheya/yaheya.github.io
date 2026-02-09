@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Pulse</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond the Algorithm: Why I Built igluon.org for the @igluonvinuls Community</title>
+      <link>//localhost:1313/post/igluon-org/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/igluon-org/</guid>
+      <description>&lt;h1 id=&#34;beyond-the-algorithm-why-i-built-igluonorg-for-the-igluonvinuls-community&#34;&gt;Beyond the Algorithm: Why I Built igluon.org for the @igluonvinuls Community&lt;/h1&gt;&#xA;&lt;p&gt;I’ll be honest: I am fed up with the &amp;ldquo;YouTube Maze.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;As a creator, I want my content to be accessible, organized, and easy to find. But as a user, I’ve realized that YouTube’s interface has become a barrier. Between the cluttered sidebars, the broken playlist navigation, and an algorithm that pushes unrelated videos when you’re trying to focus, the experience of watching &lt;strong&gt;@igluonvinuls&lt;/strong&gt; wasn’t what it should be.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>More Than a Movie: My Pilgrimage to David Gilmour’s Live at the Circus Maximus</title>
       <link>//localhost:1313/post/circus-maximus/</link>

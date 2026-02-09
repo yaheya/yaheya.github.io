@@ -6,7 +6,85 @@
     <description>Recent posts from on Pulse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond the Algorithm: Why I Built igluon.org for the @igluonvinuls Community</title>
+      <link>//localhost:1313/post/igluon-org/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/post/igluon-org/</guid>
+      <description>&lt;h1 id=&#34;beyond-the-algorithm-why-i-built-igluonorg-for-the-igluonvinuls-community&#34;&gt;Beyond the Algorithm: Why I Built igluon.org for the @igluonvinuls Community&lt;/h1&gt;
+&lt;p&gt;I’ll be honest: I am fed up with the &amp;ldquo;YouTube Maze.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;As a creator, I want my content to be accessible, organized, and easy to find. But as a user, I’ve realized that YouTube’s interface has become a barrier. Between the cluttered sidebars, the broken playlist navigation, and an algorithm that pushes unrelated videos when you’re trying to focus, the experience of watching &lt;strong&gt;@igluonvinuls&lt;/strong&gt; wasn’t what it should be.&lt;/p&gt;
+&lt;p&gt;That is why I decided to stop waiting for a platform update and build the solution myself. Welcome to &lt;strong&gt;&lt;a href=&#34;https://igluon.org&#34;&gt;igluon.org&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-problem-the-clutter-crisis&#34;&gt;The Problem: The &amp;ldquo;Clutter&amp;rdquo; Crisis&lt;/h2&gt;
+&lt;p&gt;We’ve all been there. You go to watch a specific tutorial series or a curated vinyl session, only to find yourself:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lost in Playlists:&lt;/strong&gt; Trying to find &amp;ldquo;Part 4&amp;rdquo; in a list of 50 videos involves endless, laggy scrolling.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Distracted by Recommendations:&lt;/strong&gt; YouTube is designed to keep you clicking on &lt;em&gt;anything&lt;/em&gt;, not necessarily what you came for.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frustrated by Search:&lt;/strong&gt; Searching within a channel often brings up results from the entire internet instead of the specific video you remember.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-solution-a-modern-viewing-experience&#34;&gt;The Solution: A Modern Viewing Experience&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;igluon.org&lt;/strong&gt; is a dedicated hub designed to strip away the noise. I’ve built this site from the ground up to prioritize &lt;strong&gt;content discoverability&lt;/strong&gt; and &lt;strong&gt;user experience&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;-key-features-at-a-glance&#34;&gt;🚀 Key Features at a Glance&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Feature&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;YouTube Standard&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;igluon.org&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Search&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Global &amp;amp; Noisy&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Channel-Exclusive &amp;amp; Fast&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Playlists&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Hard to navigate sidebar&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Modern, visual grid layout&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Interface&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Cluttered with ads/distractions&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Clean, dark-mode optimized&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Focus&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Keeping you on the platform&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Helping you find the content&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-youll-find-on-the-new-site&#34;&gt;What You’ll Find on the New Site&lt;/h2&gt;
+&lt;h3 id=&#34;1-advanced-playlist-architecture&#34;&gt;1. Advanced Playlist Architecture&lt;/h3&gt;
+&lt;p&gt;I’ve redesigned how playlists are displayed. No more digging through a tiny sidebar. On igluon.org, playlists are presented in a clean, responsive grid that allows you to see the entire trajectory of a series at a glance.&lt;/p&gt;
+&lt;h3 id=&#34;2-intelligent-channel-only-search&#34;&gt;2. Intelligent, Channel-Only Search&lt;/h3&gt;
+&lt;p&gt;The search bar on this site is hard-coded to index &lt;strong&gt;only&lt;/strong&gt; my content. If you’re looking for a specific coding tip, a tech review, or a specific track, you’ll find it in seconds without the algorithm trying to distract you.&lt;/p&gt;
+&lt;h3 id=&#34;3-a-distraction-free-environment&#34;&gt;3. A Distraction-Free Environment&lt;/h3&gt;
+&lt;p&gt;The site uses a custom-wrapped viewing interface. This means when a video ends, you aren&amp;rsquo;t greeted with a wall of random &amp;ldquo;suggested&amp;rdquo; videos. You stay within the Igluon ecosystem, making it perfect for long-form learning and deep dives.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;this-is-just-the-beginning&#34;&gt;This is Just the Beginning&lt;/h2&gt;
+&lt;p&gt;Building &lt;strong&gt;igluon.org&lt;/strong&gt; is my way of taking ownership of the viewer experience. While the videos are still powered by YouTube, this site is the &amp;ldquo;Premium&amp;rdquo; gateway for those who value their time and focus.&lt;/p&gt;
+&lt;p&gt;In the coming months, I plan to integrate even more features, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Direct Resource Links:&lt;/strong&gt; Accessing code snippets or downloads directly under the video.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Curated Roadmaps:&lt;/strong&gt; Step-by-step guides for beginners to navigate my library.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhanced Community Tools:&lt;/strong&gt; Better ways for us to connect without the &amp;ldquo;noise.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;experience-it-now&#34;&gt;Experience it Now&lt;/h2&gt;
+&lt;p&gt;I built this for you—the community that has supported &lt;strong&gt;@igluonvinuls&lt;/strong&gt; from the start.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stop fighting the algorithm. Start exploring.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;👉 &lt;strong&gt;Check out the new home of Igluon:&lt;/strong&gt; &lt;a href=&#34;https://igluon.org&#34;&gt;https://igluon.org&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Enjoying the new layout? Have a feature request? Let me know—this site is built for you!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>More Than a Movie: My Pilgrimage to David Gilmour’s Live at the Circus Maximus</title>
       <link>//localhost:1313/post/circus-maximus/</link>

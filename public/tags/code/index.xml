@@ -6,8 +6,15 @@
     <description>Recent content in Code on Pulse</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond the Algorithm: Why I Built igluon.org for the @igluonvinuls Community</title>
+      <link>//localhost:1313/post/igluon-org/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/igluon-org/</guid>
+      <description>&lt;p&gt;If you’ve spent any time on YouTube lately, you know the feeling. You go to watch a specific tutorial or a playlist, and before you know it, you’re buried under a mountain of unrelated recommendations, &amp;ldquo;up next&amp;rdquo; videos that have nothing to do with your interests, and a search bar that seems to want to show you everything except what you’re looking for.&lt;/p&gt;&#xA;&lt;p&gt;As a creator, I found it increasingly frustrated that my best content—especially my deep-dive playlists—was getting lost in the &amp;ldquo;clutter.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Building Scalable and Resilient Cloud Applications</title>
       <link>//localhost:1313/post/cloud-native/</link>
