@@ -4,7 +4,7 @@ title = "Handoff Notes in CoPilot"
 date = "2026-02-16"
 description = "How to use a Handoff note with Copilot"
 tags = [
-"personal"
+"Technology"
 ]
 subject = [
 "personal"
