@@ -1,22 +1,23 @@
-+++
-title = "Contact : Yaheya Quazi"
-description = "Contact : Yaheya Quazi"
-date = "2022-06-07"
-aliases = ["about-me", "about-pulse", "pulse"]
-author = "Yaheya Quazi"
-+++
-Have a question you want answered? Is there something you would like me to write about on the blog? Just use the form below to reach out to me.   If you are asking about a particular blog entry, please share the URL of the entry you are asking about.
+---
+title: "Contact"
+description: "Get in touch with Yaheya Quazi"
+date: 2022-06-07
+author: "Yaheya Quazi"
+showDate: false
+showReadingTime: false
+---
 
-<form action="https://formspree.io/f/mzbowdqw" method="POST">
-  <div class="form-group">
-    <label for="LabelForEmail">Email</label>
-    <input type="email" class="form-control" id="email" placeholder="name@example.com" name="email" required>
+Have a question you want answered? Is there something you would like me to write about on the blog? Just use the form below to reach out to me. If you are asking about a particular blog entry, please share the URL of the entry you are asking about.
+
+<form action="https://formspree.io/f/mzbowdqw" method="POST" style="max-width: 600px; margin: 2rem 0;">
+  <div style="margin-bottom: 1.5rem;">
+    <label for="email" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Email</label>
+    <input type="email" id="email" name="email" placeholder="name@example.com" required style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 0.375rem; font-size: 1rem;">
   </div>
-  <div class="form-group">
-    <label for="LabelForMessage">Message</label>
-    <textarea class="form-control" id="Message" rows="3" name="message"></textarea>
+  <div style="margin-bottom: 1.5rem;">
+    <label for="message" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Message</label>
+    <textarea id="message" name="message" rows="6" style="width: 100%; padding: 0.75rem; border: 1px solid #ccc; border-radius: 0.375rem; font-size: 1rem; resize: vertical;"></textarea>
   </div>
-  <button type="submit" class="btn btn-primary">Send</button>
-  <!--To detect spammers -->
+  <button type="submit" style="background-color: #3b82f6; color: white; padding: 0.75rem 1.5rem; border: none; border-radius: 0.375rem; font-size: 1rem; font-weight: 600; cursor: pointer;">Send Message</button>
   <input type="text" name="_gotcha" style="display:none" />
 </form>

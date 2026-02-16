@@ -530,12 +530,22 @@
     </item>
     
     <item>
-      <title>Contact : Yaheya Quazi</title>
+      <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;Have a question you want answered? Is there something you would like me to write about on the blog? Just use the form below to reach out to me.   If you are asking about a particular blog entry, please share the URL of the entry you are asking about.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Have a question you want answered? Is there something you would like me to write about on the blog? Just use the form below to reach out to me. If you are asking about a particular blog entry, please share the URL of the entry you are asking about.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Welcome to Pulse</title>
+      <link>http://localhost:1313/intro/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/intro/</guid>
+      <description>&lt;p&gt;Software engineering has a rhythm, a constant, driving beat of innovation. Every new framework, every breakthrough in AI, every elegant line of code adds to its pulse. We&amp;rsquo;re living in one of the most dynamic times in history, and it&amp;rsquo;s nothing short of electrifying.&lt;/p&gt;</description>
       
     </item>
     

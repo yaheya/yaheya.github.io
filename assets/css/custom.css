@@ -1,0 +1,33 @@
+/* Custom colored borders for post cards */
+article.article-link--card:nth-child(6n+1) {
+    border-left: 4px solid #3b82f6 !important; /* Blue */
+}
+
+article.article-link--card:nth-child(6n+2) {
+    border-left: 4px solid #10b981 !important; /* Green */
+}
+
+article.article-link--card:nth-child(6n+3) {
+    border-left: 4px solid #f59e0b !important; /* Orange */
+}
+
+article.article-link--card:nth-child(6n+4) {
+    border-left: 4px solid #8b5cf6 !important; /* Purple */
+}
+
+article.article-link--card:nth-child(6n+5) {
+    border-left: 4px solid #ef4444 !important; /* Red */
+}
+
+article.article-link--card:nth-child(6n+6) {
+    border-left: 4px solid #06b6d4 !important; /* Cyan */
+}
+
+/* Add subtle hover effect */
+article.article-link--card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+article.article-link--card:hover {
+    transform: translateX(4px);
+}

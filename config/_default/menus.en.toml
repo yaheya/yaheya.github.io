@@ -3,6 +3,11 @@
 # Acceptable parameters are name, pageRef, page, url, title, weight.
 
 [[main]]
+  name = "Intro"
+  pageRef = "intro"
+  weight = 5
+
+[[main]]
   name = "Posts"
   pageRef = "post"
   weight = 10
@@ -16,6 +21,11 @@
   name = "About"
   pageRef = "yaheya"
   weight = 30
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 40
 
 # Social links in header
 [[main]]
