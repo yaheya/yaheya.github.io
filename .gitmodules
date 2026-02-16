@@ -4,3 +4,6 @@
 [submodule "blowfish"]
 	path = blowfish
 	url = https://github.com/nunocoracao/blowfish.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
