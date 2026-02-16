@@ -1,4 +1,39 @@
 <style>
+/* Hide site title text completely, show only logo */
+.site-logo {
+    font-size: 0 !important;
+    color: transparent !important;
+    line-height: 0 !important;
+}
+
+.site-logo span,
+.site-logo .text,
+a[aria-label="Pulse"],
+header a[href="/"] span {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+/* Make logo large and readable */
+.site-logo img,
+header img,
+header a img,
+a[aria-label] img {
+    height: 120px !important;
+    min-height: 120px !important;
+    max-height: 120px !important;
+    width: auto !important;
+    margin-right: 0 !important;
+    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));
+}
+
+/* Enhance header with more padding for larger logo */
+header {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1) !important;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
 /* Custom colored borders for post cards */
 article.article-link--card:nth-child(6n+1) {
     border-left: 4px solid #3b82f6 !important; /* Blue */

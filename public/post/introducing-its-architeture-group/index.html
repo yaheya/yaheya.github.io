@@ -15,8 +15,8 @@
 
   
   
-    <title>Architecting Tomorrow &middot; Pulse</title>
-    <meta name="title" content="Architecting Tomorrow &middot; Pulse">
+    <title>Architecting Tomorrow &middot;  </title>
+    <meta name="title" content="Architecting Tomorrow &middot;  ">
   
 
   
@@ -71,7 +71,7 @@
 
   
   <meta property="og:url" content="http://localhost:1313/post/introducing-its-architeture-group/">
-  <meta property="og:site_name" content="Pulse">
+  <meta property="og:site_name" content=" ">
   <meta property="og:title" content="Architecting Tomorrow">
   <meta property="og:description" content="Introducing ITS Architecture Group at UCSB">
   <meta property="og:locale" content="en_us">
@@ -289,6 +289,70 @@
 
   
   
+    <style>
+ 
+.site-logo {
+    font-size: 0 !important;
+    color: transparent !important;
+    line-height: 0 !important;
+}
+
+.site-logo span,
+.site-logo .text,
+a[aria-label="Pulse"],
+header a[href="/"] span {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+.site-logo img {
+    height: 128px !important;
+    width: auto !important;
+    margin-right: 0 !important;
+    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));
+}
+
+ 
+header {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1) !important;
+}
+
+ 
+article.article-link--card:nth-child(6n+1) {
+    border-left: 4px solid #3b82f6 !important;  
+}
+
+article.article-link--card:nth-child(6n+2) {
+    border-left: 4px solid #10b981 !important;  
+}
+
+article.article-link--card:nth-child(6n+3) {
+    border-left: 4px solid #f59e0b !important;  
+}
+
+article.article-link--card:nth-child(6n+4) {
+    border-left: 4px solid #8b5cf6 !important;  
+}
+
+article.article-link--card:nth-child(6n+5) {
+    border-left: 4px solid #ef4444 !important;  
+}
+
+article.article-link--card:nth-child(6n+6) {
+    border-left: 4px solid #06b6d4 !important;  
+}
+
+ 
+article.article-link--card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+article.article-link--card:hover {
+    transform: translateX(4px);
+}
+</style>
+
+  
 
   
   
@@ -327,16 +391,30 @@
     
     
       <div class="min-h-[148px]"></div>
-<div class="fixed inset-x-0 z-100">
-  <div
-    id="menu-blur"
-    class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl bg-neutral/25 dark:bg-neutral-800/25"></div>
+<div class="fixed inset-x-0 bg-neutral dark:bg-neutral-800 z-100">
   <div class="relative m-auto leading-7 max-w-7xl px-6 sm:px-14 md:px-24 lg:px-32">
     <div class="main-menu flex items-center w-full gap-2 p-1 pl-0">
   
+    
+    
+      <div>
+        <a href="/" class="flex">
+          <span class="sr-only"></span>
+          
+            <img
+              src="/img/new-logo.png"
+              width="512"
+              height="512"
+              class="logo max-h-20 max-w-20 object-scale-down object-left nozoom"
+              alt="">
+          
+        </a>
+      </div>
+    
+  
   
     <a href="/" class="text-base font-medium truncate min-w-0 shrink">
-      Pulse
+      
     </a>
   
   <div class="flex items-center ms-auto">
@@ -789,13 +867,6 @@
 
   </div>
 </div>
-
-
-<script
-  type="text/javascript"
-  src="/js/background-blur.min.00a57c73ea12f2cab2980c3c3d649e89f6d82f190f74bbe2b67f2f5e39ab7d032ece47086400ca05396758aace13299da49aca43ea643d2625e62c506267a169.js"
-  integrity="sha512-AKV8c&#43;oS8sqymAw8PWSeifbYLxkPdLvitn8vXjmrfQMuzkcIZADKBTlnWKrOEymdpJrKQ&#43;pkPSYl5ixQYmehaQ=="
-  data-blur-id="menu-blur"></script>
 
     
     <div class="relative flex flex-col grow">

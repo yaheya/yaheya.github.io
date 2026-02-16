@@ -1,14 +1,14 @@
 languageCode = "en-us"
 languageName = "English"
 weight = 1
-title = "Pulse"
+title = " "
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "January 2, 2006"
-  # logo = "img/logo.png"
+  logo = "img/new-logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Pulse - Where Curiosity Meets Code"
   # copyright = "© 2026 Yaheya Quazi"
