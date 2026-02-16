@@ -1,0 +1,27 @@
+languageCode = "en-us"
+languageName = "English"
+weight = 1
+title = "Pulse"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2, 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Pulse - Where Curiosity Meets Code"
+  # copyright = "© 2026 Yaheya Quazi"
+
+[params.author]
+  name = "Yaheya Quazi"
+  image = "img/yaheya-quazi-profile-picture.png"
+  headline = "Pulse - Where Curiosity Meets Code"
+  bio = "Indeed, the mercy of Allah is near to the doers of good."
+  links = [
+    { email = "https://www.tesla.com/referral/yaheya94446" },
+    { twitter = "https://twitter.com/yaheya" },
+    { github = "https://github.com/yaheya" },
+    { linkedin = "https://www.linkedin.com/in/yaheya/" },
+    { youtube = "https://www.youtube.com/@igluonvinyls?sub_confirmation=1" },
+  ]

@@ -1,0 +1,22 @@
+<h3>Market Summary</h3>
+<table class="table table-dark">
+    <thead>
+         <tr>
+        <th scope="col">Index</th>
+        <th scope="col">Value</th>
+        <th scope="col">Change</th>
+        <th scope="col">Percentage</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ $filename := .Get "file" }}
+      {{ range index .Site.Data $filename }}
+      <tr>
+        <td>{{.name}}</td>
+        <td>{{lang.FormatNumberCustom 2 .value}}</td>
+        <td>{{lang.FormatNumberCustom 2 .change}}</td>
+        <td>{{lang.FormatNumberCustom 2 .percentage}}</td>
+      </tr>
+      {{end}}
+     </tbody>
+  </table>
