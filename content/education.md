@@ -22,4 +22,3 @@ author = "Yaheya Quazi"
 * Microsoft Certified Solution Developer (MCSD)
 * CSM Certified Scrum Master
 * TOGAF - Enterprise Architecture Certification
-
