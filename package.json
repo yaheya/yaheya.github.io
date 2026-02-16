@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "dev": "hugo server -D",
+    "build": "hugo",
+    "start": "hugo server"
+  },
   "devDependencies": {
     "grunt": "^1.5.3",
     "string": "^3.3.3",
