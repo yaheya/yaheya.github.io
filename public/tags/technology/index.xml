@@ -2,90 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Pulse</title>
-    <link>http://localhost:65076/tags/technology/</link>
+    <link>http://localhost:1313/tags/technology/</link>
     <description>Recent content in Technology on Pulse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 Yaheya Quazi</copyright>
-    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:65076/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Beyond the Algorithm: Why I Built igluon.org for the @igluonvinuls Community</title>
-      <link>http://localhost:65076/post/igluon-org/</link>
+      <link>http://localhost:1313/post/igluon-org/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:65076/post/igluon-org/</guid>
+      <guid>http://localhost:1313/post/igluon-org/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Beyond the Algorithm: Why I Built igluon.org for the @igluonvinuls Community&#xA;    &lt;div id=&#34;beyond-the-algorithm-why-i-built-igluonorg-for-the-igluonvinuls-community&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#beyond-the-algorithm-why-i-built-igluonorg-for-the-igluonvinuls-community&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&lt;p&gt;I’ll be honest: I am fed up with the &amp;ldquo;YouTube Maze.&amp;rdquo;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Building Scalable and Resilient Cloud Applications</title>
-      <link>http://localhost:65076/post/cloud-native/</link>
+      <link>http://localhost:1313/post/cloud-native/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:65076/post/cloud-native/</guid>
+      <guid>http://localhost:1313/post/cloud-native/</guid>
       <description>&lt;p&gt;I recently had the privilege of presenting to the Developer Collaboration group at UC Santa Barbara, a gathering of both Software Developers and Infrastructure Engineers.  The topic was &lt;strong&gt;Cloud Native Application Development&lt;/strong&gt;, but the underlying theme was much deeper: the urgent need to bridge the historical divide between those who write the code and those who manage the systems that run it.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Firecrawl LLM Ready AWS Bedrock RAG</title>
-      <link>http://localhost:65076/post/fire-crawl/</link>
+      <link>http://localhost:1313/post/fire-crawl/</link>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:65076/post/fire-crawl/</guid>
+      <guid>http://localhost:1313/post/fire-crawl/</guid>
       <description>&lt;p&gt;Hey AI builders! Tired of dealing with messy HTML when trying to ground your AWS Bedrock applications with real-world data?&lt;/p&gt;&#xA;&lt;p&gt;Meet Firecrawl (&lt;a href=&#34;https://www.firecrawl.dev&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.firecrawl.dev&lt;/a&gt;), the AI-first web crawling and scraping API that&amp;rsquo;s changing the RAG game.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Bedrock&#39;s Game Changer: Why Cross-Region LLM Inference is a Must-Have</title>
-      <link>http://localhost:65076/post/bedrock/</link>
+      <link>http://localhost:1313/post/bedrock/</link>
       <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:65076/post/bedrock/</guid>
+      <guid>http://localhost:1313/post/bedrock/</guid>
       <description>&lt;p&gt;As Chief Software Architect at UC Santa Barbara, I focus on integrating cutting-edge cloud features like AWS Bedrock. For enterprise LLM deployment, we must solve three non-negotiables: latency, data gravity, and resiliency.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>YouTube Handle</title>
-      <link>http://localhost:65076/post/youtube-handles/</link>
+      <link>http://localhost:1313/post/youtube-handles/</link>
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:65076/post/youtube-handles/</guid>
+      <guid>http://localhost:1313/post/youtube-handles/</guid>
       <description>&lt;p&gt;This post will be a short post for those have a YouTube channel. Google recently introduced, Youtube Handles. YouTube handles helps make it easier for members of the community to find and connect with each other. Your handle will be unique to your channel and will be how people mention you in comments, community posts, and more. My YouTube channel handle is iGluonVinyls. Once you have your unique handle name, then you can get a unique URL for your channel as well. For example mine is &lt;a href=&#34;https://www.youtube.com/igluonvinyls&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.youtube.com/igluonvinyls&lt;/a&gt; This URL is much easier to remember than the previous GUID based URL.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Hugo Stock Summary ShortCode Module</title>
-      <link>http://localhost:65076/post/hugo-stock-summary-shortcode/</link>
+      <link>http://localhost:1313/post/hugo-stock-summary-shortcode/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:65076/post/hugo-stock-summary-shortcode/</guid>
+      <guid>http://localhost:1313/post/hugo-stock-summary-shortcode/</guid>
       <description>&lt;p&gt;If you are a regular visitor of my site, you may have noticed, I have started posting daily closing bell stock market &lt;a href=&#34;../closing-bell-06282022&#34; &gt;summary&lt;/a&gt;. These pages proceeds with a Market index summary from that day. Let&amp;rsquo;s discuss how I put it together.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Bing Image Gallery and Power Automate</title>
-      <link>http://localhost:65076/post/bing-image-gallery/</link>
+      <link>http://localhost:1313/post/bing-image-gallery/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:65076/post/bing-image-gallery/</guid>
+      <guid>http://localhost:1313/post/bing-image-gallery/</guid>
       <description>&lt;p&gt;I downloaded the Bing &lt;a href=&#34;https://www.microsoft.com/en-us/bing/bing-wallpaper?pc=W016&amp;amp;gclid=CjwKCAjw-8qVBhANEiwAfjXLrs0lbnSDb49ufCoyZPgW1J5XaEwN6n65MOUb7XTVzkHckVbkQWV8AxoC8a4QAvD_BwE&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;wallpaper&lt;/a&gt; app. It is actually awesome, everyday I turn on my computer to see what kind of wall paper I get for that day. Most of these are amazing! I use them in my desktop and also as my zoom background! Finally, I created a small &lt;a href=&#34;https://powerautomate.microsoft.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Power Automate&lt;/a&gt; routine, that downloads each day Bing wall paper and saves it on to my drive.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Yaheya.Com new site!</title>
-      <link>http://localhost:65076/post/new-site-2022/</link>
+      <link>http://localhost:1313/post/new-site-2022/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:65076/post/new-site-2022/</guid>
-      <description>&lt;p&gt;After many years, moved my personal site to Hugo, previously DotNet Core Azure Web App. Details of current site can be found &lt;a href=&#34;http://localhost:65076/about/&#34; &gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Hugo&lt;/a&gt; which is the main platform this site runs under is a brilliant idea. Not all sites, needs to be generated off from a Database or need backend server technology.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/new-site-2022/</guid>
+      <description>&lt;p&gt;After many years, moved my personal site to Hugo, previously DotNet Core Azure Web App. Details of current site can be found &lt;a href=&#34;http://localhost:1313/about/&#34; &gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Hugo&lt;/a&gt; which is the main platform this site runs under is a brilliant idea. Not all sites, needs to be generated off from a Database or need backend server technology.&lt;/p&gt;</description>
       
     </item>
     

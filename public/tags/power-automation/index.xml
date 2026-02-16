@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Power-Automation on Pulse</title>
-    <link>http://localhost:65076/tags/power-automation/</link>
+    <link>http://localhost:1313/tags/power-automation/</link>
     <description>Recent content in Power-Automation on Pulse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 Yaheya Quazi</copyright>
-    <lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:65076/tags/power-automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/power-automation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bing Image Gallery and Power Automate</title>
-      <link>http://localhost:65076/post/bing-image-gallery/</link>
+      <link>http://localhost:1313/post/bing-image-gallery/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:65076/post/bing-image-gallery/</guid>
+      <guid>http://localhost:1313/post/bing-image-gallery/</guid>
       <description>&lt;p&gt;I downloaded the Bing &lt;a href=&#34;https://www.microsoft.com/en-us/bing/bing-wallpaper?pc=W016&amp;amp;gclid=CjwKCAjw-8qVBhANEiwAfjXLrs0lbnSDb49ufCoyZPgW1J5XaEwN6n65MOUb7XTVzkHckVbkQWV8AxoC8a4QAvD_BwE&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;wallpaper&lt;/a&gt; app. It is actually awesome, everyday I turn on my computer to see what kind of wall paper I get for that day. Most of these are amazing! I use them in my desktop and also as my zoom background! Finally, I created a small &lt;a href=&#34;https://powerautomate.microsoft.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Power Automate&lt;/a&gt; routine, that downloads each day Bing wall paper and saves it on to my drive.&lt;/p&gt;</description>
       
     </item>
