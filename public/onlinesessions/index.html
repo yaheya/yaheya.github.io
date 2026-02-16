@@ -296,16 +296,122 @@ header a[href="/"] span {
     visibility: hidden !important;
 }
 
-.site-logo img {
-    height: 128px !important;
+ 
+img.logo,
+.logo img,
+.main-menu img.logo {
+    height: 120px !important;
+    min-height: 120px !important;
+    max-height: 120px !important;
     width: auto !important;
+    max-width: none !important;
     margin-right: 0 !important;
-    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));
+    background: none !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    filter: none !important;
 }
 
  
-header {
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1) !important;
+.main-menu > div > a,
+.main-menu > div {
+    background: none !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+ 
+.fixed.inset-x-0 .main-menu {
+    padding-top: 0.75rem !important;
+    padding-bottom: 0.75rem !important;
+}
+
+ 
+.professional-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin: 2rem 0;
+    padding: 0;
+}
+
+.professional-nav .nav-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.625rem 1.25rem;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    font-size: 0.95rem;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.professional-nav .nav-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+}
+
+.professional-nav .nav-link.active {
+    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+    box-shadow: 0 4px 8px rgba(245, 87, 108, 0.3);
+}
+
+.professional-nav .nav-link:nth-child(2) {
+    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+}
+
+.professional-nav .nav-link:nth-child(3) {
+    background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+}
+
+.professional-nav .nav-link:nth-child(4) {
+    background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+}
+
+.professional-nav .nav-link:nth-child(5) {
+    background: linear-gradient(135deg, #30cfd0 0%, #330867 100%);
+}
+
+ 
+table.table-bordered {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.95rem;
+}
+
+table.table-bordered thead {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+table.table-bordered th {
+    padding: 0.75rem 1rem;
+    text-align: left;
+    font-weight: 600;
+}
+
+table.table-bordered td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+table.table-bordered tbody tr:hover {
+    background-color: #f9fafb;
+}
+
+table.table-bordered tbody tr:nth-child(even) {
+    background-color: #f3f4f6;
+}
+
+table.table-bordered tbody tr:nth-child(even):hover {
+    background-color: #e5e7eb;
 }
 
  
@@ -1321,7 +1427,13 @@ article.article-link--card:hover {
         
 
         <div class="article-content max-w-prose mb-20">
-          <p><a href="/yaheya/" class="btn btn-info" role="button">Summary</a> <a href="/highlights/" class="btn btn-success" role="button">Highlights</a> <a href="/education/" class="btn btn-warning" role="button">Education</a> <a href="/conferences/" class="btn btn-secondary" role="button">Conferences</a> <a href="/onlinesessions/" class="btn btn-danger.disabled" role="button">Online Sessions</a></p>
+          <div class="professional-nav">
+  <a href="/yaheya/" class="nav-link">Summary</a>
+  <a href="/highlights/" class="nav-link">Highlights</a>
+  <a href="/education/" class="nav-link">Education</a>
+  <a href="/conferences/" class="nav-link">Conferences</a>
+  <a href="/onlinesessions/" class="nav-link active">Online Sessions</a>
+</div>
 
 <h2 class="relative group">Online Sessions
     <div id="online-sessions" class="anchor"></div>
@@ -1332,127 +1444,120 @@ article.article-link--card:hover {
     </span>
     
 </h2>
-
-
-
-
-
 <table class="table table-bordered">
-  <thead>
-      <tr>
-          <th>Activity</th>
-          <th>Completion Date</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>Instructor Lead Online Course: Certified Scrum Master Training</td>
-          <td>11/18/2024</td>
-      </tr>
-      <tr>
-          <td>Re:Invent Amazon Web Services Conference</td>
-          <td>12/02/2024</td>
-      </tr>
-      <tr>
-          <td>Re:Invent Amazon Web Services Conference</td>
-          <td>12/02/2023</td>
-      </tr>
-      <tr>
-          <td>Instructor Lead Online Course: Snowflake Fundamentals Training</td>
-          <td>9/29/2023</td>
-      </tr>
-      <tr>
-          <td>Instructor Lead Online Course: MuleSoft Production-Ready Development</td>
-          <td>8/29/2022</td>
-      </tr>
-      <tr>
-          <td>Instructor Lead Online Course: MuleSoft Anypoint Platform Development</td>
-          <td>7/29/2022</td>
-      </tr>
-      <tr>
-          <td>eCourse : UC Managing Implicit Bias Series: Managing the Influence of Implicit Bias - Mindfulness and Conscious De-biasing</td>
-          <td>1/13/2020</td>
-      </tr>
-      <tr>
-          <td>eCourse : UC Managing Implicit Bias Series: Managing Implicit Bias in the Hiring Process</td>
-          <td>12/5/2019</td>
-      </tr>
-      <tr>
-          <td>Promapp &amp; Process Design Advanced Certification</td>
-          <td>11/19/2019</td>
-      </tr>
-      <tr>
-          <td>eCourse : UC Setting Expectations and Individual Performance Goals</td>
-          <td>11/8/2019</td>
-      </tr>
-      <tr>
-          <td>eCourse : UC Performance Management Overview</td>
-          <td>12/5/2019</td>
-      </tr>
-      <tr>
-          <td>eCourse : UC Motivating, Recognizing, and Rewarding Employees</td>
-          <td>11/7/2019</td>
-      </tr>
-      <tr>
-          <td>eCourse : UC Managing Implicit Bias Series: What is Implicit Bias?</td>
-          <td>11/7/2019</td>
-      </tr>
-      <tr>
-          <td>UC Managing Implicit Bias Series: The Impact of Implicit Bias</td>
-          <td>11/7/2019</td>
-      </tr>
-      <tr>
-          <td>eCourse : UC Managing Implicit Bias Series: Managing the Influence of Implicit Bias – Awareness</td>
-          <td>11/6/2019</td>
-      </tr>
-      <tr>
-          <td>eCourse : UC Coaching for Performance and Development</td>
-          <td>11/6/2019</td>
-      </tr>
-      <tr>
-          <td>eCourse : UC Managing Implicit Bias Series: Common Forms of Bias</td>
-          <td>11/6/2019</td>
-      </tr>
-      <tr>
-          <td>eCourse : UC Conducting Performance Appraisals</td>
-          <td>11/6/2019</td>
-      </tr>
-      <tr>
-          <td>eCourse : UC Managing Corrective Action</td>
-          <td>11/6/2019</td>
-      </tr>
-      <tr>
-          <td>eCourse : UC Giving and Receiving Feedback</td>
-          <td>11/6/2019</td>
-      </tr>
-      <tr>
-          <td>eCourse : UC Engaging and Developing Employees</td>
-          <td>11/6/2019</td>
-      </tr>
-      <tr>
-          <td>ILT Class : Moving Workloads to the AWS Cloud</td>
-          <td>8/22/2019</td>
-      </tr>
-      <tr>
-          <td>Session : Day1 of Moving Workloads to the AWS Cloud</td>
-          <td>8/21/2019</td>
-      </tr>
-      <tr>
-          <td>Session : Day 2 of Moving Workloads to the AWS Cloud</td>
-          <td>8/22/2019</td>
-      </tr>
-      <tr>
-          <td>ILT Class : Day 1 MS Power BI: Basics and Beyond</td>
-          <td>4/22/2019</td>
-      </tr>
-      <tr>
-          <td>eCourse : UC Cyber Security Awareness Fundamentals Certification</td>
-          <td>1/28/2019</td>
-      </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Activity</th>
+<th>Completion Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Instructor Lead Online Course: Certified Scrum Master Training</td>
+<td>11/18/2024</td>
+</tr>
+<tr>
+<td>Re:Invent Amazon Web Services Conference</td>
+<td>12/02/2024</td>
+</tr>
+<tr>
+<td>Re:Invent Amazon Web Services Conference</td>
+<td>12/02/2023</td>
+</tr>
+<tr>
+<td>Instructor Lead Online Course: Snowflake Fundamentals Training</td>
+<td>9/29/2023</td>
+</tr>
+<tr>
+<td>Instructor Lead Online Course: MuleSoft Production-Ready Development</td>
+<td>8/29/2022</td>
+</tr>
+<tr>
+<td>Instructor Lead Online Course: MuleSoft Anypoint Platform Development</td>
+<td>7/29/2022</td>
+</tr>
+<tr>
+<td>eCourse : UC Managing Implicit Bias Series: Managing the Influence of Implicit Bias - Mindfulness and Conscious De-biasing</td>
+<td>1/13/2020</td>
+</tr>
+<tr>
+<td>eCourse : UC Managing Implicit Bias Series: Managing Implicit Bias in the Hiring Process</td>
+<td>12/5/2019</td>
+</tr>
+<tr>
+<td>Promapp & Process Design Advanced Certification</td>
+<td>11/19/2019</td>
+</tr>
+<tr>
+<td>eCourse : UC Setting Expectations and Individual Performance Goals</td>
+<td>11/8/2019</td>
+</tr>
+<tr>
+<td>eCourse : UC Performance Management Overview</td>
+<td>12/5/2019</td>
+</tr>
+<tr>
+<td>eCourse : UC Motivating, Recognizing, and Rewarding Employees</td>
+<td>11/7/2019</td>
+</tr>
+<tr>
+<td>eCourse : UC Managing Implicit Bias Series: What is Implicit Bias?</td>
+<td>11/7/2019</td>
+</tr>
+<tr>
+<td>UC Managing Implicit Bias Series: The Impact of Implicit Bias</td>
+<td>11/7/2019</td>
+</tr>
+<tr>
+<td>eCourse : UC Managing Implicit Bias Series: Managing the Influence of Implicit Bias – Awareness</td>
+<td>11/6/2019</td>
+</tr>
+<tr>
+<td>eCourse : UC Coaching for Performance and Development</td>
+<td>11/6/2019</td>
+</tr>
+<tr>
+<td>eCourse : UC Managing Implicit Bias Series: Common Forms of Bias</td>
+<td>11/6/2019</td>
+</tr>
+<tr>
+<td>eCourse : UC Conducting Performance Appraisals</td>
+<td>11/6/2019</td>
+</tr>
+<tr>
+<td>eCourse : UC Managing Corrective Action</td>
+<td>11/6/2019</td>
+</tr>
+<tr>
+<td>eCourse : UC Giving and Receiving Feedback</td>
+<td>11/6/2019</td>
+</tr>
+<tr>
+<td>eCourse : UC Engaging and Developing Employees</td>
+<td>11/6/2019</td>
+</tr>
+<tr>
+<td>ILT Class : Moving Workloads to the AWS Cloud</td>
+<td>8/22/2019</td>
+</tr>
+<tr>
+<td>Session : Day1 of Moving Workloads to the AWS Cloud</td>
+<td>8/21/2019</td>
+</tr>
+<tr>
+<td>Session : Day 2 of Moving Workloads to the AWS Cloud</td>
+<td>8/22/2019</td>
+</tr>
+<tr>
+<td>ILT Class : Day 1 MS Power BI: Basics and Beyond</td>
+<td>4/22/2019</td>
+</tr>
+<tr>
+<td>eCourse : UC Cyber Security Awareness Fundamentals Certification</td>
+<td>1/28/2019</td>
+</tr>
+</tbody>
 </table>
-
-
           
           
           
@@ -1939,7 +2044,7 @@ article.article-link--card:hover {
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2022-06-07T00:00:00&#43;00:00">June 7, 2022</time><span class="px-2 text-primary-500">&middot;</span><span>58 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span>
+      <time datetime="2022-06-07T00:00:00&#43;00:00">June 7, 2022</time><span class="px-2 text-primary-500">&middot;</span><span>59 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span>
     
 
     
@@ -1977,8 +2082,8 @@ article.article-link--card:hover {
     </div>
     
       <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
-        Summary Highlights Education Conferences Online Sessions
-Relevant Education / Certification # Bachelor of Science, Computer Science - CSUN (California State University, Northridge) Associate of Science, Electronics and Electrical Engineering - Los Angeles City College Lean Six Sigma Green Belt (University of California, San Diego) Microsoft Certified Solution Developer (MCSD) CSM Certified Scrum Master TOGAF - Enterprise Architecture Certification 
+         Summary Highlights Education Conferences Online Sessions Relevant Education / Certification # Bachelor of Science, Computer Science - CSUN (California State University, Northridge) Associate of Science, Electronics and Electrical Engineering - Los Angeles City College Lean Six Sigma Green Belt (University of California, San Diego) Microsoft Certified Solution Developer (MCSD) CSM Certified Scrum Master TOGAF - Enterprise Architecture Certification ���������������������������������������������������������
+
       </div>
     
   </div>
@@ -2123,8 +2228,7 @@ Relevant Education / Certification # Bachelor of Science, Computer Science - CSU
     </div>
     
       <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
-        Summary Highlights Education Conferences Online Sessions
-Highlights # As an ethical leader, I am deeply committed to the success of the institution, its community, organizations, and staff. A collaborative team player, I consistently deliver success to the project and its partners. With over 30 years of experience in IT, I have held positions of increasing responsibility and influence, making me a dynamic professional. My broad and deep technology knowledge enables me to develop solutions by mapping a customer&rsquo;s business problem to an end-to-end technology solution. I am a strategic thinker with a deep understanding of process design and its relationship to achieving desired outcomes. Analytical and logical, I possess high levels of business and financial analysis expertise. As a forward-looking technology executive, I have successfully launched enterprise-level solutions. I established Administrative Computing services at UC Merced with best practices, a single point of data entry, automation, service-oriented architecture, and adaptable user experience presentation. I have achieved paramount administrative efficiency by standardizing business practices and implementing significant automation. I have extensive experience managing global teams and administering multi-million dollar budgets. My successes in system development, management, and support utilizing minimal-level staffing are well-documented. As the founder of iGluon, a successful and profitable sole proprietor-consulting firm, I bring a wealth of entrepreneurial expertise. 
+         Summary Highlights Education Conferences Online Sessions Highlights # As an ethical leader, I am deeply committed to the success of the institution, its community, organizations, and staff. A collaborative team player, I consistently deliver success to the project and its partners. With over 30 years of experience in IT, I have held positions of increasing responsibility and influence, making me a dynamic professional. My broad and deep technology knowledge enables me to develop solutions by mapping a customer&rsquo;s business problem to an end-to-end technology solution. I am a strategic thinker with a deep understanding of process design and its relationship to achieving desired outcomes. Analytical and logical, I possess high levels of business and financial analysis expertise. As a forward-looking technology executive, I have successfully launched enterprise-level solutions. I established Administrative Computing services at UC Merced with best practices, a single point of data entry, automation, service-oriented architecture, and adaptable user experience presentation. I have achieved paramount administrative efficiency by standardizing business practices and implementing significant automation. I have extensive experience managing global teams and administering multi-million dollar budgets. My successes in system development, management, and support utilizing minimal-level staffing are well-documented. As the founder of iGluon, a successful and profitable sole proprietor-consulting firm, I bring a wealth of entrepreneurial expertise.�������������������������������������������������������� 
       </div>
     
   </div>
@@ -2269,8 +2373,7 @@ Highlights # As an ethical leader, I am deeply committed to the success of the i
     </div>
     
       <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
-         Summary Highlights Education Conferences Online Sessions
-Summary # As a seasoned Technology Executive with more than 30 years of experience in higher education institutions, including the University of California, I bring a profound passion for and extensive knowledge of Software Engineering and Software Lifecycle Management. Over the course of my career, I have assumed increasingly responsible roles, including serving as the inaugural Technology Executive for the University of California at Merced&rsquo;s cutting-edge 21st-century research university campus.
+         Summary Highlights Education Conferences Online Sessions Summary # As a seasoned Technology Executive with more than 30 years of experience in higher education institutions, including the University of California, I bring a profound passion for and extensive knowledge of Software Engineering and Software Lifecycle Management. Over the course of my career, I have assumed increasingly responsible roles, including serving as the inaugural Technology Executive for the University of California at Merced&rsquo;s cutting-edge 21st-century research university campus.
 
       </div>
     

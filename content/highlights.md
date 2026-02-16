@@ -5,7 +5,14 @@ date = "2022-06-07"
 aliases = ["about-me", "about-pulse", "pulse"]
 author = "Yaheya Quazi"
 +++
-<a href="/yaheya/" class="btn btn-info" role="button">Summary</a> <a href="/highlights/" class="btn btn-success.disabled" role="button">Highlights</a> <a href="/education/" class="btn btn-warning" role="button">Education</a> <a href="/conferences/" class="btn btn-secondary" role="button">Conferences</a> <a href="/onlinesessions/" class="btn btn-danger" role="button">Online Sessions</a>
+
+<div class="professional-nav">
+  <a href="/yaheya/" class="nav-link">Summary</a>
+  <a href="/highlights/" class="nav-link active">Highlights</a>
+  <a href="/education/" class="nav-link">Education</a>
+  <a href="/conferences/" class="nav-link">Conferences</a>
+  <a href="/onlinesessions/" class="nav-link">Online Sessions</a>
+</div>
 
 ## Highlights
 

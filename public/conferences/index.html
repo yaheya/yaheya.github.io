@@ -297,23 +297,121 @@ header a[href="/"] span {
 }
 
  
-.site-logo img,
-header img,
-header a img,
-a[aria-label] img {
+img.logo,
+.logo img,
+.main-menu img.logo {
     height: 120px !important;
     min-height: 120px !important;
     max-height: 120px !important;
     width: auto !important;
+    max-width: none !important;
     margin-right: 0 !important;
-    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));
+    background: none !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    filter: none !important;
 }
 
  
-header {
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1) !important;
-    padding-top: 1rem !important;
-    padding-bottom: 1rem !important;
+.main-menu > div > a,
+.main-menu > div {
+    background: none !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+ 
+.fixed.inset-x-0 .main-menu {
+    padding-top: 0.75rem !important;
+    padding-bottom: 0.75rem !important;
+}
+
+ 
+.professional-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin: 2rem 0;
+    padding: 0;
+}
+
+.professional-nav .nav-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.625rem 1.25rem;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    font-size: 0.95rem;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.professional-nav .nav-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+}
+
+.professional-nav .nav-link.active {
+    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+    box-shadow: 0 4px 8px rgba(245, 87, 108, 0.3);
+}
+
+.professional-nav .nav-link:nth-child(2) {
+    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+}
+
+.professional-nav .nav-link:nth-child(3) {
+    background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+}
+
+.professional-nav .nav-link:nth-child(4) {
+    background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+}
+
+.professional-nav .nav-link:nth-child(5) {
+    background: linear-gradient(135deg, #30cfd0 0%, #330867 100%);
+}
+
+ 
+table.table-bordered {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.95rem;
+}
+
+table.table-bordered thead {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+table.table-bordered th {
+    padding: 0.75rem 1rem;
+    text-align: left;
+    font-weight: 600;
+}
+
+table.table-bordered td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+table.table-bordered tbody tr:hover {
+    background-color: #f9fafb;
+}
+
+table.table-bordered tbody tr:nth-child(even) {
+    background-color: #f3f4f6;
+}
+
+table.table-bordered tbody tr:nth-child(even):hover {
+    background-color: #e5e7eb;
 }
 
  
@@ -1329,7 +1427,13 @@ article.article-link--card:hover {
         
 
         <div class="article-content max-w-prose mb-20">
-          <p><a href="/yaheya/" class="btn btn-info" role="button">Summary</a> <a href="/highlights/" class="btn btn-success" role="button">Highlights</a> <a href="/education/" class="btn btn-warning" role="button">Education</a> <a href="/conferences/" class="btn btn-secondary.disabled" role="button">Conferences</a> <a href="/onlinesessions/" class="btn btn-danger" role="button">Online Sessions</a></p>
+          <div class="professional-nav">
+  <a href="/yaheya/" class="nav-link">Summary</a>
+  <a href="/highlights/" class="nav-link">Highlights</a>
+  <a href="/education/" class="nav-link">Education</a>
+  <a href="/conferences/" class="nav-link active">Conferences</a>
+  <a href="/onlinesessions/" class="nav-link">Online Sessions</a>
+</div>
 
 <h2 class="relative group">Conferences
     <div id="conferences" class="anchor"></div>

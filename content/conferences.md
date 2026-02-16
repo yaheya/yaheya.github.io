@@ -6,7 +6,13 @@ aliases = ["about-me", "about-pulse", "pulse"]
 author = "Yaheya Quazi"
 +++
 
-<a href="/yaheya/" class="btn btn-info" role="button">Summary</a> <a href="/highlights/" class="btn btn-success" role="button">Highlights</a> <a href="/education/" class="btn btn-warning" role="button">Education</a> <a href="/conferences/" class="btn btn-secondary.disabled" role="button">Conferences</a> <a href="/onlinesessions/" class="btn btn-danger" role="button">Online Sessions</a>
+<div class="professional-nav">
+  <a href="/yaheya/" class="nav-link">Summary</a>
+  <a href="/highlights/" class="nav-link">Highlights</a>
+  <a href="/education/" class="nav-link">Education</a>
+  <a href="/conferences/" class="nav-link active">Conferences</a>
+  <a href="/onlinesessions/" class="nav-link">Online Sessions</a>
+</div>
 
 ## Conferences
 

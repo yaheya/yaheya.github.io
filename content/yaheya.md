@@ -6,7 +6,14 @@ aliases = ["about-me", "about-pulse", "pulse"]
 author = "Yaheya Quazi"
 +++
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<a href="/yaheya/" class="btn btn-info.disabled" role="button">Summary</a> <a href="/highlights/" class="btn btn-success" role="button">Highlights</a> <a href="/education/" class="btn btn-warning" role="button">Education</a> <a href="/conferences/" class="btn btn-secondary" role="button">Conferences</a> <a href="/onlinesessions/" class="btn btn-danger" role="button">Online Sessions</a>
+
+<div class="professional-nav">
+  <a href="/yaheya/" class="nav-link active">Summary</a>
+  <a href="/highlights/" class="nav-link">Highlights</a>
+  <a href="/education/" class="nav-link">Education</a>
+  <a href="/conferences/" class="nav-link">Conferences</a>
+  <a href="/onlinesessions/" class="nav-link">Online Sessions</a>
+</div>
 
 ## Summary
 
