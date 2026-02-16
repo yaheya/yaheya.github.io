@@ -30,7 +30,7 @@ googleAnalytics = "G-319722685"
   subject = "subjects"
 
 [sitemap]
-  changefreq = 'weekly'
+googleAnalytics = "G-CVCKDRP7SZ"
   filename = 'sitemap.xml'
   priority = 0.5
 

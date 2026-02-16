@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bedrock on  </title>
-    <link>https://yaheya.com/tags/bedrock/</link>
+    <link>http://localhost:1313/tags/bedrock/</link>
     <description>Recent content in Bedrock on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 Yaheya Quazi</copyright>
-    <lastBuildDate>Tue, 07 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://yaheya.com/tags/bedrock/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bedrock/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bedrock&#39;s Game Changer: Why Cross-Region LLM Inference is a Must-Have</title>
-      <link>https://yaheya.com/post/bedrock/</link>
+      <link>http://localhost:1313/post/bedrock/</link>
       <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://yaheya.com/post/bedrock/</guid>
+      <guid>http://localhost:1313/post/bedrock/</guid>
       <description>&lt;p&gt;As Chief Software Architect at UC Santa Barbara, I focus on integrating cutting-edge cloud features like AWS Bedrock. For enterprise LLM deployment, we must solve three non-negotiables: latency, data gravity, and resiliency.&lt;/p&gt;</description>
       
     </item>
