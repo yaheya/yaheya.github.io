@@ -4,20 +4,16 @@
     <title>Philosophy on  </title>
     <link>http://localhost:57973/tags/philosophy/</link>
     <description>Recent content in Philosophy on  </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© 2026 Yaheya Quazi</copyright>
-    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:57973/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:57973/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My reflections on Suratul Taha</title>
       <link>http://localhost:57973/post/taha/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:57973/post/taha/</guid>
       <description>&lt;p&gt;This post is different than what I have usually post.&lt;/p&gt;&#xA;&lt;p&gt;The sura is Taha in Quran, and the sura summarizes the entire adventure when Allah appeared to Prophet Musa in the holy mountains of Tuwa.&lt;/p&gt;</description>
-      
     </item>
-    
   </channel>
 </rss>

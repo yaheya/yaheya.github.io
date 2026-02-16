@@ -4,20 +4,16 @@
     <title>Hulu on  </title>
     <link>http://localhost:57973/tags/hulu/</link>
     <description>Recent content in Hulu on  </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© 2026 Yaheya Quazi</copyright>
-    <lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:57973/tags/hulu/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:57973/tags/hulu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Movies/Shows I recommend - Hulu</title>
       <link>http://localhost:57973/post/movies/</link>
       <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:57973/post/movies/</guid>
       <description>&lt;p&gt;This post is for those who love movies and shows like me. I will try to post rare finds that are not always 100% scoring in rotten tomatoes nevertheless in my opinion well worth it to watch. Today&amp;rsquo;s post can all be viewed at Hulu.&lt;/p&gt;</description>
-      
     </item>
-    
   </channel>
 </rss>

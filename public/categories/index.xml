@@ -4,10 +4,8 @@
     <title>Categories on  </title>
     <link>http://localhost:57973/categories/</link>
     <description>Recent content in Categories on  </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© 2026 Yaheya Quazi</copyright>
     <atom:link href="http://localhost:57973/categories/index.xml" rel="self" type="application/rss+xml" />
-    
   </channel>
 </rss>
