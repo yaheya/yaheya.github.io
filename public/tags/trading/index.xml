@@ -2,239 +2,239 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trading on  </title>
-    <link>http://localhost:1313/tags/trading/</link>
+    <link>http://localhost:57973/tags/trading/</link>
     <description>Recent content in Trading on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 Yaheya Quazi</copyright>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/trading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:57973/tags/trading/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Various Trading Tools/Techniques</title>
-      <link>http://localhost:1313/post/trade-technique/</link>
+      <link>http://localhost:57973/post/trade-technique/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/trade-technique/</guid>
+      <guid>http://localhost:57973/post/trade-technique/</guid>
       <description>&lt;p&gt;This post is to introduce to you various Trading Tools and Techniques that may be helpful to you. So let&amp;rsquo;s get on with the list.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;VIX&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 08-22-2022</title>
-      <link>http://localhost:1313/post/closing-bell-08222022/</link>
+      <link>http://localhost:57973/post/closing-bell-08222022/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-08222022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-08222022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;A disastrous day and has been for almost a week now for all indices. S&amp;amp;P dropped a solid 2.14 percent. Vis spiked up 15.53 percent.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Strategy&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cash out for next moderate/severe inflation (2023 most likely)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;News&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 08-17-2022</title>
-      <link>http://localhost:1313/post/closing-bell-08172022/</link>
+      <link>http://localhost:57973/post/closing-bell-08172022/</link>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-08172022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-08172022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;33,980.32&lt;/td&gt;&#xA;        &lt;td&gt;-180.25&lt;/td&gt;&#xA;        &lt;td&gt;-0.69&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;4,274.04&lt;/td&gt;&#xA;        &lt;td&gt;-32.31&lt;/td&gt;&#xA;        &lt;td&gt;-0.84&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;12,938.12&lt;/td&gt;&#xA;        &lt;td&gt;-92.37&lt;/td&gt;&#xA;        &lt;td&gt;-0.81&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,987.31&lt;/td&gt;&#xA;        &lt;td&gt;-5.96&lt;/td&gt;&#xA;        &lt;td&gt;-0.34&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;19.90&lt;/td&gt;&#xA;        &lt;td&gt;1.07&lt;/td&gt;&#xA;        &lt;td&gt;4.42&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;After almost a month break, I am back writing my closing bells post. Work and personal commitments kept me writing these posts regularly.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 07-18-2022</title>
-      <link>http://localhost:1313/post/closing-bell-07182022/</link>
+      <link>http://localhost:57973/post/closing-bell-07182022/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-07182022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-07182022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;31,072.61&lt;/td&gt;&#xA;        &lt;td&gt;-215.65&lt;/td&gt;&#xA;        &lt;td&gt;-0.69&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,830.85&lt;/td&gt;&#xA;        &lt;td&gt;-32.31&lt;/td&gt;&#xA;        &lt;td&gt;-0.84&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,360.05&lt;/td&gt;&#xA;        &lt;td&gt;-92.37&lt;/td&gt;&#xA;        &lt;td&gt;-0.81&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,738.42&lt;/td&gt;&#xA;        &lt;td&gt;-5.96&lt;/td&gt;&#xA;        &lt;td&gt;-0.34&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;25.30&lt;/td&gt;&#xA;        &lt;td&gt;1.07&lt;/td&gt;&#xA;        &lt;td&gt;4.42&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;What a turn of events. Dow up 350 plus in the early trading, only to close -216 at the closing. All major indices gave up their gains and went into solid red. VIX edged up almost 5 percent. At the time of writing this post, all indices futures are flat.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 07-15-2022</title>
-      <link>http://localhost:1313/post/closing-bell-07152022/</link>
+      <link>http://localhost:57973/post/closing-bell-07152022/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-07152022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-07152022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;31,288.26&lt;/td&gt;&#xA;        &lt;td&gt;-192.51&lt;/td&gt;&#xA;        &lt;td&gt;-0.62&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,863.16&lt;/td&gt;&#xA;        &lt;td&gt;72.78&lt;/td&gt;&#xA;        &lt;td&gt;1.92&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,452.42&lt;/td&gt;&#xA;        &lt;td&gt;201.24&lt;/td&gt;&#xA;        &lt;td&gt;1.79&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,744.37&lt;/td&gt;&#xA;        &lt;td&gt;36.87&lt;/td&gt;&#xA;        &lt;td&gt;2.16&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;24.23&lt;/td&gt;&#xA;        &lt;td&gt;-2.17&lt;/td&gt;&#xA;        &lt;td&gt;-8.22&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;I have taken few days break from writing my closing bell summary. Many things have happened in the last few days, unfortunately market taking a turn for the worst. All indices were mostly negative.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 07-12-2022</title>
-      <link>http://localhost:1313/post/closing-bell-07122022/</link>
+      <link>http://localhost:57973/post/closing-bell-07122022/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-07122022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-07122022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;30,981.33&lt;/td&gt;&#xA;        &lt;td&gt;-192.51&lt;/td&gt;&#xA;        &lt;td&gt;-0.62&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,818.80&lt;/td&gt;&#xA;        &lt;td&gt;-35.63&lt;/td&gt;&#xA;        &lt;td&gt;-0.92&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,364.73&lt;/td&gt;&#xA;        &lt;td&gt;-107.87&lt;/td&gt;&#xA;        &lt;td&gt;-0.95&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,728.18&lt;/td&gt;&#xA;        &lt;td&gt;-3.83&lt;/td&gt;&#xA;        &lt;td&gt;-0.22&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;27.29&lt;/td&gt;&#xA;        &lt;td&gt;1.12&lt;/td&gt;&#xA;        &lt;td&gt;4.28&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;Yet another red day - VERY red day I should add. All eyes are on tomorrow&amp;rsquo;s CPI report. I think market is pricing in a very bad news. I can&amp;rsquo;t believe Powell fooled us stating &amp;ldquo;Inflation is transitory&amp;rdquo;. What happened to the &amp;ldquo;transition&amp;rdquo;? It feels like the inflation is here to stay.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 07-11-2022</title>
-      <link>http://localhost:1313/post/closing-bell-07112022/</link>
+      <link>http://localhost:57973/post/closing-bell-07112022/</link>
       <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-07112022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-07112022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;31,173.84&lt;/td&gt;&#xA;        &lt;td&gt;-164.31&lt;/td&gt;&#xA;        &lt;td&gt;-0.52&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,854.43&lt;/td&gt;&#xA;        &lt;td&gt;-44.95&lt;/td&gt;&#xA;        &lt;td&gt;-1.15&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,372.60&lt;/td&gt;&#xA;        &lt;td&gt;-262.71&lt;/td&gt;&#xA;        &lt;td&gt;-2.26&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,732.01&lt;/td&gt;&#xA;        &lt;td&gt;-37.36&lt;/td&gt;&#xA;        &lt;td&gt;-2.11&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;26.17&lt;/td&gt;&#xA;        &lt;td&gt;1.53&lt;/td&gt;&#xA;        &lt;td&gt;6.21&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;Massive red day - S&amp;amp;P given up almost all the gains from the week prior. It appears, the market takes one step forward two step backward; I don&amp;rsquo;t see how it may change any time soon. &lt;a href=&#34;../glosarry&#34; &gt;Vix&lt;/a&gt; went up more than 6 percent.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 07-08-2022</title>
-      <link>http://localhost:1313/post/closing-bell-07082022/</link>
+      <link>http://localhost:57973/post/closing-bell-07082022/</link>
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-07082022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-07082022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;31,338.15&lt;/td&gt;&#xA;        &lt;td&gt;-46.40&lt;/td&gt;&#xA;        &lt;td&gt;-0.15&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,899.38&lt;/td&gt;&#xA;        &lt;td&gt;-3.24&lt;/td&gt;&#xA;        &lt;td&gt;-0.08&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,635.31&lt;/td&gt;&#xA;        &lt;td&gt;13.96&lt;/td&gt;&#xA;        &lt;td&gt;0.12&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,769.36&lt;/td&gt;&#xA;        &lt;td&gt;-0.24&lt;/td&gt;&#xA;        &lt;td&gt;-0.01&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;24.64&lt;/td&gt;&#xA;        &lt;td&gt;-1.44&lt;/td&gt;&#xA;        &lt;td&gt;-5.52&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;Volatile day with essentially flat market. All indices had an awesome week. Better than expected job data eased investors mind of recession. I still think we are either already in one or moderate recession is unavoidable.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 07-07-2022</title>
-      <link>http://localhost:1313/post/closing-bell-07072022/</link>
+      <link>http://localhost:57973/post/closing-bell-07072022/</link>
       <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-07072022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-07072022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;31,384.55&lt;/td&gt;&#xA;        &lt;td&gt;346.87&lt;/td&gt;&#xA;        &lt;td&gt;1.12&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,902.62&lt;/td&gt;&#xA;        &lt;td&gt;57.54&lt;/td&gt;&#xA;        &lt;td&gt;1.50&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,621.35&lt;/td&gt;&#xA;        &lt;td&gt;259.49&lt;/td&gt;&#xA;        &lt;td&gt;2.28&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,769.60&lt;/td&gt;&#xA;        &lt;td&gt;42.06&lt;/td&gt;&#xA;        &lt;td&gt;2.43&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;26.08&lt;/td&gt;&#xA;        &lt;td&gt;-0.65&lt;/td&gt;&#xA;        &lt;td&gt;-2.43&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;A massive green day today - finally! All indices are up and &lt;a href=&#34;../glossary&#34; &gt;VIX&lt;/a&gt; dropping. China considers massive 250 billion dollar stimulus with historic bond sales. This news helped various chinese and us stocks that have business in China such as Tesla.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 07-06-2022</title>
-      <link>http://localhost:1313/post/closing-bell-07062022/</link>
+      <link>http://localhost:57973/post/closing-bell-07062022/</link>
       <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-07062022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-07062022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;31,037.68&lt;/td&gt;&#xA;        &lt;td&gt;69.86&lt;/td&gt;&#xA;        &lt;td&gt;0.23&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,845.08&lt;/td&gt;&#xA;        &lt;td&gt;13.69&lt;/td&gt;&#xA;        &lt;td&gt;0.36&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,361.85&lt;/td&gt;&#xA;        &lt;td&gt;39.61&lt;/td&gt;&#xA;        &lt;td&gt;0.35&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,727.55&lt;/td&gt;&#xA;        &lt;td&gt;-13.78&lt;/td&gt;&#xA;        &lt;td&gt;-0.79&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;26.73&lt;/td&gt;&#xA;        &lt;td&gt;-0.81&lt;/td&gt;&#xA;        &lt;td&gt;-2.94&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;So this is the trend, deep red in the morning, ends green at the end. I am not complaining, but just stating that volatility is at its worst or so it seems. All major indexes end up in green territory. Russell 2000 was down which measures growth sectors. VIX dropped another 3 percent and that is great.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 07-05-2022</title>
-      <link>http://localhost:1313/post/closing-bell-07052022/</link>
+      <link>http://localhost:57973/post/closing-bell-07052022/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-07052022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-07052022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;30,967.82&lt;/td&gt;&#xA;        &lt;td&gt;-129.44&lt;/td&gt;&#xA;        &lt;td&gt;-0.42&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,831.39&lt;/td&gt;&#xA;        &lt;td&gt;6.06&lt;/td&gt;&#xA;        &lt;td&gt;0.16&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,322.24&lt;/td&gt;&#xA;        &lt;td&gt;194.40&lt;/td&gt;&#xA;        &lt;td&gt;1.75&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,741.33&lt;/td&gt;&#xA;        &lt;td&gt;13.57&lt;/td&gt;&#xA;        &lt;td&gt;0.79&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;27.54&lt;/td&gt;&#xA;        &lt;td&gt;0.01&lt;/td&gt;&#xA;        &lt;td&gt;0.04&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;The roller coaster ride of the market is worst than the rides in Magic Mountain! Dow Jones had almost 700 point drop but recovered most of it and closed down 0.42%. S&amp;amp;P had a similar effect, it closed positive. Nasdaq had a solid day with almost 2 percent gain. &lt;a href=&#34;../glossary&#34; &gt;VIX&lt;/a&gt; stayed stable.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Trading Posts : Glossary</title>
-      <link>http://localhost:1313/post/glossary/</link>
+      <link>http://localhost:57973/post/glossary/</link>
       <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/glossary/</guid>
-      <description>&lt;p&gt;This post will serve as the references for terms that I use in my &lt;a href=&#34;http://localhost:1313/tags/trading/&#34; &gt;trading&lt;/a&gt; posts.&lt;/p&gt;</description>
+      <guid>http://localhost:57973/post/glossary/</guid>
+      <description>&lt;p&gt;This post will serve as the references for terms that I use in my &lt;a href=&#34;http://localhost:57973/tags/trading/&#34; &gt;trading&lt;/a&gt; posts.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 07-01-2022</title>
-      <link>http://localhost:1313/post/closing-bell-07012022/</link>
+      <link>http://localhost:57973/post/closing-bell-07012022/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-07012022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-07012022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;31,097.26&lt;/td&gt;&#xA;        &lt;td&gt;-253.88&lt;/td&gt;&#xA;        &lt;td&gt;1.05&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,825.33&lt;/td&gt;&#xA;        &lt;td&gt;-33.45&lt;/td&gt;&#xA;        &lt;td&gt;1.06&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,127.85&lt;/td&gt;&#xA;        &lt;td&gt;-149.16&lt;/td&gt;&#xA;        &lt;td&gt;0.90&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,727.76&lt;/td&gt;&#xA;        &lt;td&gt;19.77&lt;/td&gt;&#xA;        &lt;td&gt;1.16&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;26.70&lt;/td&gt;&#xA;        &lt;td&gt;-2.01&lt;/td&gt;&#xA;        &lt;td&gt;7.00&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;There is a saying - all well those ends well. We see that in the market today. In a highly volatile market, with swings of almost 600 points in Dow. At the end all indices end up higher almost one percent. &lt;a href=&#34;../glossary&#34; &gt;VIX&lt;/a&gt; dropped below 28 with 7 percent decline, which indicates general &lt;a href=&#34;../glossary&#34; &gt;FUD&lt;/a&gt; in market is stabilizing.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 6-30-2022</title>
-      <link>http://localhost:1313/post/closing-bell-06302022/</link>
+      <link>http://localhost:57973/post/closing-bell-06302022/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-06302022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-06302022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;30,775.43&lt;/td&gt;&#xA;        &lt;td&gt;-253.88&lt;/td&gt;&#xA;        &lt;td&gt;-0.82&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,785.38&lt;/td&gt;&#xA;        &lt;td&gt;-33.45&lt;/td&gt;&#xA;        &lt;td&gt;-0.88&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,028.74&lt;/td&gt;&#xA;        &lt;td&gt;-149.16&lt;/td&gt;&#xA;        &lt;td&gt;-1.33&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,707.99&lt;/td&gt;&#xA;        &lt;td&gt;-11.38&lt;/td&gt;&#xA;        &lt;td&gt;-0.96&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;28.60&lt;/td&gt;&#xA;        &lt;td&gt;0.44&lt;/td&gt;&#xA;        &lt;td&gt;1.86&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;Stock market closes with yet another red day. The market’s worst first half in 50 years. This is definitely something to be worried about and not just general &lt;a href=&#34;../glossary&#34; &gt;FUD&lt;/a&gt;. Feds are determined to get inflation numbers down, however, the persistent inflation is here to stay at least for the short term. War in Ukraine is never ending or so it seems. Oil prices inched up again today.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 6-29-2022</title>
-      <link>http://localhost:1313/post/closing-bell-06292022/</link>
+      <link>http://localhost:57973/post/closing-bell-06292022/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-06292022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-06292022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;31,029.31&lt;/td&gt;&#xA;        &lt;td&gt;82.32&lt;/td&gt;&#xA;        &lt;td&gt;0.27&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,818.83&lt;/td&gt;&#xA;        &lt;td&gt;-2.72&lt;/td&gt;&#xA;        &lt;td&gt;-0.07&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,177.89&lt;/td&gt;&#xA;        &lt;td&gt;-3.65&lt;/td&gt;&#xA;        &lt;td&gt;-0.03&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,719.37&lt;/td&gt;&#xA;        &lt;td&gt;-24.79&lt;/td&gt;&#xA;        &lt;td&gt;-1.86&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;28.16&lt;/td&gt;&#xA;        &lt;td&gt;0.20&lt;/td&gt;&#xA;        &lt;td&gt;-0.71&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;A volatile day. Market is giving up slowly all the gains from last week.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 6-28-2022</title>
-      <link>http://localhost:1313/post/closing-bell-06282022/</link>
+      <link>http://localhost:57973/post/closing-bell-06282022/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-06282022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-06282022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;30,946.99&lt;/td&gt;&#xA;        &lt;td&gt;-491.27&lt;/td&gt;&#xA;        &lt;td&gt;-1.56&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,821.55&lt;/td&gt;&#xA;        &lt;td&gt;-78.56&lt;/td&gt;&#xA;        &lt;td&gt;-2.01&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,181.54&lt;/td&gt;&#xA;        &lt;td&gt;-343.01&lt;/td&gt;&#xA;        &lt;td&gt;-2.98&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,738.84&lt;/td&gt;&#xA;        &lt;td&gt;-32.90&lt;/td&gt;&#xA;        &lt;td&gt;-1.86&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;28.36&lt;/td&gt;&#xA;        &lt;td&gt;1.41&lt;/td&gt;&#xA;        &lt;td&gt;5.23&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;Massive red days are back! All indices are in deep red territory with &lt;a href=&#34;../glossary&#34; &gt;VIX&lt;/a&gt; surging back up above 28 again. Cathie Wood believes US is already in a recession. I think as  the month June ends and the market wraps up one of the worst six months of the year in stock market history, we can start to see some uptrend.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 6-27-2022</title>
-      <link>http://localhost:1313/post/closing-bell-06272022/</link>
+      <link>http://localhost:57973/post/closing-bell-06272022/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-06272022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-06272022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;31,438.26&lt;/td&gt;&#xA;        &lt;td&gt;-62.42&lt;/td&gt;&#xA;        &lt;td&gt;-0.20&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,900.11&lt;/td&gt;&#xA;        &lt;td&gt;-11.63&lt;/td&gt;&#xA;        &lt;td&gt;-0.30&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,524.55&lt;/td&gt;&#xA;        &lt;td&gt;-83.07&lt;/td&gt;&#xA;        &lt;td&gt;-0.72&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,771.74&lt;/td&gt;&#xA;        &lt;td&gt;6.01&lt;/td&gt;&#xA;        &lt;td&gt;0.34&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;26.95&lt;/td&gt;&#xA;        &lt;td&gt;-0.28&lt;/td&gt;&#xA;        &lt;td&gt;-1.03&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;Not a green day but not that red either - which is surprising. A big run on Friday and last week, one would assume a massive pull back today - did not happen. Definitely a good sign. &lt;a href=&#34;../glossary&#34; &gt;Russel 2K&lt;/a&gt; ended up green, which is usually indicator for the growth stocks. Read the following this weekend, wanted to share -&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 6-24-2022</title>
-      <link>http://localhost:1313/post/closing-bell-06242022/</link>
+      <link>http://localhost:57973/post/closing-bell-06242022/</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-06242022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-06242022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;31,500.68&lt;/td&gt;&#xA;        &lt;td&gt;832.32&lt;/td&gt;&#xA;        &lt;td&gt;2.68&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,911.74&lt;/td&gt;&#xA;        &lt;td&gt;375.43&lt;/td&gt;&#xA;        &lt;td&gt;3.34&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,607.62&lt;/td&gt;&#xA;        &lt;td&gt;179.11&lt;/td&gt;&#xA;        &lt;td&gt;1.62&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,765.74&lt;/td&gt;&#xA;        &lt;td&gt;54.07&lt;/td&gt;&#xA;        &lt;td&gt;3.16&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;27.23&lt;/td&gt;&#xA;        &lt;td&gt;-1.82&lt;/td&gt;&#xA;        &lt;td&gt;-6.27&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;Well I am happy to report my prediction for the day of the market was absolutely wrong. All major indices were massively green for the day. Solid gains in S&amp;amp;P, Dow and Nasdaq - what a relief.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 6-23-2022</title>
-      <link>http://localhost:1313/post/closing-bell-06232022/</link>
+      <link>http://localhost:57973/post/closing-bell-06232022/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-06232022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-06232022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;30,677.36&lt;/td&gt;&#xA;        &lt;td&gt;194.23&lt;/td&gt;&#xA;        &lt;td&gt;0.64&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,795.73&lt;/td&gt;&#xA;        &lt;td&gt;35.84&lt;/td&gt;&#xA;        &lt;td&gt;0.95&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,232.19&lt;/td&gt;&#xA;        &lt;td&gt;179.11&lt;/td&gt;&#xA;        &lt;td&gt;1.62&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,711.06&lt;/td&gt;&#xA;        &lt;td&gt;20.95&lt;/td&gt;&#xA;        &lt;td&gt;1.25&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;29.03&lt;/td&gt;&#xA;        &lt;td&gt;0.10&lt;/td&gt;&#xA;        &lt;td&gt;0.35&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;What a volatile market! I am glad all indices ended up solid green at the closing bell. &lt;a href=&#34;../glossary&#34; &gt;VIX&lt;/a&gt; continues to go down and that is the actual progress. Bond yields slip that is generally good for the market.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 6-22-2022</title>
-      <link>http://localhost:1313/post/closing-bell-06222022/</link>
+      <link>http://localhost:57973/post/closing-bell-06222022/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-06222022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-06222022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;30,483.13&lt;/td&gt;&#xA;        &lt;td&gt;-47.12&lt;/td&gt;&#xA;        &lt;td&gt;-0.15&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,759.89&lt;/td&gt;&#xA;        &lt;td&gt;-4.90&lt;/td&gt;&#xA;        &lt;td&gt;-0.13&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,053.08&lt;/td&gt;&#xA;        &lt;td&gt;-16.22&lt;/td&gt;&#xA;        &lt;td&gt;-0.15&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,690.28&lt;/td&gt;&#xA;        &lt;td&gt;-3.75&lt;/td&gt;&#xA;        &lt;td&gt;-0.22&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;28.36&lt;/td&gt;&#xA;        &lt;td&gt;1.41&lt;/td&gt;&#xA;        &lt;td&gt;5.23&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;NO SURPRISE! Red day, although mid trading day all indexes were green but gave up all the gains by the closing bell. I am glad at least, the down turn is small essentially flat. &lt;a href=&#34;../glossary&#34; &gt;VIX&lt;/a&gt; decreased, which is good. Ideally, we want to see it below 20. We have a long way to go up there!&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 6-21-2022</title>
-      <link>http://localhost:1313/post/closing-bell-06212022/</link>
+      <link>http://localhost:57973/post/closing-bell-06212022/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-06212022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-06212022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;30,530.25&lt;/td&gt;&#xA;        &lt;td&gt;641.47&lt;/td&gt;&#xA;        &lt;td&gt;2.15&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,764.79&lt;/td&gt;&#xA;        &lt;td&gt;89.95&lt;/td&gt;&#xA;        &lt;td&gt;2.45&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;11,069.30&lt;/td&gt;&#xA;        &lt;td&gt;270.95&lt;/td&gt;&#xA;        &lt;td&gt;2.51&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,694.03&lt;/td&gt;&#xA;        &lt;td&gt;28.34&lt;/td&gt;&#xA;        &lt;td&gt;1.70&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;30.19&lt;/td&gt;&#xA;        &lt;td&gt;-0.84&lt;/td&gt;&#xA;        &lt;td&gt;-2.71&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;A Very green day and what a relief! All indexes are showing solid gains. The million dollar question is - the gain is here to stay?&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 6-17-2022</title>
-      <link>http://localhost:1313/post/closing-bell-06172022/</link>
+      <link>http://localhost:57973/post/closing-bell-06172022/</link>
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-06172022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-06172022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;29,888.78&lt;/td&gt;&#xA;        &lt;td&gt;62.46&lt;/td&gt;&#xA;        &lt;td&gt;-0.13&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,674.84&lt;/td&gt;&#xA;        &lt;td&gt;8.07&lt;/td&gt;&#xA;        &lt;td&gt;-0.22&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;10,789.35&lt;/td&gt;&#xA;        &lt;td&gt;152.25&lt;/td&gt;&#xA;        &lt;td&gt;1.43&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,665.69&lt;/td&gt;&#xA;        &lt;td&gt;15.86&lt;/td&gt;&#xA;        &lt;td&gt;0.96&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;27.23&lt;/td&gt;&#xA;        &lt;td&gt;-1.82&lt;/td&gt;&#xA;        &lt;td&gt;-6.27&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;As predicted market ended up closing green - somewhat!. Nasdaq which had taken the worst beating yesterday went up the highest. However, after a brutal day yesterday, one should expect a very green day - that was not the case. DJI essentially closed flat while S&amp;amp;P marginally up. I follow VLO which had a nice run and dropped a bit in the past few weeks.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Closing Bell 6-16-2022</title>
-      <link>http://localhost:1313/post/closing-bell-06162022/</link>
+      <link>http://localhost:57973/post/closing-bell-06162022/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/closing-bell-06162022/</guid>
+      <guid>http://localhost:57973/post/closing-bell-06162022/</guid>
       <description>&lt;h3&gt;Market Summary&lt;/h3&gt;&#xA;&lt;table class=&#34;table table-dark&#34;&gt;&#xA;    &lt;thead&gt;&#xA;         &lt;tr&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Index&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Value&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Change&lt;/th&gt;&#xA;        &lt;th scope=&#34;col&#34;&gt;Percentage&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &lt;/thead&gt;&#xA;    &lt;tbody&gt;&#xA;      &#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Dow&lt;/td&gt;&#xA;        &lt;td&gt;29,927.07&lt;/td&gt;&#xA;        &lt;td&gt;-741.00&lt;/td&gt;&#xA;        &lt;td&gt;-2.42&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;S&amp;amp;P 500&lt;/td&gt;&#xA;        &lt;td&gt;3,666.77&lt;/td&gt;&#xA;        &lt;td&gt;-123.22&lt;/td&gt;&#xA;        &lt;td&gt;-3.25&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Nasdaq&lt;/td&gt;&#xA;        &lt;td&gt;10,646.10&lt;/td&gt;&#xA;        &lt;td&gt;-453.00&lt;/td&gt;&#xA;        &lt;td&gt;-4.08&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;Russel 2K&lt;/td&gt;&#xA;        &lt;td&gt;1,649.84&lt;/td&gt;&#xA;        &lt;td&gt;-81.30&lt;/td&gt;&#xA;        &lt;td&gt;-4.70&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;      &lt;tr&gt;&#xA;        &lt;td&gt;VIX&lt;/td&gt;&#xA;        &lt;td&gt;32.95&lt;/td&gt;&#xA;        &lt;td&gt;3.33&lt;/td&gt;&#xA;        &lt;td&gt;11.24&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &#xA;     &lt;/tbody&gt;&#xA;  &lt;/table&gt;&#xA;&#xA;&lt;p&gt;An overall extremely down market today. Yesterday&amp;rsquo;s gain was completely wiped and then added to some more losses. DJIA, Nasdaq hit fresh new lows. All investors want to know, is this the bottom or there are still room to go down! &lt;a href=&#34;../glossary&#34; &gt;VIX&lt;/a&gt; is up almost 11.25 %. This indicates there is FUD (Fear Uncertainty Doubt) exists. In my personal opinion, &lt;a href=&#34;../glossary&#34; &gt;VIX&lt;/a&gt; &amp;gt;= 28 indicates extremely high buying opportunity.&lt;/p&gt;</description>
       
     </item>
