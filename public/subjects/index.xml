@@ -4,8 +4,10 @@
     <title>Subjects on  </title>
     <link>http://localhost:1313/subjects/</link>
     <description>Recent content in Subjects on  </description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© 2026 Yaheya Quazi</copyright>
     <atom:link href="http://localhost:1313/subjects/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>
