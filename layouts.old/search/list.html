@@ -6,4 +6,42 @@
         Enter a keyword above to search this site.
     </li>
 </ul>
+<script>
+// Simple client-side search using public/index.json
+document.addEventListener('DOMContentLoaded', function() {
+    const form = document.getElementById('search');
+    const input = document.getElementById('search-input');
+    const results = document.getElementById('results');
+    let indexData = [];
+
+    // Load search index
+    fetch('/index.json')
+        .then(res => res.json())
+        .then(data => { indexData = data; });
+
+    form.addEventListener('submit', function(e) {
+        e.preventDefault();
+        const query = input.value.trim().toLowerCase();
+        results.innerHTML = '';
+        if (!query) {
+            results.innerHTML = '<li>Enter a keyword above to search this site.</li>';
+            return;
+        }
+        const matches = indexData.filter(item =>
+            item.title && item.title.toLowerCase().includes(query) ||
+            item.summary && item.summary.toLowerCase().includes(query) ||
+            item.content && item.content.toLowerCase().includes(query)
+        );
+        if (matches.length === 0) {
+            results.innerHTML = '<li>No results found.</li>';
+            return;
+        }
+        matches.forEach(item => {
+            const li = document.createElement('li');
+            li.innerHTML = `<a href="${item.permalink}">${item.title}</a><br><small>${item.summary || ''}</small>`;
+            results.appendChild(li);
+        });
+    });
+});
+</script>
 {{ end }}

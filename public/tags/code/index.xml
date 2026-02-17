@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code on  </title>
-    <link>http://localhost:57973/tags/code/</link>
+    <link>http://localhost:1313/tags/code/</link>
     <description>Recent content in Code on  </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:57973/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beyond the Algorithm: Why I Built igluon.org for the @igluonvinuls Community</title>
-      <link>http://localhost:57973/post/igluon-org/</link>
+      <link>http://localhost:1313/post/igluon-org/</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57973/post/igluon-org/</guid>
+      <guid>http://localhost:1313/post/igluon-org/</guid>
       <description>&lt;h1 id=&#34;beyond-the-algorithm-why-i-built-igluonorg-for-the-igluonvinuls-community&#34;&gt;Beyond the Algorithm: Why I Built igluon.org for the @igluonvinuls Community&lt;/h1&gt;&#xA;&lt;p&gt;I’ll be honest: I am fed up with the &amp;ldquo;YouTube Maze.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;As a creator, I want my content to be accessible, organized, and easy to find. But as a user, I’ve realized that YouTube’s interface has become a barrier. Between the cluttered sidebars, the broken playlist navigation, and an algorithm that pushes unrelated videos when you’re trying to focus, the experience of watching &lt;strong&gt;@igluonvinuls&lt;/strong&gt; wasn’t what it should be.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building Scalable and Resilient Cloud Applications</title>
-      <link>http://localhost:57973/post/cloud-native/</link>
+      <link>http://localhost:1313/post/cloud-native/</link>
       <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57973/post/cloud-native/</guid>
+      <guid>http://localhost:1313/post/cloud-native/</guid>
       <description>&lt;p&gt;I recently had the privilege of presenting to the Developer Collaboration group at UC Santa Barbara, a gathering of both Software Developers and Infrastructure Engineers.  The topic was &lt;strong&gt;Cloud Native Application Development&lt;/strong&gt;, but the underlying theme was much deeper: the urgent need to bridge the historical divide between those who write the code and those who manage the systems that run it.&lt;/p&gt;</description>
     </item>
   </channel>

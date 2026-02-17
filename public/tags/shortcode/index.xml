@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shortcode on  </title>
-    <link>http://localhost:57973/tags/shortcode/</link>
+    <link>http://localhost:1313/tags/shortcode/</link>
     <description>Recent content in Shortcode on  </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:57973/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Stock Summary ShortCode Module</title>
-      <link>http://localhost:57973/post/hugo-stock-summary-shortcode/</link>
+      <link>http://localhost:1313/post/hugo-stock-summary-shortcode/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57973/post/hugo-stock-summary-shortcode/</guid>
+      <guid>http://localhost:1313/post/hugo-stock-summary-shortcode/</guid>
       <description>&lt;p&gt;If you are a regular visitor of my site, you may have noticed, I have started posting daily closing bell stock market &lt;a href=&#34;../closing-bell-06282022&#34;&gt;summary&lt;/a&gt;. These pages proceeds with a Market index summary from that day. Let&amp;rsquo;s discuss how I put it together.&lt;/p&gt;</description>
     </item>
   </channel>

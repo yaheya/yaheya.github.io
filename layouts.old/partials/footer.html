@@ -6,4 +6,62 @@
     <p style="color:grey;">{{ .Site.Params.main.copyright | safeHTML }} Last Updated : October 5, 2025</p>
 <script src='https://cdn.jotfor.ms/agent/embedjs/0199b16de9607e49a1ac02d31878f0770fcb/embed.js'>
 </script>
+</script>
+<script>
+// Enhanced client-side search with debugging
+document.addEventListener('DOMContentLoaded', function() {
+    const form = document.getElementById('search');
+    const input = document.getElementById('search-input');
+    const results = document.getElementById('results');
+    if (!form || !input || !results) {
+        console.log('Search form or results element not found.');
+        return;
+    }
+    let indexData = [];
+    fetch('/index.json')
+        .then(res => {
+            if (!res.ok) {
+                throw new Error('Failed to load index.json');
+            }
+            return res.json();
+        })
+        .then(data => {
+            indexData = data;
+            console.log('Loaded index.json:', indexData);
+        })
+        .catch(err => {
+            results.innerHTML = '<li>Could not load search index.</li>';
+            console.error('Error loading index.json:', err);
+        });
+    form.addEventListener('submit', function(e) {
+        e.preventDefault();
+        const query = input.value.trim().toLowerCase();
+        results.innerHTML = '';
+        if (!query) {
+            results.innerHTML = '<li>Enter a keyword above to search this site.</li>';
+            return;
+        }
+        if (!indexData || indexData.length === 0) {
+            results.innerHTML = '<li>Search index is empty.</li>';
+            console.log('Search index is empty or not loaded.');
+            return;
+        }
+        const matches = indexData.filter(item =>
+            (item.title && item.title.toLowerCase().includes(query)) ||
+            (item.summary && item.summary.toLowerCase().includes(query)) ||
+            (item.content && item.content.toLowerCase().includes(query))
+        );
+        console.log('Search query:', query, 'Matches:', matches);
+        if (matches.length === 0) {
+            results.innerHTML = '<li>No results found.</li>';
+            return;
+        }
+        matches.forEach(item => {
+            const li = document.createElement('li');
+            li.innerHTML = `<a href="${item.permalink}">${item.title}</a><br><small>${item.summary || ''}</small>`;
+            results.appendChild(li);
+        });
+    });
+});
+</script>
 </footer>

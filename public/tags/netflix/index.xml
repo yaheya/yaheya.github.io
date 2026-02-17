@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Netflix on  </title>
-    <link>http://localhost:57973/tags/netflix/</link>
+    <link>http://localhost:1313/tags/netflix/</link>
     <description>Recent content in Netflix on  </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:57973/tags/netflix/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/netflix/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Movies/Shows I recommend - Netflix</title>
-      <link>http://localhost:57973/post/movies2/</link>
+      <link>http://localhost:1313/post/movies2/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57973/post/movies2/</guid>
+      <guid>http://localhost:1313/post/movies2/</guid>
       <description>&lt;p&gt;This post is for those who love movies and shows like me. I will try to post rare finds that are not always 100% scoring in rotten tomatoes nevertheless in my opinion well worth it to watch. Today&amp;rsquo;s posts can all be viewed in Netflix.&lt;/p&gt;</description>
     </item>
   </channel>
