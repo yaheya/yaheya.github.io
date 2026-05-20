@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pulse on</title><link>https://yaheya.com/</link><description>Recent content in Pulse on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2026 Yaheya Quazi</copyright><lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://yaheya.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Handoff Notes in CoPilot</title><link>https://yaheya.com/post/handoff-notes/</link><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate><guid>https://yaheya.com/post/handoff-notes/</guid><description>&lt;p&gt;A Quick post this time -&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pulse on</title><link>https://yaheya.com/</link><description>Recent content in Pulse on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2026 Yaheya Quazi</copyright><lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://yaheya.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Agentic Coding Meets Enterprise Security</title><link>https://yaheya.com/post/bedrock-claude-code-integration/</link><pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate><guid>https://yaheya.com/post/bedrock-claude-code-integration/</guid><description>&lt;h1 class="relative group"&gt;Agentic Coding Meets Enterprise Security: Deep Diving into Claude Code on Amazon Bedrock
+ &lt;div id="agentic-coding-meets-enterprise-security-deep-diving-into-claude-code-on-amazon-bedrock" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#agentic-coding-meets-enterprise-security-deep-diving-into-claude-code-on-amazon-bedrock" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;AI-powered development has evolved far beyond basic autocomplete. Tools like &lt;strong&gt;Claude Code&lt;/strong&gt;—Anthropic’s agentic command-line assistant—can actively read codebases, run tests, repair bugs, and manage Git repositories through simple natural language workflows.&lt;/p&gt;</description></item><item><title>Handoff Notes in CoPilot</title><link>https://yaheya.com/post/handoff-notes/</link><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate><guid>https://yaheya.com/post/handoff-notes/</guid><description>&lt;p&gt;A Quick post this time -&lt;/p&gt;
 &lt;p&gt;I stumbled upon a great workflow feature in Copilot today that I wanted to share.&lt;/p&gt;
 &lt;p&gt;While in a long session, Copilot suggested taking a break and offered to create a Handoff Note. This allows you to pause your work without losing the context of your discussion or code changes.&lt;/p&gt;</description></item><item><title>Beyond the Algorithm: Why I Built igluon.org for the @igluonvinuls Community</title><link>https://yaheya.com/post/igluon-org/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate><guid>https://yaheya.com/post/igluon-org/</guid><description>&lt;h1 class="relative group"&gt;Beyond the Algorithm: Why I Built igluon.org for the @igluonvinuls Community
  &lt;div id="beyond-the-algorithm-why-i-built-igluonorg-for-the-igluonvinuls-community" class="anchor"&gt;&lt;/div&gt;
@@ -978,148 +987,148 @@
 
 &lt;ul class="image-gallery"&gt;
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/Beautiful-Monkey_hu_9a7f93512bd83c2.png" title="Beautiful-Monkey" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/Beautiful-Monkey_hu_987a639c075141d1.png" alt="Beautiful-Monkey" title="Beautiful-Monkey"&gt;
+ &lt;a href="https://yaheya.com/album/Beautiful-Monkey_hu_f0093017ae446d1a.png" title="Beautiful-Monkey" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/Beautiful-Monkey_hu_af3d155599934916.png" alt="Beautiful-Monkey" title="Beautiful-Monkey"&gt;
  &lt;span&gt;Beautiful-Monkey&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/BingWallpaper_hu_8aa2bd6df5f91470.jpg" title="BingWallpaper" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/BingWallpaper_hu_9aac9fbf4f334930.jpg" alt="BingWallpaper" title="BingWallpaper"&gt;
+ &lt;a href="https://yaheya.com/album/BingWallpaper_hu_6d4fe0f5e9617581.jpg" title="BingWallpaper" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/BingWallpaper_hu_e7a1c0912d5d74c3.jpg" alt="BingWallpaper" title="BingWallpaper"&gt;
  &lt;span&gt;BingWallpaper&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-beach_hu_e2caf444644671a2.png" title="bing-beach" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-beach_hu_c3c06fbb91629612.png" alt="bing-beach" title="bing-beach"&gt;
+ &lt;a href="https://yaheya.com/album/bing-beach_hu_3a04cf199cdb902a.png" title="bing-beach" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-beach_hu_9ddc56f47aece31a.png" alt="bing-beach" title="bing-beach"&gt;
  &lt;span&gt;bing-beach&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-bear_hu_f8253b17951566a0.jpg" title="bing-bear" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-bear_hu_5502fd832199e79b.jpg" alt="bing-bear" title="bing-bear"&gt;
+ &lt;a href="https://yaheya.com/album/bing-bear_hu_8c07b7e0995fff5.jpg" title="bing-bear" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-bear_hu_8ef864b488e25aa0.jpg" alt="bing-bear" title="bing-bear"&gt;
  &lt;span&gt;bing-bear&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-black-and-white-boats_hu_992f8f472422eac3.png" title="bing-black-and-white-boats" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-black-and-white-boats_hu_b2bf152807082d1.png" alt="bing-black-and-white-boats" title="bing-black-and-white-boats"&gt;
+ &lt;a href="https://yaheya.com/album/bing-black-and-white-boats_hu_525b73b0e98d3b17.png" title="bing-black-and-white-boats" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-black-and-white-boats_hu_a6a97ae66b7efc28.png" alt="bing-black-and-white-boats" title="bing-black-and-white-boats"&gt;
  &lt;span&gt;bing-black-and-white-boats&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-brown-penguins_hu_8c86e1725b1a3641.png" title="bing-brown-penguins" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-brown-penguins_hu_6ec51c2f6c870696.png" alt="bing-brown-penguins" title="bing-brown-penguins"&gt;
+ &lt;a href="https://yaheya.com/album/bing-brown-penguins_hu_9db13c0f0f95119.png" title="bing-brown-penguins" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-brown-penguins_hu_9834ccf5f9932910.png" alt="bing-brown-penguins" title="bing-brown-penguins"&gt;
  &lt;span&gt;bing-brown-penguins&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-camel_hu_9728534f3e9a8f8d.png" title="bing-camel" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-camel_hu_5b8298f2c937674.png" alt="bing-camel" title="bing-camel"&gt;
+ &lt;a href="https://yaheya.com/album/bing-camel_hu_df80347f856696c5.png" title="bing-camel" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-camel_hu_34284936bd199f41.png" alt="bing-camel" title="bing-camel"&gt;
  &lt;span&gt;bing-camel&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-castle-reflection_hu_354cf46cf783562a.png" title="bing-castle-reflection" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-castle-reflection_hu_b30de239e77d2c91.png" alt="bing-castle-reflection" title="bing-castle-reflection"&gt;
+ &lt;a href="https://yaheya.com/album/bing-castle-reflection_hu_1d1a7d332bdd8206.png" title="bing-castle-reflection" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-castle-reflection_hu_e004be846cdd16fa.png" alt="bing-castle-reflection" title="bing-castle-reflection"&gt;
  &lt;span&gt;bing-castle-reflection&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-castle_hu_ac9cf6eabb0c213b.png" title="bing-castle" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-castle_hu_549f0d5bb4fc6c02.png" alt="bing-castle" title="bing-castle"&gt;
+ &lt;a href="https://yaheya.com/album/bing-castle_hu_66a08144db2ccff8.png" title="bing-castle" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-castle_hu_730882a44191978e.png" alt="bing-castle" title="bing-castle"&gt;
  &lt;span&gt;bing-castle&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-cave_hu_6f182b32f36cd804.png" title="bing-cave" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-cave_hu_6f22372df19f9bd5.png" alt="bing-cave" title="bing-cave"&gt;
+ &lt;a href="https://yaheya.com/album/bing-cave_hu_ea7056f81d531cbb.png" title="bing-cave" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-cave_hu_ac446cb98a3146b2.png" alt="bing-cave" title="bing-cave"&gt;
  &lt;span&gt;bing-cave&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-meadow_hu_638d2eb170b06269.png" title="bing-meadow" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-meadow_hu_ccd2b6d441f98cbd.png" alt="bing-meadow" title="bing-meadow"&gt;
+ &lt;a href="https://yaheya.com/album/bing-meadow_hu_2f81ac46b3bf33ee.png" title="bing-meadow" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-meadow_hu_de194ffc0490262.png" alt="bing-meadow" title="bing-meadow"&gt;
  &lt;span&gt;bing-meadow&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-mountain_hu_66fc6ed4c0d38275.jpg" title="bing-mountain" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-mountain_hu_5bcc2e14c565cbac.jpg" alt="bing-mountain" title="bing-mountain"&gt;
+ &lt;a href="https://yaheya.com/album/bing-mountain_hu_73477230f4b8d8c2.jpg" title="bing-mountain" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-mountain_hu_6c709252d5f53f2d.jpg" alt="bing-mountain" title="bing-mountain"&gt;
  &lt;span&gt;bing-mountain&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-ocean_hu_976e013387e14092.png" title="bing-ocean" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-ocean_hu_23c1ae476b0b3670.png" alt="bing-ocean" title="bing-ocean"&gt;
+ &lt;a href="https://yaheya.com/album/bing-ocean_hu_e98b326d28eceb17.png" title="bing-ocean" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-ocean_hu_b82cf63a448eeea9.png" alt="bing-ocean" title="bing-ocean"&gt;
  &lt;span&gt;bing-ocean&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-owl_hu_a04fed59506adc78.png" title="bing-owl" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-owl_hu_96a6cc317e7bc4d4.png" alt="bing-owl" title="bing-owl"&gt;
+ &lt;a href="https://yaheya.com/album/bing-owl_hu_94eead9985246761.png" title="bing-owl" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-owl_hu_5a24dae01ee5ec66.png" alt="bing-owl" title="bing-owl"&gt;
  &lt;span&gt;bing-owl&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-penguins_hu_9a66b07e2f7b73f4.png" title="bing-penguins" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-penguins_hu_23f66afae63dbe5f.png" alt="bing-penguins" title="bing-penguins"&gt;
+ &lt;a href="https://yaheya.com/album/bing-penguins_hu_2d207a63b0afd31f.png" title="bing-penguins" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-penguins_hu_2c461eaf6feecb7c.png" alt="bing-penguins" title="bing-penguins"&gt;
  &lt;span&gt;bing-penguins&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-river_hu_e8bd08ca2b1d3106.png" title="bing-river" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-river_hu_cdc7a49444aaddc1.png" alt="bing-river" title="bing-river"&gt;
+ &lt;a href="https://yaheya.com/album/bing-river_hu_8ccf38769e7a9fa8.png" title="bing-river" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-river_hu_c0448e473cb4ee2a.png" alt="bing-river" title="bing-river"&gt;
  &lt;span&gt;bing-river&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-rock-in-water_hu_27a44b98e0992502.png" title="bing-rock-in-water" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-rock-in-water_hu_3f8596dc960aa83d.png" alt="bing-rock-in-water" title="bing-rock-in-water"&gt;
+ &lt;a href="https://yaheya.com/album/bing-rock-in-water_hu_2ea30d86522113b2.png" title="bing-rock-in-water" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-rock-in-water_hu_f9ae3402e767022a.png" alt="bing-rock-in-water" title="bing-rock-in-water"&gt;
  &lt;span&gt;bing-rock-in-water&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-valley_hu_fe2c8e4c0ccf82c7.png" title="bing-valley" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-valley_hu_5617d20b09d0f008.png" alt="bing-valley" title="bing-valley"&gt;
+ &lt;a href="https://yaheya.com/album/bing-valley_hu_4c791d8dafc5abad.png" title="bing-valley" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-valley_hu_11dad8bfcf27515d.png" alt="bing-valley" title="bing-valley"&gt;
  &lt;span&gt;bing-valley&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-whale_hu_c36651f8799b4022.png" title="bing-whale" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-whale_hu_902c726a4a489c4f.png" alt="bing-whale" title="bing-whale"&gt;
+ &lt;a href="https://yaheya.com/album/bing-whale_hu_8553827277fac9af.png" title="bing-whale" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-whale_hu_730c502f193483ed.png" alt="bing-whale" title="bing-whale"&gt;
  &lt;span&gt;bing-whale&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bing-windmill_hu_d73e540751afeade.png" title="bing-windmill" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bing-windmill_hu_9e0807a901fb6d87.png" alt="bing-windmill" title="bing-windmill"&gt;
+ &lt;a href="https://yaheya.com/album/bing-windmill_hu_a6c6014ddd7bf377.png" title="bing-windmill" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bing-windmill_hu_90bbeaf3d5b3f65e.png" alt="bing-windmill" title="bing-windmill"&gt;
  &lt;span&gt;bing-windmill&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
 
 &lt;li&gt;
- &lt;a href="https://yaheya.com/album/bunch-of-goats-lockscreen_hu_524f0ff156ecfb71.png" title="bunch-of-goats-lockscreen" class="lightbox-image"&gt;
- &lt;img src="https://yaheya.com/album/bunch-of-goats-lockscreen_hu_476feea975abf453.png" alt="bunch-of-goats-lockscreen" title="bunch-of-goats-lockscreen"&gt;
+ &lt;a href="https://yaheya.com/album/bunch-of-goats-lockscreen_hu_114449e51a29effa.png" title="bunch-of-goats-lockscreen" class="lightbox-image"&gt;
+ &lt;img src="https://yaheya.com/album/bunch-of-goats-lockscreen_hu_805aba8d7f9835a3.png" alt="bunch-of-goats-lockscreen" title="bunch-of-goats-lockscreen"&gt;
  &lt;span&gt;bunch-of-goats-lockscreen&lt;/span&gt;
  &lt;/a&gt;
  &lt;/li&gt;
